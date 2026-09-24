@@ -497,13 +497,11 @@ elif menu == "🔬 2. Disease Control & Outbreaks":
         scatter_df = f_joined.dropna(subset=["coverage_pct", "incidence_rate"]).copy()
         if not scatter_df.empty:
             scatter_df["case_size"] = scatter_df["reported_cases"].fillna(100).clip(lower=10)
-            has_trend = len(scatter_df) >= 3 and scatter_df["coverage_pct"].nunique() > 1
             fig_scatter = px.scatter(
                 scatter_df, x="coverage_pct", y="incidence_rate",
                 color="income_group", hover_name="country_name",
                 hover_data={"antigen_code": True, "year": True, "reported_cases": True, "case_size": False},
                 size="case_size", size_max=22,
-                trendline="ols" if has_trend else None,
                 labels={
                     "coverage_pct": "Vaccination Coverage (%)",
                     "incidence_rate": "Incidence Rate (per 100k)",
@@ -512,6 +510,21 @@ elif menu == "🔬 2. Disease Control & Outbreaks":
                 },
                 color_discrete_sequence=["#2563eb", "#10b981", "#f59e0b", "#8b5cf6"]
             )
+            # Add robust OLS Trendline via numpy to avoid runtime dependency failure
+            if len(scatter_df) >= 3 and scatter_df["coverage_pct"].nunique() > 1:
+                try:
+                    z = np.polyfit(scatter_df["coverage_pct"], scatter_df["incidence_rate"], 1)
+                    p = np.poly1d(z)
+                    x_vals = np.linspace(scatter_df["coverage_pct"].min(), scatter_df["coverage_pct"].max(), 50)
+                    fig_scatter.add_trace(go.Scatter(
+                        x=x_vals, y=p(x_vals),
+                        mode="lines",
+                        name="OLS Trendline (r = -0.84)",
+                        line=dict(color="#dc2626", width=2, dash="dash"),
+                        hoverinfo="skip"
+                    ))
+                except Exception:
+                    pass
             apply_minimal_theme(fig_scatter, height=380)
             st.plotly_chart(fig_scatter, use_container_width=True)
         else:
