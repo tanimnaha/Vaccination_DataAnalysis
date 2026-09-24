@@ -1,0 +1,2026 @@
+Group,Code,Name,Year,Disease,Disease_description,Denominator,Incidence_rate
+Countries,IND,India,2010,MEASLES,Measles,"Per 100,000 population",75.24
+Countries,IND,India,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",43.4
+Countries,IND,India,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",13.22
+Countries,IND,India,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2010,POLIO,Poliomyelitis,"Per 100,000 population",23.49
+Countries,IND,India,2010,HEPB,Hepatitis B,"Per 100,000 population",66.99
+Countries,IND,India,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",149.24
+Countries,IND,India,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",210.27
+Countries,IND,India,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",274.92
+Countries,IND,India,2011,MEASLES,Measles,"Per 100,000 population",81.91
+Countries,IND,India,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",62.86
+Countries,IND,India,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",15.3
+Countries,IND,India,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",12.7
+Countries,IND,India,2011,POLIO,Poliomyelitis,"Per 100,000 population",25.69
+Countries,IND,India,2011,HEPB,Hepatitis B,"Per 100,000 population",59.21
+Countries,IND,India,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",133.37
+Countries,IND,India,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",215.18
+Countries,IND,India,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",286.89
+Countries,IND,India,2012,MEASLES,Measles,"Per 100,000 population",73.46
+Countries,IND,India,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",46.11
+Countries,IND,India,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.04
+Countries,IND,India,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2012,POLIO,Poliomyelitis,"Per 100,000 population",23.31
+Countries,IND,India,2012,HEPB,Hepatitis B,"Per 100,000 population",58.84
+Countries,IND,India,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",127.12
+Countries,IND,India,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",218.55
+Countries,IND,India,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",271.56
+Countries,IND,India,2013,MEASLES,Measles,"Per 100,000 population",66.31
+Countries,IND,India,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",47.51
+Countries,IND,India,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.82
+Countries,IND,India,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.88
+Countries,IND,India,2013,POLIO,Poliomyelitis,"Per 100,000 population",16.29
+Countries,IND,India,2013,HEPB,Hepatitis B,"Per 100,000 population",45.77
+Countries,IND,India,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",127.77
+Countries,IND,India,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",208.16
+Countries,IND,India,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",251.14
+Countries,IND,India,2014,MEASLES,Measles,"Per 100,000 population",87.41
+Countries,IND,India,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.08
+Countries,IND,India,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.03
+Countries,IND,India,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2014,POLIO,Poliomyelitis,"Per 100,000 population",6.32
+Countries,IND,India,2014,HEPB,Hepatitis B,"Per 100,000 population",48.09
+Countries,IND,India,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",124.76
+Countries,IND,India,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",190.8
+Countries,IND,India,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",244.8
+Countries,IND,India,2015,MEASLES,Measles,"Per 100,000 population",74.77
+Countries,IND,India,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",43.34
+Countries,IND,India,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",8.44
+Countries,IND,India,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2015,POLIO,Poliomyelitis,"Per 100,000 population",25.62
+Countries,IND,India,2015,HEPB,Hepatitis B,"Per 100,000 population",57.12
+Countries,IND,India,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",115.08
+Countries,IND,India,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",190.79
+Countries,IND,India,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",248.68
+Countries,IND,India,2016,MEASLES,Measles,"Per 100,000 population",56.51
+Countries,IND,India,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",29.88
+Countries,IND,India,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",14.76
+Countries,IND,India,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",2.24
+Countries,IND,India,2016,POLIO,Poliomyelitis,"Per 100,000 population",25.26
+Countries,IND,India,2016,HEPB,Hepatitis B,"Per 100,000 population",46.06
+Countries,IND,India,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",82.93
+Countries,IND,India,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",158.67
+Countries,IND,India,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",200.51
+Countries,IND,India,2017,MEASLES,Measles,"Per 100,000 population",51.76
+Countries,IND,India,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",31.65
+Countries,IND,India,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.37
+Countries,IND,India,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.84
+Countries,IND,India,2017,POLIO,Poliomyelitis,"Per 100,000 population",17.85
+Countries,IND,India,2017,HEPB,Hepatitis B,"Per 100,000 population",45.35
+Countries,IND,India,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",104.76
+Countries,IND,India,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",191.42
+Countries,IND,India,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",229.64
+Countries,IND,India,2018,MEASLES,Measles,"Per 100,000 population",54.08
+Countries,IND,India,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",32.73
+Countries,IND,India,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,IND,India,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",9.04
+Countries,IND,India,2018,POLIO,Poliomyelitis,"Per 100,000 population",16.36
+Countries,IND,India,2018,HEPB,Hepatitis B,"Per 100,000 population",51.99
+Countries,IND,India,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",98.98
+Countries,IND,India,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",156.63
+Countries,IND,India,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",208.5
+Countries,IND,India,2019,MEASLES,Measles,"Per 100,000 population",48.79
+Countries,IND,India,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.02
+Countries,IND,India,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",15.51
+Countries,IND,India,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",2.11
+Countries,IND,India,2019,POLIO,Poliomyelitis,"Per 100,000 population",22.58
+Countries,IND,India,2019,HEPB,Hepatitis B,"Per 100,000 population",45.33
+Countries,IND,India,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",86.49
+Countries,IND,India,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",148.64
+Countries,IND,India,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",187.21
+Countries,IND,India,2020,MEASLES,Measles,"Per 100,000 population",71.98
+Countries,IND,India,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",64.27
+Countries,IND,India,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",12.6
+Countries,IND,India,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2020,POLIO,Poliomyelitis,"Per 100,000 population",7.77
+Countries,IND,India,2020,HEPB,Hepatitis B,"Per 100,000 population",46.96
+Countries,IND,India,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",129.13
+Countries,IND,India,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",207.11
+Countries,IND,India,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",271.69
+Countries,IND,India,2021,MEASLES,Measles,"Per 100,000 population",80.31
+Countries,IND,India,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",66.44
+Countries,IND,India,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.99
+Countries,IND,India,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2021,POLIO,Poliomyelitis,"Per 100,000 population",27.91
+Countries,IND,India,2021,HEPB,Hepatitis B,"Per 100,000 population",45.11
+Countries,IND,India,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",118.59
+Countries,IND,India,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",227.47
+Countries,IND,India,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",284.03
+Countries,IND,India,2022,MEASLES,Measles,"Per 100,000 population",49.77
+Countries,IND,India,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",32.5
+Countries,IND,India,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.12
+Countries,IND,India,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2022,POLIO,Poliomyelitis,"Per 100,000 population",7.68
+Countries,IND,India,2022,HEPB,Hepatitis B,"Per 100,000 population",34.45
+Countries,IND,India,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",71.54
+Countries,IND,India,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",129.53
+Countries,IND,India,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",159.13
+Countries,IND,India,2023,MEASLES,Measles,"Per 100,000 population",46.79
+Countries,IND,India,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",33.3
+Countries,IND,India,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",18.23
+Countries,IND,India,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.71
+Countries,IND,India,2023,POLIO,Poliomyelitis,"Per 100,000 population",5.74
+Countries,IND,India,2023,HEPB,Hepatitis B,"Per 100,000 population",33.28
+Countries,IND,India,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",84.34
+Countries,IND,India,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",136.48
+Countries,IND,India,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",177.47
+Countries,IND,India,2024,MEASLES,Measles,"Per 100,000 population",47.99
+Countries,IND,India,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",30.36
+Countries,IND,India,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.92
+Countries,IND,India,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IND,India,2024,POLIO,Poliomyelitis,"Per 100,000 population",2.97
+Countries,IND,India,2024,HEPB,Hepatitis B,"Per 100,000 population",26.44
+Countries,IND,India,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",92.24
+Countries,IND,India,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",133.15
+Countries,IND,India,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",168.99
+Countries,USA,United States,2010,MEASLES,Measles,"Per 100,000 population",2.8
+Countries,USA,United States,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.76
+Countries,USA,United States,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.62
+Countries,USA,United States,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.94
+Countries,USA,United States,2010,POLIO,Poliomyelitis,"Per 100,000 population",1.61
+Countries,USA,United States,2010,HEPB,Hepatitis B,"Per 100,000 population",1.89
+Countries,USA,United States,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.77
+Countries,USA,United States,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.04
+Countries,USA,United States,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.47
+Countries,USA,United States,2011,MEASLES,Measles,"Per 100,000 population",4.35
+Countries,USA,United States,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.62
+Countries,USA,United States,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.01
+Countries,USA,United States,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,USA,United States,2011,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2011,HEPB,Hepatitis B,"Per 100,000 population",2.82
+Countries,USA,United States,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.5
+Countries,USA,United States,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.29
+Countries,USA,United States,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",11.7
+Countries,USA,United States,2012,MEASLES,Measles,"Per 100,000 population",2.37
+Countries,USA,United States,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.22
+Countries,USA,United States,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.33
+Countries,USA,United States,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.27
+Countries,USA,United States,2012,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2012,HEPB,Hepatitis B,"Per 100,000 population",2.37
+Countries,USA,United States,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",6.47
+Countries,USA,United States,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.85
+Countries,USA,United States,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.05
+Countries,USA,United States,2013,MEASLES,Measles,"Per 100,000 population",3.88
+Countries,USA,United States,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.81
+Countries,USA,United States,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,USA,United States,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,USA,United States,2013,POLIO,Poliomyelitis,"Per 100,000 population",0.85
+Countries,USA,United States,2013,HEPB,Hepatitis B,"Per 100,000 population",1.9
+Countries,USA,United States,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.72
+Countries,USA,United States,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.31
+Countries,USA,United States,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.18
+Countries,USA,United States,2014,MEASLES,Measles,"Per 100,000 population",2.52
+Countries,USA,United States,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",3.46
+Countries,USA,United States,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,USA,United States,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.52
+Countries,USA,United States,2014,POLIO,Poliomyelitis,"Per 100,000 population",0.21
+Countries,USA,United States,2014,HEPB,Hepatitis B,"Per 100,000 population",1.51
+Countries,USA,United States,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.12
+Countries,USA,United States,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.24
+Countries,USA,United States,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",8.17
+Countries,USA,United States,2015,MEASLES,Measles,"Per 100,000 population",3.57
+Countries,USA,United States,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.44
+Countries,USA,United States,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,USA,United States,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,USA,United States,2015,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2015,HEPB,Hepatitis B,"Per 100,000 population",3.01
+Countries,USA,United States,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",6.32
+Countries,USA,United States,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.42
+Countries,USA,United States,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.28
+Countries,USA,United States,2016,MEASLES,Measles,"Per 100,000 population",3.15
+Countries,USA,United States,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.55
+Countries,USA,United States,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.78
+Countries,USA,United States,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.17
+Countries,USA,United States,2016,POLIO,Poliomyelitis,"Per 100,000 population",0.3
+Countries,USA,United States,2016,HEPB,Hepatitis B,"Per 100,000 population",0.57
+Countries,USA,United States,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.8
+Countries,USA,United States,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.71
+Countries,USA,United States,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.19
+Countries,USA,United States,2017,MEASLES,Measles,"Per 100,000 population",0.47
+Countries,USA,United States,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.41
+Countries,USA,United States,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.81
+Countries,USA,United States,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.37
+Countries,USA,United States,2017,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2017,HEPB,Hepatitis B,"Per 100,000 population",2.28
+Countries,USA,United States,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.88
+Countries,USA,United States,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.6
+Countries,USA,United States,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.59
+Countries,USA,United States,2018,MEASLES,Measles,"Per 100,000 population",1.43
+Countries,USA,United States,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.1
+Countries,USA,United States,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,USA,United States,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.23
+Countries,USA,United States,2018,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2018,HEPB,Hepatitis B,"Per 100,000 population",0.57
+Countries,USA,United States,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.6
+Countries,USA,United States,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.54
+Countries,USA,United States,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",8.35
+Countries,USA,United States,2019,MEASLES,Measles,"Per 100,000 population",1.94
+Countries,USA,United States,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.88
+Countries,USA,United States,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.05
+Countries,USA,United States,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,USA,United States,2019,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2019,HEPB,Hepatitis B,"Per 100,000 population",3.75
+Countries,USA,United States,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.01
+Countries,USA,United States,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.39
+Countries,USA,United States,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.82
+Countries,USA,United States,2020,MEASLES,Measles,"Per 100,000 population",1.38
+Countries,USA,United States,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.23
+Countries,USA,United States,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,USA,United States,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,USA,United States,2020,POLIO,Poliomyelitis,"Per 100,000 population",2.03
+Countries,USA,United States,2020,HEPB,Hepatitis B,"Per 100,000 population",1.38
+Countries,USA,United States,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.88
+Countries,USA,United States,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",11.13
+Countries,USA,United States,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.74
+Countries,USA,United States,2021,MEASLES,Measles,"Per 100,000 population",1.49
+Countries,USA,United States,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",3.73
+Countries,USA,United States,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,USA,United States,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.84
+Countries,USA,United States,2021,POLIO,Poliomyelitis,"Per 100,000 population",0.9
+Countries,USA,United States,2021,HEPB,Hepatitis B,"Per 100,000 population",3.52
+Countries,USA,United States,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.41
+Countries,USA,United States,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.79
+Countries,USA,United States,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.28
+Countries,USA,United States,2022,MEASLES,Measles,"Per 100,000 population",1.51
+Countries,USA,United States,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.1
+Countries,USA,United States,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.24
+Countries,USA,United States,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.56
+Countries,USA,United States,2022,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2022,HEPB,Hepatitis B,"Per 100,000 population",0.1
+Countries,USA,United States,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.0
+Countries,USA,United States,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.88
+Countries,USA,United States,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.84
+Countries,USA,United States,2023,MEASLES,Measles,"Per 100,000 population",1.4
+Countries,USA,United States,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.52
+Countries,USA,United States,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.51
+Countries,USA,United States,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,USA,United States,2023,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,USA,United States,2023,HEPB,Hepatitis B,"Per 100,000 population",2.59
+Countries,USA,United States,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.24
+Countries,USA,United States,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",5.67
+Countries,USA,United States,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.02
+Countries,USA,United States,2024,MEASLES,Measles,"Per 100,000 population",3.64
+Countries,USA,United States,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.42
+Countries,USA,United States,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,USA,United States,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,USA,United States,2024,POLIO,Poliomyelitis,"Per 100,000 population",1.64
+Countries,USA,United States,2024,HEPB,Hepatitis B,"Per 100,000 population",1.16
+Countries,USA,United States,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.11
+Countries,USA,United States,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.0
+Countries,USA,United States,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",6.73
+Countries,BRA,Brazil,2010,MEASLES,Measles,"Per 100,000 population",34.9
+Countries,BRA,Brazil,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",20.67
+Countries,BRA,Brazil,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BRA,Brazil,2010,POLIO,Poliomyelitis,"Per 100,000 population",3.19
+Countries,BRA,Brazil,2010,HEPB,Hepatitis B,"Per 100,000 population",21.57
+Countries,BRA,Brazil,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",49.52
+Countries,BRA,Brazil,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",93.99
+Countries,BRA,Brazil,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",112.83
+Countries,BRA,Brazil,2011,MEASLES,Measles,"Per 100,000 population",17.66
+Countries,BRA,Brazil,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",30.49
+Countries,BRA,Brazil,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.68
+Countries,BRA,Brazil,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",12.01
+Countries,BRA,Brazil,2011,POLIO,Poliomyelitis,"Per 100,000 population",0.93
+Countries,BRA,Brazil,2011,HEPB,Hepatitis B,"Per 100,000 population",24.52
+Countries,BRA,Brazil,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",56.08
+Countries,BRA,Brazil,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",85.06
+Countries,BRA,Brazil,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",103.36
+Countries,BRA,Brazil,2012,MEASLES,Measles,"Per 100,000 population",23.73
+Countries,BRA,Brazil,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",20.88
+Countries,BRA,Brazil,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.07
+Countries,BRA,Brazil,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.66
+Countries,BRA,Brazil,2012,POLIO,Poliomyelitis,"Per 100,000 population",9.71
+Countries,BRA,Brazil,2012,HEPB,Hepatitis B,"Per 100,000 population",23.04
+Countries,BRA,Brazil,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",41.23
+Countries,BRA,Brazil,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",65.48
+Countries,BRA,Brazil,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",94.91
+Countries,BRA,Brazil,2013,MEASLES,Measles,"Per 100,000 population",23.57
+Countries,BRA,Brazil,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",20.06
+Countries,BRA,Brazil,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",10.14
+Countries,BRA,Brazil,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.01
+Countries,BRA,Brazil,2013,POLIO,Poliomyelitis,"Per 100,000 population",12.17
+Countries,BRA,Brazil,2013,HEPB,Hepatitis B,"Per 100,000 population",15.42
+Countries,BRA,Brazil,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",53.21
+Countries,BRA,Brazil,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",88.0
+Countries,BRA,Brazil,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",102.69
+Countries,BRA,Brazil,2014,MEASLES,Measles,"Per 100,000 population",34.83
+Countries,BRA,Brazil,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",12.16
+Countries,BRA,Brazil,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.8
+Countries,BRA,Brazil,2014,POLIO,Poliomyelitis,"Per 100,000 population",5.11
+Countries,BRA,Brazil,2014,HEPB,Hepatitis B,"Per 100,000 population",13.7
+Countries,BRA,Brazil,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",43.73
+Countries,BRA,Brazil,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",69.49
+Countries,BRA,Brazil,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",84.13
+Countries,BRA,Brazil,2015,MEASLES,Measles,"Per 100,000 population",21.84
+Countries,BRA,Brazil,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",18.6
+Countries,BRA,Brazil,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.98
+Countries,BRA,Brazil,2015,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2015,HEPB,Hepatitis B,"Per 100,000 population",12.31
+Countries,BRA,Brazil,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",42.13
+Countries,BRA,Brazil,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",64.02
+Countries,BRA,Brazil,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",68.94
+Countries,BRA,Brazil,2016,MEASLES,Measles,"Per 100,000 population",20.91
+Countries,BRA,Brazil,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",18.59
+Countries,BRA,Brazil,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.54
+Countries,BRA,Brazil,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.61
+Countries,BRA,Brazil,2016,POLIO,Poliomyelitis,"Per 100,000 population",5.33
+Countries,BRA,Brazil,2016,HEPB,Hepatitis B,"Per 100,000 population",16.42
+Countries,BRA,Brazil,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",39.06
+Countries,BRA,Brazil,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",71.91
+Countries,BRA,Brazil,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",88.91
+Countries,BRA,Brazil,2017,MEASLES,Measles,"Per 100,000 population",22.51
+Countries,BRA,Brazil,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",14.95
+Countries,BRA,Brazil,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BRA,Brazil,2017,POLIO,Poliomyelitis,"Per 100,000 population",9.59
+Countries,BRA,Brazil,2017,HEPB,Hepatitis B,"Per 100,000 population",20.22
+Countries,BRA,Brazil,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",32.61
+Countries,BRA,Brazil,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",60.25
+Countries,BRA,Brazil,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",79.31
+Countries,BRA,Brazil,2018,MEASLES,Measles,"Per 100,000 population",24.84
+Countries,BRA,Brazil,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",18.19
+Countries,BRA,Brazil,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BRA,Brazil,2018,POLIO,Poliomyelitis,"Per 100,000 population",10.58
+Countries,BRA,Brazil,2018,HEPB,Hepatitis B,"Per 100,000 population",24.55
+Countries,BRA,Brazil,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",32.28
+Countries,BRA,Brazil,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",66.01
+Countries,BRA,Brazil,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",89.12
+Countries,BRA,Brazil,2019,MEASLES,Measles,"Per 100,000 population",10.06
+Countries,BRA,Brazil,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",9.56
+Countries,BRA,Brazil,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.17
+Countries,BRA,Brazil,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BRA,Brazil,2019,POLIO,Poliomyelitis,"Per 100,000 population",5.44
+Countries,BRA,Brazil,2019,HEPB,Hepatitis B,"Per 100,000 population",23.16
+Countries,BRA,Brazil,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",32.62
+Countries,BRA,Brazil,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",61.73
+Countries,BRA,Brazil,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",77.32
+Countries,BRA,Brazil,2020,MEASLES,Measles,"Per 100,000 population",26.5
+Countries,BRA,Brazil,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",18.32
+Countries,BRA,Brazil,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",16.41
+Countries,BRA,Brazil,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",9.17
+Countries,BRA,Brazil,2020,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2020,HEPB,Hepatitis B,"Per 100,000 population",14.87
+Countries,BRA,Brazil,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",41.3
+Countries,BRA,Brazil,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",69.14
+Countries,BRA,Brazil,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",89.99
+Countries,BRA,Brazil,2021,MEASLES,Measles,"Per 100,000 population",21.72
+Countries,BRA,Brazil,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",12.32
+Countries,BRA,Brazil,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",11.61
+Countries,BRA,Brazil,2021,POLIO,Poliomyelitis,"Per 100,000 population",1.36
+Countries,BRA,Brazil,2021,HEPB,Hepatitis B,"Per 100,000 population",14.74
+Countries,BRA,Brazil,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",43.28
+Countries,BRA,Brazil,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",63.72
+Countries,BRA,Brazil,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",78.96
+Countries,BRA,Brazil,2022,MEASLES,Measles,"Per 100,000 population",14.58
+Countries,BRA,Brazil,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",21.29
+Countries,BRA,Brazil,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BRA,Brazil,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BRA,Brazil,2022,POLIO,Poliomyelitis,"Per 100,000 population",5.41
+Countries,BRA,Brazil,2022,HEPB,Hepatitis B,"Per 100,000 population",10.37
+Countries,BRA,Brazil,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",41.47
+Countries,BRA,Brazil,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",42.36
+Countries,BRA,Brazil,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",68.19
+Countries,BRA,Brazil,2023,MEASLES,Measles,"Per 100,000 population",23.24
+Countries,BRA,Brazil,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",10.44
+Countries,BRA,Brazil,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.16
+Countries,BRA,Brazil,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BRA,Brazil,2023,POLIO,Poliomyelitis,"Per 100,000 population",0.94
+Countries,BRA,Brazil,2023,HEPB,Hepatitis B,"Per 100,000 population",11.13
+Countries,BRA,Brazil,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",31.29
+Countries,BRA,Brazil,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",43.77
+Countries,BRA,Brazil,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",66.91
+Countries,BRA,Brazil,2024,MEASLES,Measles,"Per 100,000 population",15.32
+Countries,BRA,Brazil,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.36
+Countries,BRA,Brazil,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.74
+Countries,BRA,Brazil,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BRA,Brazil,2024,POLIO,Poliomyelitis,"Per 100,000 population",5.79
+Countries,BRA,Brazil,2024,HEPB,Hepatitis B,"Per 100,000 population",11.6
+Countries,BRA,Brazil,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",31.81
+Countries,BRA,Brazil,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",48.4
+Countries,BRA,Brazil,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",61.11
+Countries,NGA,Nigeria,2010,MEASLES,Measles,"Per 100,000 population",79.87
+Countries,NGA,Nigeria,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",66.15
+Countries,NGA,Nigeria,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",12.91
+Countries,NGA,Nigeria,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,NGA,Nigeria,2010,POLIO,Poliomyelitis,"Per 100,000 population",13.49
+Countries,NGA,Nigeria,2010,HEPB,Hepatitis B,"Per 100,000 population",58.84
+Countries,NGA,Nigeria,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",141.02
+Countries,NGA,Nigeria,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",236.29
+Countries,NGA,Nigeria,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",295.6
+Countries,NGA,Nigeria,2011,MEASLES,Measles,"Per 100,000 population",73.6
+Countries,NGA,Nigeria,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",50.27
+Countries,NGA,Nigeria,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",16.85
+Countries,NGA,Nigeria,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,NGA,Nigeria,2011,POLIO,Poliomyelitis,"Per 100,000 population",15.31
+Countries,NGA,Nigeria,2011,HEPB,Hepatitis B,"Per 100,000 population",50.76
+Countries,NGA,Nigeria,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",142.68
+Countries,NGA,Nigeria,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",224.87
+Countries,NGA,Nigeria,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",266.31
+Countries,NGA,Nigeria,2012,MEASLES,Measles,"Per 100,000 population",60.85
+Countries,NGA,Nigeria,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",53.15
+Countries,NGA,Nigeria,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",11.5
+Countries,NGA,Nigeria,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.41
+Countries,NGA,Nigeria,2012,POLIO,Poliomyelitis,"Per 100,000 population",15.17
+Countries,NGA,Nigeria,2012,HEPB,Hepatitis B,"Per 100,000 population",56.48
+Countries,NGA,Nigeria,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",121.71
+Countries,NGA,Nigeria,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",191.71
+Countries,NGA,Nigeria,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",240.7
+Countries,NGA,Nigeria,2013,MEASLES,Measles,"Per 100,000 population",55.5
+Countries,NGA,Nigeria,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",46.97
+Countries,NGA,Nigeria,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,NGA,Nigeria,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.25
+Countries,NGA,Nigeria,2013,POLIO,Poliomyelitis,"Per 100,000 population",11.87
+Countries,NGA,Nigeria,2013,HEPB,Hepatitis B,"Per 100,000 population",64.11
+Countries,NGA,Nigeria,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",120.23
+Countries,NGA,Nigeria,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",196.18
+Countries,NGA,Nigeria,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",241.18
+Countries,NGA,Nigeria,2014,MEASLES,Measles,"Per 100,000 population",58.1
+Countries,NGA,Nigeria,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",52.19
+Countries,NGA,Nigeria,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.18
+Countries,NGA,Nigeria,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",22.21
+Countries,NGA,Nigeria,2014,POLIO,Poliomyelitis,"Per 100,000 population",13.36
+Countries,NGA,Nigeria,2014,HEPB,Hepatitis B,"Per 100,000 population",51.39
+Countries,NGA,Nigeria,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",107.93
+Countries,NGA,Nigeria,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",201.87
+Countries,NGA,Nigeria,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",244.54
+Countries,NGA,Nigeria,2015,MEASLES,Measles,"Per 100,000 population",67.5
+Countries,NGA,Nigeria,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",50.89
+Countries,NGA,Nigeria,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",8.64
+Countries,NGA,Nigeria,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",16.55
+Countries,NGA,Nigeria,2015,POLIO,Poliomyelitis,"Per 100,000 population",9.02
+Countries,NGA,Nigeria,2015,HEPB,Hepatitis B,"Per 100,000 population",59.6
+Countries,NGA,Nigeria,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",102.8
+Countries,NGA,Nigeria,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",191.76
+Countries,NGA,Nigeria,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",238.36
+Countries,NGA,Nigeria,2016,MEASLES,Measles,"Per 100,000 population",58.98
+Countries,NGA,Nigeria,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",33.66
+Countries,NGA,Nigeria,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.17
+Countries,NGA,Nigeria,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",2.0
+Countries,NGA,Nigeria,2016,POLIO,Poliomyelitis,"Per 100,000 population",14.53
+Countries,NGA,Nigeria,2016,HEPB,Hepatitis B,"Per 100,000 population",53.02
+Countries,NGA,Nigeria,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",106.23
+Countries,NGA,Nigeria,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",198.78
+Countries,NGA,Nigeria,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",235.99
+Countries,NGA,Nigeria,2017,MEASLES,Measles,"Per 100,000 population",62.0
+Countries,NGA,Nigeria,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.56
+Countries,NGA,Nigeria,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.83
+Countries,NGA,Nigeria,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.13
+Countries,NGA,Nigeria,2017,POLIO,Poliomyelitis,"Per 100,000 population",5.46
+Countries,NGA,Nigeria,2017,HEPB,Hepatitis B,"Per 100,000 population",40.63
+Countries,NGA,Nigeria,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",91.75
+Countries,NGA,Nigeria,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",164.7
+Countries,NGA,Nigeria,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",213.44
+Countries,NGA,Nigeria,2018,MEASLES,Measles,"Per 100,000 population",64.61
+Countries,NGA,Nigeria,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",39.25
+Countries,NGA,Nigeria,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.2
+Countries,NGA,Nigeria,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.45
+Countries,NGA,Nigeria,2018,POLIO,Poliomyelitis,"Per 100,000 population",13.49
+Countries,NGA,Nigeria,2018,HEPB,Hepatitis B,"Per 100,000 population",39.88
+Countries,NGA,Nigeria,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",105.47
+Countries,NGA,Nigeria,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",169.93
+Countries,NGA,Nigeria,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",215.95
+Countries,NGA,Nigeria,2019,MEASLES,Measles,"Per 100,000 population",50.88
+Countries,NGA,Nigeria,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",45.14
+Countries,NGA,Nigeria,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.54
+Countries,NGA,Nigeria,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.45
+Countries,NGA,Nigeria,2019,POLIO,Poliomyelitis,"Per 100,000 population",2.35
+Countries,NGA,Nigeria,2019,HEPB,Hepatitis B,"Per 100,000 population",48.57
+Countries,NGA,Nigeria,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",91.03
+Countries,NGA,Nigeria,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",161.32
+Countries,NGA,Nigeria,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",202.05
+Countries,NGA,Nigeria,2020,MEASLES,Measles,"Per 100,000 population",74.09
+Countries,NGA,Nigeria,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",53.66
+Countries,NGA,Nigeria,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.91
+Countries,NGA,Nigeria,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,NGA,Nigeria,2020,POLIO,Poliomyelitis,"Per 100,000 population",22.51
+Countries,NGA,Nigeria,2020,HEPB,Hepatitis B,"Per 100,000 population",52.55
+Countries,NGA,Nigeria,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",127.47
+Countries,NGA,Nigeria,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",213.01
+Countries,NGA,Nigeria,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",264.44
+Countries,NGA,Nigeria,2021,MEASLES,Measles,"Per 100,000 population",75.41
+Countries,NGA,Nigeria,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",45.62
+Countries,NGA,Nigeria,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",11.69
+Countries,NGA,Nigeria,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.92
+Countries,NGA,Nigeria,2021,POLIO,Poliomyelitis,"Per 100,000 population",12.0
+Countries,NGA,Nigeria,2021,HEPB,Hepatitis B,"Per 100,000 population",54.17
+Countries,NGA,Nigeria,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",118.25
+Countries,NGA,Nigeria,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",211.56
+Countries,NGA,Nigeria,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",272.11
+Countries,NGA,Nigeria,2022,MEASLES,Measles,"Per 100,000 population",50.76
+Countries,NGA,Nigeria,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",44.75
+Countries,NGA,Nigeria,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.38
+Countries,NGA,Nigeria,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.04
+Countries,NGA,Nigeria,2022,POLIO,Poliomyelitis,"Per 100,000 population",1.88
+Countries,NGA,Nigeria,2022,HEPB,Hepatitis B,"Per 100,000 population",47.26
+Countries,NGA,Nigeria,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",74.1
+Countries,NGA,Nigeria,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",142.58
+Countries,NGA,Nigeria,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",176.96
+Countries,NGA,Nigeria,2023,MEASLES,Measles,"Per 100,000 population",47.66
+Countries,NGA,Nigeria,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",24.29
+Countries,NGA,Nigeria,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",12.14
+Countries,NGA,Nigeria,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,NGA,Nigeria,2023,POLIO,Poliomyelitis,"Per 100,000 population",18.0
+Countries,NGA,Nigeria,2023,HEPB,Hepatitis B,"Per 100,000 population",28.92
+Countries,NGA,Nigeria,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",89.47
+Countries,NGA,Nigeria,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",131.92
+Countries,NGA,Nigeria,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",172.78
+Countries,NGA,Nigeria,2024,MEASLES,Measles,"Per 100,000 population",44.66
+Countries,NGA,Nigeria,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",25.71
+Countries,NGA,Nigeria,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,NGA,Nigeria,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,NGA,Nigeria,2024,POLIO,Poliomyelitis,"Per 100,000 population",11.54
+Countries,NGA,Nigeria,2024,HEPB,Hepatitis B,"Per 100,000 population",33.5
+Countries,NGA,Nigeria,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",78.54
+Countries,NGA,Nigeria,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",128.01
+Countries,NGA,Nigeria,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",171.35
+Countries,DEU,Germany,2010,MEASLES,Measles,"Per 100,000 population",4.3
+Countries,DEU,Germany,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.88
+Countries,DEU,Germany,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.2
+Countries,DEU,Germany,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2010,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,DEU,Germany,2010,HEPB,Hepatitis B,"Per 100,000 population",2.37
+Countries,DEU,Germany,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.69
+Countries,DEU,Germany,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.28
+Countries,DEU,Germany,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",13.59
+Countries,DEU,Germany,2011,MEASLES,Measles,"Per 100,000 population",1.96
+Countries,DEU,Germany,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.92
+Countries,DEU,Germany,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.03
+Countries,DEU,Germany,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2011,POLIO,Poliomyelitis,"Per 100,000 population",1.03
+Countries,DEU,Germany,2011,HEPB,Hepatitis B,"Per 100,000 population",3.8
+Countries,DEU,Germany,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.57
+Countries,DEU,Germany,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.03
+Countries,DEU,Germany,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.25
+Countries,DEU,Germany,2012,MEASLES,Measles,"Per 100,000 population",2.0
+Countries,DEU,Germany,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",3.06
+Countries,DEU,Germany,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,DEU,Germany,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.98
+Countries,DEU,Germany,2012,POLIO,Poliomyelitis,"Per 100,000 population",1.32
+Countries,DEU,Germany,2012,HEPB,Hepatitis B,"Per 100,000 population",2.41
+Countries,DEU,Germany,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",7.26
+Countries,DEU,Germany,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",10.27
+Countries,DEU,Germany,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.25
+Countries,DEU,Germany,2013,MEASLES,Measles,"Per 100,000 population",1.13
+Countries,DEU,Germany,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.42
+Countries,DEU,Germany,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.46
+Countries,DEU,Germany,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2013,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,DEU,Germany,2013,HEPB,Hepatitis B,"Per 100,000 population",1.22
+Countries,DEU,Germany,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.64
+Countries,DEU,Germany,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.69
+Countries,DEU,Germany,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.18
+Countries,DEU,Germany,2014,MEASLES,Measles,"Per 100,000 population",2.02
+Countries,DEU,Germany,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.43
+Countries,DEU,Germany,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,DEU,Germany,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2014,POLIO,Poliomyelitis,"Per 100,000 population",1.12
+Countries,DEU,Germany,2014,HEPB,Hepatitis B,"Per 100,000 population",3.22
+Countries,DEU,Germany,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",2.89
+Countries,DEU,Germany,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.49
+Countries,DEU,Germany,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.2
+Countries,DEU,Germany,2015,MEASLES,Measles,"Per 100,000 population",3.17
+Countries,DEU,Germany,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.16
+Countries,DEU,Germany,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,DEU,Germany,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.58
+Countries,DEU,Germany,2015,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,DEU,Germany,2015,HEPB,Hepatitis B,"Per 100,000 population",2.1
+Countries,DEU,Germany,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.67
+Countries,DEU,Germany,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.68
+Countries,DEU,Germany,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.45
+Countries,DEU,Germany,2016,MEASLES,Measles,"Per 100,000 population",1.89
+Countries,DEU,Germany,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.1
+Countries,DEU,Germany,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.74
+Countries,DEU,Germany,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2016,POLIO,Poliomyelitis,"Per 100,000 population",0.52
+Countries,DEU,Germany,2016,HEPB,Hepatitis B,"Per 100,000 population",3.95
+Countries,DEU,Germany,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.13
+Countries,DEU,Germany,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.75
+Countries,DEU,Germany,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.75
+Countries,DEU,Germany,2017,MEASLES,Measles,"Per 100,000 population",2.27
+Countries,DEU,Germany,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",4.76
+Countries,DEU,Germany,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.88
+Countries,DEU,Germany,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2017,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,DEU,Germany,2017,HEPB,Hepatitis B,"Per 100,000 population",2.32
+Countries,DEU,Germany,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.87
+Countries,DEU,Germany,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.99
+Countries,DEU,Germany,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.63
+Countries,DEU,Germany,2018,MEASLES,Measles,"Per 100,000 population",1.77
+Countries,DEU,Germany,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.07
+Countries,DEU,Germany,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.28
+Countries,DEU,Germany,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.57
+Countries,DEU,Germany,2018,POLIO,Poliomyelitis,"Per 100,000 population",2.24
+Countries,DEU,Germany,2018,HEPB,Hepatitis B,"Per 100,000 population",1.54
+Countries,DEU,Germany,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.96
+Countries,DEU,Germany,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.71
+Countries,DEU,Germany,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.45
+Countries,DEU,Germany,2019,MEASLES,Measles,"Per 100,000 population",1.84
+Countries,DEU,Germany,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.14
+Countries,DEU,Germany,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.2
+Countries,DEU,Germany,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2019,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,DEU,Germany,2019,HEPB,Hepatitis B,"Per 100,000 population",0.1
+Countries,DEU,Germany,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.35
+Countries,DEU,Germany,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.28
+Countries,DEU,Germany,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.46
+Countries,DEU,Germany,2020,MEASLES,Measles,"Per 100,000 population",3.41
+Countries,DEU,Germany,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",3.18
+Countries,DEU,Germany,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.11
+Countries,DEU,Germany,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2020,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,DEU,Germany,2020,HEPB,Hepatitis B,"Per 100,000 population",1.47
+Countries,DEU,Germany,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.58
+Countries,DEU,Germany,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.34
+Countries,DEU,Germany,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.89
+Countries,DEU,Germany,2021,MEASLES,Measles,"Per 100,000 population",1.53
+Countries,DEU,Germany,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.19
+Countries,DEU,Germany,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,DEU,Germany,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.81
+Countries,DEU,Germany,2021,POLIO,Poliomyelitis,"Per 100,000 population",1.73
+Countries,DEU,Germany,2021,HEPB,Hepatitis B,"Per 100,000 population",3.82
+Countries,DEU,Germany,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.74
+Countries,DEU,Germany,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.34
+Countries,DEU,Germany,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",11.85
+Countries,DEU,Germany,2022,MEASLES,Measles,"Per 100,000 population",2.43
+Countries,DEU,Germany,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.4
+Countries,DEU,Germany,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,DEU,Germany,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2022,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,DEU,Germany,2022,HEPB,Hepatitis B,"Per 100,000 population",2.4
+Countries,DEU,Germany,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.16
+Countries,DEU,Germany,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",4.41
+Countries,DEU,Germany,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",6.76
+Countries,DEU,Germany,2023,MEASLES,Measles,"Per 100,000 population",2.34
+Countries,DEU,Germany,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.84
+Countries,DEU,Germany,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,DEU,Germany,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.63
+Countries,DEU,Germany,2023,POLIO,Poliomyelitis,"Per 100,000 population",0.44
+Countries,DEU,Germany,2023,HEPB,Hepatitis B,"Per 100,000 population",0.1
+Countries,DEU,Germany,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.42
+Countries,DEU,Germany,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",6.05
+Countries,DEU,Germany,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.23
+Countries,DEU,Germany,2024,MEASLES,Measles,"Per 100,000 population",2.83
+Countries,DEU,Germany,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.1
+Countries,DEU,Germany,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.7
+Countries,DEU,Germany,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,DEU,Germany,2024,POLIO,Poliomyelitis,"Per 100,000 population",0.57
+Countries,DEU,Germany,2024,HEPB,Hepatitis B,"Per 100,000 population",0.98
+Countries,DEU,Germany,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.66
+Countries,DEU,Germany,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.36
+Countries,DEU,Germany,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",8.1
+Countries,CHN,China,2010,MEASLES,Measles,"Per 100,000 population",26.55
+Countries,CHN,China,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",16.56
+Countries,CHN,China,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",8.61
+Countries,CHN,China,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,CHN,China,2010,POLIO,Poliomyelitis,"Per 100,000 population",1.56
+Countries,CHN,China,2010,HEPB,Hepatitis B,"Per 100,000 population",13.38
+Countries,CHN,China,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",47.83
+Countries,CHN,China,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",83.94
+Countries,CHN,China,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",98.7
+Countries,CHN,China,2011,MEASLES,Measles,"Per 100,000 population",21.13
+Countries,CHN,China,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",26.94
+Countries,CHN,China,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.57
+Countries,CHN,China,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.15
+Countries,CHN,China,2011,POLIO,Poliomyelitis,"Per 100,000 population",4.57
+Countries,CHN,China,2011,HEPB,Hepatitis B,"Per 100,000 population",23.2
+Countries,CHN,China,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",47.65
+Countries,CHN,China,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",74.82
+Countries,CHN,China,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",97.72
+Countries,CHN,China,2012,MEASLES,Measles,"Per 100,000 population",19.78
+Countries,CHN,China,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",11.9
+Countries,CHN,China,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.63
+Countries,CHN,China,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.43
+Countries,CHN,China,2012,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,CHN,China,2012,HEPB,Hepatitis B,"Per 100,000 population",22.84
+Countries,CHN,China,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",39.55
+Countries,CHN,China,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",63.65
+Countries,CHN,China,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",96.05
+Countries,CHN,China,2013,MEASLES,Measles,"Per 100,000 population",34.58
+Countries,CHN,China,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",14.45
+Countries,CHN,China,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,CHN,China,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.04
+Countries,CHN,China,2013,POLIO,Poliomyelitis,"Per 100,000 population",0.89
+Countries,CHN,China,2013,HEPB,Hepatitis B,"Per 100,000 population",22.51
+Countries,CHN,China,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",52.03
+Countries,CHN,China,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",78.77
+Countries,CHN,China,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",103.2
+Countries,CHN,China,2014,MEASLES,Measles,"Per 100,000 population",28.05
+Countries,CHN,China,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",21.92
+Countries,CHN,China,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.22
+Countries,CHN,China,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.49
+Countries,CHN,China,2014,POLIO,Poliomyelitis,"Per 100,000 population",5.81
+Countries,CHN,China,2014,HEPB,Hepatitis B,"Per 100,000 population",19.93
+Countries,CHN,China,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",57.2
+Countries,CHN,China,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",71.1
+Countries,CHN,China,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",82.38
+Countries,CHN,China,2015,MEASLES,Measles,"Per 100,000 population",20.75
+Countries,CHN,China,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.85
+Countries,CHN,China,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.39
+Countries,CHN,China,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.22
+Countries,CHN,China,2015,POLIO,Poliomyelitis,"Per 100,000 population",10.18
+Countries,CHN,China,2015,HEPB,Hepatitis B,"Per 100,000 population",15.78
+Countries,CHN,China,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",31.09
+Countries,CHN,China,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",63.91
+Countries,CHN,China,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",78.81
+Countries,CHN,China,2016,MEASLES,Measles,"Per 100,000 population",21.64
+Countries,CHN,China,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.98
+Countries,CHN,China,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",8.66
+Countries,CHN,China,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",2.75
+Countries,CHN,China,2016,POLIO,Poliomyelitis,"Per 100,000 population",1.59
+Countries,CHN,China,2016,HEPB,Hepatitis B,"Per 100,000 population",8.51
+Countries,CHN,China,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",35.79
+Countries,CHN,China,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",59.83
+Countries,CHN,China,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",75.9
+Countries,CHN,China,2017,MEASLES,Measles,"Per 100,000 population",24.84
+Countries,CHN,China,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",7.93
+Countries,CHN,China,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,CHN,China,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.66
+Countries,CHN,China,2017,POLIO,Poliomyelitis,"Per 100,000 population",1.57
+Countries,CHN,China,2017,HEPB,Hepatitis B,"Per 100,000 population",13.94
+Countries,CHN,China,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",36.38
+Countries,CHN,China,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",64.56
+Countries,CHN,China,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",78.09
+Countries,CHN,China,2018,MEASLES,Measles,"Per 100,000 population",10.79
+Countries,CHN,China,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",11.6
+Countries,CHN,China,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.06
+Countries,CHN,China,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.19
+Countries,CHN,China,2018,POLIO,Poliomyelitis,"Per 100,000 population",8.39
+Countries,CHN,China,2018,HEPB,Hepatitis B,"Per 100,000 population",20.98
+Countries,CHN,China,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",36.7
+Countries,CHN,China,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",61.5
+Countries,CHN,China,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",72.31
+Countries,CHN,China,2019,MEASLES,Measles,"Per 100,000 population",8.44
+Countries,CHN,China,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",6.59
+Countries,CHN,China,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,CHN,China,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,CHN,China,2019,POLIO,Poliomyelitis,"Per 100,000 population",2.56
+Countries,CHN,China,2019,HEPB,Hepatitis B,"Per 100,000 population",12.18
+Countries,CHN,China,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",38.49
+Countries,CHN,China,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",51.49
+Countries,CHN,China,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",73.13
+Countries,CHN,China,2020,MEASLES,Measles,"Per 100,000 population",24.7
+Countries,CHN,China,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.95
+Countries,CHN,China,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,CHN,China,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,CHN,China,2020,POLIO,Poliomyelitis,"Per 100,000 population",9.32
+Countries,CHN,China,2020,HEPB,Hepatitis B,"Per 100,000 population",27.11
+Countries,CHN,China,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",45.56
+Countries,CHN,China,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",78.3
+Countries,CHN,China,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",99.01
+Countries,CHN,China,2021,MEASLES,Measles,"Per 100,000 population",20.85
+Countries,CHN,China,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",21.2
+Countries,CHN,China,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.71
+Countries,CHN,China,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,CHN,China,2021,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,CHN,China,2021,HEPB,Hepatitis B,"Per 100,000 population",8.45
+Countries,CHN,China,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",51.44
+Countries,CHN,China,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",71.91
+Countries,CHN,China,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",94.76
+Countries,CHN,China,2022,MEASLES,Measles,"Per 100,000 population",15.51
+Countries,CHN,China,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",17.75
+Countries,CHN,China,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.46
+Countries,CHN,China,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,CHN,China,2022,POLIO,Poliomyelitis,"Per 100,000 population",12.19
+Countries,CHN,China,2022,HEPB,Hepatitis B,"Per 100,000 population",13.89
+Countries,CHN,China,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",22.94
+Countries,CHN,China,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",50.9
+Countries,CHN,China,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",67.39
+Countries,CHN,China,2023,MEASLES,Measles,"Per 100,000 population",15.5
+Countries,CHN,China,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",9.39
+Countries,CHN,China,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",10.84
+Countries,CHN,China,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,CHN,China,2023,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,CHN,China,2023,HEPB,Hepatitis B,"Per 100,000 population",20.22
+Countries,CHN,China,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",22.16
+Countries,CHN,China,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",45.72
+Countries,CHN,China,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",58.74
+Countries,CHN,China,2024,MEASLES,Measles,"Per 100,000 population",23.23
+Countries,CHN,China,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",19.26
+Countries,CHN,China,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,CHN,China,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.92
+Countries,CHN,China,2024,POLIO,Poliomyelitis,"Per 100,000 population",10.25
+Countries,CHN,China,2024,HEPB,Hepatitis B,"Per 100,000 population",12.9
+Countries,CHN,China,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",34.53
+Countries,CHN,China,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",54.94
+Countries,CHN,China,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",62.74
+Countries,KEN,Kenya,2010,MEASLES,Measles,"Per 100,000 population",69.65
+Countries,KEN,Kenya,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",54.24
+Countries,KEN,Kenya,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,KEN,Kenya,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",2.24
+Countries,KEN,Kenya,2010,POLIO,Poliomyelitis,"Per 100,000 population",6.34
+Countries,KEN,Kenya,2010,HEPB,Hepatitis B,"Per 100,000 population",63.03
+Countries,KEN,Kenya,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",121.26
+Countries,KEN,Kenya,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",208.3
+Countries,KEN,Kenya,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",263.8
+Countries,KEN,Kenya,2011,MEASLES,Measles,"Per 100,000 population",67.76
+Countries,KEN,Kenya,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",50.88
+Countries,KEN,Kenya,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.6
+Countries,KEN,Kenya,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.26
+Countries,KEN,Kenya,2011,POLIO,Poliomyelitis,"Per 100,000 population",13.09
+Countries,KEN,Kenya,2011,HEPB,Hepatitis B,"Per 100,000 population",49.34
+Countries,KEN,Kenya,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",124.78
+Countries,KEN,Kenya,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",200.28
+Countries,KEN,Kenya,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",272.81
+Countries,KEN,Kenya,2012,MEASLES,Measles,"Per 100,000 population",75.86
+Countries,KEN,Kenya,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.17
+Countries,KEN,Kenya,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",12.79
+Countries,KEN,Kenya,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,KEN,Kenya,2012,POLIO,Poliomyelitis,"Per 100,000 population",15.84
+Countries,KEN,Kenya,2012,HEPB,Hepatitis B,"Per 100,000 population",48.47
+Countries,KEN,Kenya,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",109.69
+Countries,KEN,Kenya,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",208.26
+Countries,KEN,Kenya,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",257.92
+Countries,KEN,Kenya,2013,MEASLES,Measles,"Per 100,000 population",65.29
+Countries,KEN,Kenya,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",45.39
+Countries,KEN,Kenya,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.57
+Countries,KEN,Kenya,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",16.94
+Countries,KEN,Kenya,2013,POLIO,Poliomyelitis,"Per 100,000 population",4.31
+Countries,KEN,Kenya,2013,HEPB,Hepatitis B,"Per 100,000 population",42.39
+Countries,KEN,Kenya,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",101.26
+Countries,KEN,Kenya,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",196.14
+Countries,KEN,Kenya,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",243.27
+Countries,KEN,Kenya,2014,MEASLES,Measles,"Per 100,000 population",56.13
+Countries,KEN,Kenya,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.03
+Countries,KEN,Kenya,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.72
+Countries,KEN,Kenya,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.55
+Countries,KEN,Kenya,2014,POLIO,Poliomyelitis,"Per 100,000 population",6.47
+Countries,KEN,Kenya,2014,HEPB,Hepatitis B,"Per 100,000 population",45.33
+Countries,KEN,Kenya,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",122.69
+Countries,KEN,Kenya,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",206.39
+Countries,KEN,Kenya,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",237.02
+Countries,KEN,Kenya,2015,MEASLES,Measles,"Per 100,000 population",49.16
+Countries,KEN,Kenya,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.48
+Countries,KEN,Kenya,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,KEN,Kenya,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.44
+Countries,KEN,Kenya,2015,POLIO,Poliomyelitis,"Per 100,000 population",15.54
+Countries,KEN,Kenya,2015,HEPB,Hepatitis B,"Per 100,000 population",47.24
+Countries,KEN,Kenya,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",102.36
+Countries,KEN,Kenya,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",160.88
+Countries,KEN,Kenya,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",210.39
+Countries,KEN,Kenya,2016,MEASLES,Measles,"Per 100,000 population",56.62
+Countries,KEN,Kenya,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",49.21
+Countries,KEN,Kenya,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",19.33
+Countries,KEN,Kenya,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.56
+Countries,KEN,Kenya,2016,POLIO,Poliomyelitis,"Per 100,000 population",8.65
+Countries,KEN,Kenya,2016,HEPB,Hepatitis B,"Per 100,000 population",55.62
+Countries,KEN,Kenya,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",130.1
+Countries,KEN,Kenya,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",190.93
+Countries,KEN,Kenya,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",247.17
+Countries,KEN,Kenya,2017,MEASLES,Measles,"Per 100,000 population",64.47
+Countries,KEN,Kenya,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",31.07
+Countries,KEN,Kenya,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.59
+Countries,KEN,Kenya,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.38
+Countries,KEN,Kenya,2017,POLIO,Poliomyelitis,"Per 100,000 population",18.29
+Countries,KEN,Kenya,2017,HEPB,Hepatitis B,"Per 100,000 population",49.82
+Countries,KEN,Kenya,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",103.67
+Countries,KEN,Kenya,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",170.18
+Countries,KEN,Kenya,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",212.16
+Countries,KEN,Kenya,2018,MEASLES,Measles,"Per 100,000 population",60.61
+Countries,KEN,Kenya,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",36.33
+Countries,KEN,Kenya,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,KEN,Kenya,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",10.53
+Countries,KEN,Kenya,2018,POLIO,Poliomyelitis,"Per 100,000 population",18.4
+Countries,KEN,Kenya,2018,HEPB,Hepatitis B,"Per 100,000 population",42.12
+Countries,KEN,Kenya,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",95.28
+Countries,KEN,Kenya,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",171.32
+Countries,KEN,Kenya,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",234.65
+Countries,KEN,Kenya,2019,MEASLES,Measles,"Per 100,000 population",49.18
+Countries,KEN,Kenya,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",29.21
+Countries,KEN,Kenya,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.15
+Countries,KEN,Kenya,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,KEN,Kenya,2019,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,KEN,Kenya,2019,HEPB,Hepatitis B,"Per 100,000 population",48.27
+Countries,KEN,Kenya,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",83.88
+Countries,KEN,Kenya,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",133.9
+Countries,KEN,Kenya,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",169.37
+Countries,KEN,Kenya,2020,MEASLES,Measles,"Per 100,000 population",59.06
+Countries,KEN,Kenya,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",57.52
+Countries,KEN,Kenya,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.97
+Countries,KEN,Kenya,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",9.69
+Countries,KEN,Kenya,2020,POLIO,Poliomyelitis,"Per 100,000 population",15.8
+Countries,KEN,Kenya,2020,HEPB,Hepatitis B,"Per 100,000 population",53.18
+Countries,KEN,Kenya,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",115.82
+Countries,KEN,Kenya,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",199.21
+Countries,KEN,Kenya,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",270.45
+Countries,KEN,Kenya,2021,MEASLES,Measles,"Per 100,000 population",64.73
+Countries,KEN,Kenya,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",45.79
+Countries,KEN,Kenya,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",10.02
+Countries,KEN,Kenya,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,KEN,Kenya,2021,POLIO,Poliomyelitis,"Per 100,000 population",20.48
+Countries,KEN,Kenya,2021,HEPB,Hepatitis B,"Per 100,000 population",45.64
+Countries,KEN,Kenya,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",120.49
+Countries,KEN,Kenya,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",173.11
+Countries,KEN,Kenya,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",244.63
+Countries,KEN,Kenya,2022,MEASLES,Measles,"Per 100,000 population",54.96
+Countries,KEN,Kenya,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",25.75
+Countries,KEN,Kenya,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.91
+Countries,KEN,Kenya,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,KEN,Kenya,2022,POLIO,Poliomyelitis,"Per 100,000 population",16.68
+Countries,KEN,Kenya,2022,HEPB,Hepatitis B,"Per 100,000 population",40.44
+Countries,KEN,Kenya,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",100.51
+Countries,KEN,Kenya,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",150.29
+Countries,KEN,Kenya,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",196.53
+Countries,KEN,Kenya,2023,MEASLES,Measles,"Per 100,000 population",51.16
+Countries,KEN,Kenya,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",34.31
+Countries,KEN,Kenya,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.68
+Countries,KEN,Kenya,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,KEN,Kenya,2023,POLIO,Poliomyelitis,"Per 100,000 population",8.39
+Countries,KEN,Kenya,2023,HEPB,Hepatitis B,"Per 100,000 population",37.79
+Countries,KEN,Kenya,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",69.8
+Countries,KEN,Kenya,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",129.84
+Countries,KEN,Kenya,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",163.33
+Countries,KEN,Kenya,2024,MEASLES,Measles,"Per 100,000 population",36.21
+Countries,KEN,Kenya,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",36.09
+Countries,KEN,Kenya,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.62
+Countries,KEN,Kenya,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,KEN,Kenya,2024,POLIO,Poliomyelitis,"Per 100,000 population",10.26
+Countries,KEN,Kenya,2024,HEPB,Hepatitis B,"Per 100,000 population",30.16
+Countries,KEN,Kenya,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",80.46
+Countries,KEN,Kenya,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",130.03
+Countries,KEN,Kenya,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",157.98
+Countries,IDN,Indonesia,2010,MEASLES,Measles,"Per 100,000 population",29.66
+Countries,IDN,Indonesia,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",19.29
+Countries,IDN,Indonesia,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.97
+Countries,IDN,Indonesia,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.42
+Countries,IDN,Indonesia,2010,POLIO,Poliomyelitis,"Per 100,000 population",3.78
+Countries,IDN,Indonesia,2010,HEPB,Hepatitis B,"Per 100,000 population",18.82
+Countries,IDN,Indonesia,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",44.72
+Countries,IDN,Indonesia,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",84.47
+Countries,IDN,Indonesia,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",112.21
+Countries,IDN,Indonesia,2011,MEASLES,Measles,"Per 100,000 population",20.2
+Countries,IDN,Indonesia,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",23.52
+Countries,IDN,Indonesia,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.67
+Countries,IDN,Indonesia,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.19
+Countries,IDN,Indonesia,2011,POLIO,Poliomyelitis,"Per 100,000 population",5.52
+Countries,IDN,Indonesia,2011,HEPB,Hepatitis B,"Per 100,000 population",21.7
+Countries,IDN,Indonesia,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",50.23
+Countries,IDN,Indonesia,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",82.49
+Countries,IDN,Indonesia,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",99.31
+Countries,IDN,Indonesia,2012,MEASLES,Measles,"Per 100,000 population",24.72
+Countries,IDN,Indonesia,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",18.88
+Countries,IDN,Indonesia,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.26
+Countries,IDN,Indonesia,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.06
+Countries,IDN,Indonesia,2012,POLIO,Poliomyelitis,"Per 100,000 population",11.43
+Countries,IDN,Indonesia,2012,HEPB,Hepatitis B,"Per 100,000 population",20.79
+Countries,IDN,Indonesia,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",39.96
+Countries,IDN,Indonesia,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",76.7
+Countries,IDN,Indonesia,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",97.27
+Countries,IDN,Indonesia,2013,MEASLES,Measles,"Per 100,000 population",21.82
+Countries,IDN,Indonesia,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",20.88
+Countries,IDN,Indonesia,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.63
+Countries,IDN,Indonesia,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.52
+Countries,IDN,Indonesia,2013,POLIO,Poliomyelitis,"Per 100,000 population",8.08
+Countries,IDN,Indonesia,2013,HEPB,Hepatitis B,"Per 100,000 population",21.2
+Countries,IDN,Indonesia,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",47.06
+Countries,IDN,Indonesia,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",67.45
+Countries,IDN,Indonesia,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",94.36
+Countries,IDN,Indonesia,2014,MEASLES,Measles,"Per 100,000 population",24.63
+Countries,IDN,Indonesia,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",25.5
+Countries,IDN,Indonesia,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.98
+Countries,IDN,Indonesia,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",10.76
+Countries,IDN,Indonesia,2014,POLIO,Poliomyelitis,"Per 100,000 population",5.68
+Countries,IDN,Indonesia,2014,HEPB,Hepatitis B,"Per 100,000 population",18.81
+Countries,IDN,Indonesia,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",51.37
+Countries,IDN,Indonesia,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",72.94
+Countries,IDN,Indonesia,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",89.87
+Countries,IDN,Indonesia,2015,MEASLES,Measles,"Per 100,000 population",22.78
+Countries,IDN,Indonesia,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",20.62
+Countries,IDN,Indonesia,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,IDN,Indonesia,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.36
+Countries,IDN,Indonesia,2015,POLIO,Poliomyelitis,"Per 100,000 population",3.95
+Countries,IDN,Indonesia,2015,HEPB,Hepatitis B,"Per 100,000 population",18.15
+Countries,IDN,Indonesia,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",38.66
+Countries,IDN,Indonesia,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",59.74
+Countries,IDN,Indonesia,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",78.95
+Countries,IDN,Indonesia,2016,MEASLES,Measles,"Per 100,000 population",19.2
+Countries,IDN,Indonesia,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",15.44
+Countries,IDN,Indonesia,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,IDN,Indonesia,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IDN,Indonesia,2016,POLIO,Poliomyelitis,"Per 100,000 population",2.3
+Countries,IDN,Indonesia,2016,HEPB,Hepatitis B,"Per 100,000 population",17.68
+Countries,IDN,Indonesia,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",29.61
+Countries,IDN,Indonesia,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",60.61
+Countries,IDN,Indonesia,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",75.07
+Countries,IDN,Indonesia,2017,MEASLES,Measles,"Per 100,000 population",20.98
+Countries,IDN,Indonesia,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.02
+Countries,IDN,Indonesia,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.85
+Countries,IDN,Indonesia,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.75
+Countries,IDN,Indonesia,2017,POLIO,Poliomyelitis,"Per 100,000 population",8.36
+Countries,IDN,Indonesia,2017,HEPB,Hepatitis B,"Per 100,000 population",19.29
+Countries,IDN,Indonesia,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",32.63
+Countries,IDN,Indonesia,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",62.4
+Countries,IDN,Indonesia,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",85.53
+Countries,IDN,Indonesia,2018,MEASLES,Measles,"Per 100,000 population",19.64
+Countries,IDN,Indonesia,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",9.71
+Countries,IDN,Indonesia,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.0
+Countries,IDN,Indonesia,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.65
+Countries,IDN,Indonesia,2018,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,IDN,Indonesia,2018,HEPB,Hepatitis B,"Per 100,000 population",16.62
+Countries,IDN,Indonesia,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",34.52
+Countries,IDN,Indonesia,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",64.13
+Countries,IDN,Indonesia,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",66.61
+Countries,IDN,Indonesia,2019,MEASLES,Measles,"Per 100,000 population",30.82
+Countries,IDN,Indonesia,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",10.32
+Countries,IDN,Indonesia,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.46
+Countries,IDN,Indonesia,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IDN,Indonesia,2019,POLIO,Poliomyelitis,"Per 100,000 population",2.39
+Countries,IDN,Indonesia,2019,HEPB,Hepatitis B,"Per 100,000 population",6.94
+Countries,IDN,Indonesia,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",41.9
+Countries,IDN,Indonesia,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",58.51
+Countries,IDN,Indonesia,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",75.95
+Countries,IDN,Indonesia,2020,MEASLES,Measles,"Per 100,000 population",40.34
+Countries,IDN,Indonesia,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",25.18
+Countries,IDN,Indonesia,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.25
+Countries,IDN,Indonesia,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IDN,Indonesia,2020,POLIO,Poliomyelitis,"Per 100,000 population",7.29
+Countries,IDN,Indonesia,2020,HEPB,Hepatitis B,"Per 100,000 population",25.43
+Countries,IDN,Indonesia,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",59.12
+Countries,IDN,Indonesia,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",75.88
+Countries,IDN,Indonesia,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",111.54
+Countries,IDN,Indonesia,2021,MEASLES,Measles,"Per 100,000 population",29.07
+Countries,IDN,Indonesia,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.5
+Countries,IDN,Indonesia,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.28
+Countries,IDN,Indonesia,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IDN,Indonesia,2021,POLIO,Poliomyelitis,"Per 100,000 population",2.63
+Countries,IDN,Indonesia,2021,HEPB,Hepatitis B,"Per 100,000 population",19.63
+Countries,IDN,Indonesia,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",51.07
+Countries,IDN,Indonesia,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",80.27
+Countries,IDN,Indonesia,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",87.21
+Countries,IDN,Indonesia,2022,MEASLES,Measles,"Per 100,000 population",23.74
+Countries,IDN,Indonesia,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.9
+Countries,IDN,Indonesia,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,IDN,Indonesia,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,IDN,Indonesia,2022,POLIO,Poliomyelitis,"Per 100,000 population",4.69
+Countries,IDN,Indonesia,2022,HEPB,Hepatitis B,"Per 100,000 population",12.87
+Countries,IDN,Indonesia,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",30.61
+Countries,IDN,Indonesia,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",47.06
+Countries,IDN,Indonesia,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",66.48
+Countries,IDN,Indonesia,2023,MEASLES,Measles,"Per 100,000 population",17.96
+Countries,IDN,Indonesia,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",8.82
+Countries,IDN,Indonesia,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.02
+Countries,IDN,Indonesia,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",11.31
+Countries,IDN,Indonesia,2023,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,IDN,Indonesia,2023,HEPB,Hepatitis B,"Per 100,000 population",19.25
+Countries,IDN,Indonesia,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",22.45
+Countries,IDN,Indonesia,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",49.34
+Countries,IDN,Indonesia,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",51.64
+Countries,IDN,Indonesia,2024,MEASLES,Measles,"Per 100,000 population",18.41
+Countries,IDN,Indonesia,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",11.23
+Countries,IDN,Indonesia,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,IDN,Indonesia,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",10.55
+Countries,IDN,Indonesia,2024,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,IDN,Indonesia,2024,HEPB,Hepatitis B,"Per 100,000 population",4.59
+Countries,IDN,Indonesia,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",22.32
+Countries,IDN,Indonesia,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",55.18
+Countries,IDN,Indonesia,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",48.41
+Countries,EGY,Egypt,2010,MEASLES,Measles,"Per 100,000 population",79.84
+Countries,EGY,Egypt,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",47.81
+Countries,EGY,Egypt,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.16
+Countries,EGY,Egypt,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,EGY,Egypt,2010,POLIO,Poliomyelitis,"Per 100,000 population",18.58
+Countries,EGY,Egypt,2010,HEPB,Hepatitis B,"Per 100,000 population",57.82
+Countries,EGY,Egypt,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",129.62
+Countries,EGY,Egypt,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",235.35
+Countries,EGY,Egypt,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",301.58
+Countries,EGY,Egypt,2011,MEASLES,Measles,"Per 100,000 population",82.0
+Countries,EGY,Egypt,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",64.26
+Countries,EGY,Egypt,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.45
+Countries,EGY,Egypt,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.53
+Countries,EGY,Egypt,2011,POLIO,Poliomyelitis,"Per 100,000 population",14.07
+Countries,EGY,Egypt,2011,HEPB,Hepatitis B,"Per 100,000 population",48.81
+Countries,EGY,Egypt,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",140.05
+Countries,EGY,Egypt,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",231.97
+Countries,EGY,Egypt,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",296.6
+Countries,EGY,Egypt,2012,MEASLES,Measles,"Per 100,000 population",75.56
+Countries,EGY,Egypt,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",61.55
+Countries,EGY,Egypt,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.69
+Countries,EGY,Egypt,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,EGY,Egypt,2012,POLIO,Poliomyelitis,"Per 100,000 population",13.46
+Countries,EGY,Egypt,2012,HEPB,Hepatitis B,"Per 100,000 population",53.75
+Countries,EGY,Egypt,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",134.53
+Countries,EGY,Egypt,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",213.48
+Countries,EGY,Egypt,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",265.48
+Countries,EGY,Egypt,2013,MEASLES,Measles,"Per 100,000 population",78.37
+Countries,EGY,Egypt,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",56.03
+Countries,EGY,Egypt,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.84
+Countries,EGY,Egypt,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",11.49
+Countries,EGY,Egypt,2013,POLIO,Poliomyelitis,"Per 100,000 population",22.96
+Countries,EGY,Egypt,2013,HEPB,Hepatitis B,"Per 100,000 population",51.91
+Countries,EGY,Egypt,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",120.98
+Countries,EGY,Egypt,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",212.05
+Countries,EGY,Egypt,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",276.5
+Countries,EGY,Egypt,2014,MEASLES,Measles,"Per 100,000 population",68.2
+Countries,EGY,Egypt,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.91
+Countries,EGY,Egypt,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.76
+Countries,EGY,Egypt,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,EGY,Egypt,2014,POLIO,Poliomyelitis,"Per 100,000 population",12.09
+Countries,EGY,Egypt,2014,HEPB,Hepatitis B,"Per 100,000 population",57.66
+Countries,EGY,Egypt,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",126.97
+Countries,EGY,Egypt,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",174.74
+Countries,EGY,Egypt,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",257.15
+Countries,EGY,Egypt,2015,MEASLES,Measles,"Per 100,000 population",66.14
+Countries,EGY,Egypt,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",35.64
+Countries,EGY,Egypt,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.14
+Countries,EGY,Egypt,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",12.58
+Countries,EGY,Egypt,2015,POLIO,Poliomyelitis,"Per 100,000 population",9.52
+Countries,EGY,Egypt,2015,HEPB,Hepatitis B,"Per 100,000 population",57.65
+Countries,EGY,Egypt,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",103.21
+Countries,EGY,Egypt,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",190.54
+Countries,EGY,Egypt,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",232.52
+Countries,EGY,Egypt,2016,MEASLES,Measles,"Per 100,000 population",58.07
+Countries,EGY,Egypt,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",55.38
+Countries,EGY,Egypt,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,EGY,Egypt,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,EGY,Egypt,2016,POLIO,Poliomyelitis,"Per 100,000 population",16.81
+Countries,EGY,Egypt,2016,HEPB,Hepatitis B,"Per 100,000 population",48.73
+Countries,EGY,Egypt,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",114.3
+Countries,EGY,Egypt,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",184.73
+Countries,EGY,Egypt,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",232.43
+Countries,EGY,Egypt,2017,MEASLES,Measles,"Per 100,000 population",51.27
+Countries,EGY,Egypt,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",48.8
+Countries,EGY,Egypt,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,EGY,Egypt,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",15.23
+Countries,EGY,Egypt,2017,POLIO,Poliomyelitis,"Per 100,000 population",13.84
+Countries,EGY,Egypt,2017,HEPB,Hepatitis B,"Per 100,000 population",37.7
+Countries,EGY,Egypt,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",83.71
+Countries,EGY,Egypt,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",149.77
+Countries,EGY,Egypt,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",206.91
+Countries,EGY,Egypt,2018,MEASLES,Measles,"Per 100,000 population",52.38
+Countries,EGY,Egypt,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",40.29
+Countries,EGY,Egypt,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",19.0
+Countries,EGY,Egypt,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.48
+Countries,EGY,Egypt,2018,POLIO,Poliomyelitis,"Per 100,000 population",10.71
+Countries,EGY,Egypt,2018,HEPB,Hepatitis B,"Per 100,000 population",50.31
+Countries,EGY,Egypt,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",98.56
+Countries,EGY,Egypt,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",173.71
+Countries,EGY,Egypt,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",204.23
+Countries,EGY,Egypt,2019,MEASLES,Measles,"Per 100,000 population",49.6
+Countries,EGY,Egypt,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",26.82
+Countries,EGY,Egypt,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.47
+Countries,EGY,Egypt,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,EGY,Egypt,2019,POLIO,Poliomyelitis,"Per 100,000 population",3.26
+Countries,EGY,Egypt,2019,HEPB,Hepatitis B,"Per 100,000 population",50.46
+Countries,EGY,Egypt,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",88.8
+Countries,EGY,Egypt,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",168.81
+Countries,EGY,Egypt,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",215.53
+Countries,EGY,Egypt,2020,MEASLES,Measles,"Per 100,000 population",78.65
+Countries,EGY,Egypt,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",64.94
+Countries,EGY,Egypt,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.97
+Countries,EGY,Egypt,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",14.89
+Countries,EGY,Egypt,2020,POLIO,Poliomyelitis,"Per 100,000 population",3.93
+Countries,EGY,Egypt,2020,HEPB,Hepatitis B,"Per 100,000 population",63.06
+Countries,EGY,Egypt,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",146.84
+Countries,EGY,Egypt,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",199.13
+Countries,EGY,Egypt,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",292.27
+Countries,EGY,Egypt,2021,MEASLES,Measles,"Per 100,000 population",73.08
+Countries,EGY,Egypt,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",52.85
+Countries,EGY,Egypt,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",21.22
+Countries,EGY,Egypt,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,EGY,Egypt,2021,POLIO,Poliomyelitis,"Per 100,000 population",7.1
+Countries,EGY,Egypt,2021,HEPB,Hepatitis B,"Per 100,000 population",55.98
+Countries,EGY,Egypt,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",137.19
+Countries,EGY,Egypt,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",219.45
+Countries,EGY,Egypt,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",277.36
+Countries,EGY,Egypt,2022,MEASLES,Measles,"Per 100,000 population",43.46
+Countries,EGY,Egypt,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",17.87
+Countries,EGY,Egypt,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.73
+Countries,EGY,Egypt,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.94
+Countries,EGY,Egypt,2022,POLIO,Poliomyelitis,"Per 100,000 population",4.54
+Countries,EGY,Egypt,2022,HEPB,Hepatitis B,"Per 100,000 population",30.54
+Countries,EGY,Egypt,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",71.52
+Countries,EGY,Egypt,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",137.51
+Countries,EGY,Egypt,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",166.43
+Countries,EGY,Egypt,2023,MEASLES,Measles,"Per 100,000 population",43.29
+Countries,EGY,Egypt,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",35.81
+Countries,EGY,Egypt,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.83
+Countries,EGY,Egypt,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.9
+Countries,EGY,Egypt,2023,POLIO,Poliomyelitis,"Per 100,000 population",10.46
+Countries,EGY,Egypt,2023,HEPB,Hepatitis B,"Per 100,000 population",34.63
+Countries,EGY,Egypt,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",78.9
+Countries,EGY,Egypt,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",132.48
+Countries,EGY,Egypt,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",169.76
+Countries,EGY,Egypt,2024,MEASLES,Measles,"Per 100,000 population",34.75
+Countries,EGY,Egypt,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",26.51
+Countries,EGY,Egypt,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.99
+Countries,EGY,Egypt,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.05
+Countries,EGY,Egypt,2024,POLIO,Poliomyelitis,"Per 100,000 population",20.21
+Countries,EGY,Egypt,2024,HEPB,Hepatitis B,"Per 100,000 population",26.8
+Countries,EGY,Egypt,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",81.96
+Countries,EGY,Egypt,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",122.37
+Countries,EGY,Egypt,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",172.05
+Countries,ZAF,South Africa,2010,MEASLES,Measles,"Per 100,000 population",37.6
+Countries,ZAF,South Africa,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",11.12
+Countries,ZAF,South Africa,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.87
+Countries,ZAF,South Africa,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,ZAF,South Africa,2010,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,ZAF,South Africa,2010,HEPB,Hepatitis B,"Per 100,000 population",12.89
+Countries,ZAF,South Africa,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",52.18
+Countries,ZAF,South Africa,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",83.96
+Countries,ZAF,South Africa,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",109.14
+Countries,ZAF,South Africa,2011,MEASLES,Measles,"Per 100,000 population",30.56
+Countries,ZAF,South Africa,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",21.92
+Countries,ZAF,South Africa,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.0
+Countries,ZAF,South Africa,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.18
+Countries,ZAF,South Africa,2011,POLIO,Poliomyelitis,"Per 100,000 population",10.83
+Countries,ZAF,South Africa,2011,HEPB,Hepatitis B,"Per 100,000 population",20.7
+Countries,ZAF,South Africa,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",50.78
+Countries,ZAF,South Africa,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",68.61
+Countries,ZAF,South Africa,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",97.31
+Countries,ZAF,South Africa,2012,MEASLES,Measles,"Per 100,000 population",32.73
+Countries,ZAF,South Africa,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",16.37
+Countries,ZAF,South Africa,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,ZAF,South Africa,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.06
+Countries,ZAF,South Africa,2012,POLIO,Poliomyelitis,"Per 100,000 population",5.8
+Countries,ZAF,South Africa,2012,HEPB,Hepatitis B,"Per 100,000 population",18.84
+Countries,ZAF,South Africa,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",56.25
+Countries,ZAF,South Africa,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",87.86
+Countries,ZAF,South Africa,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",103.42
+Countries,ZAF,South Africa,2013,MEASLES,Measles,"Per 100,000 population",32.11
+Countries,ZAF,South Africa,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",8.99
+Countries,ZAF,South Africa,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.03
+Countries,ZAF,South Africa,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,ZAF,South Africa,2013,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,ZAF,South Africa,2013,HEPB,Hepatitis B,"Per 100,000 population",12.44
+Countries,ZAF,South Africa,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",40.55
+Countries,ZAF,South Africa,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",88.51
+Countries,ZAF,South Africa,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",110.01
+Countries,ZAF,South Africa,2014,MEASLES,Measles,"Per 100,000 population",22.12
+Countries,ZAF,South Africa,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",22.66
+Countries,ZAF,South Africa,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.27
+Countries,ZAF,South Africa,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.35
+Countries,ZAF,South Africa,2014,POLIO,Poliomyelitis,"Per 100,000 population",3.0
+Countries,ZAF,South Africa,2014,HEPB,Hepatitis B,"Per 100,000 population",18.87
+Countries,ZAF,South Africa,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",40.88
+Countries,ZAF,South Africa,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",71.9
+Countries,ZAF,South Africa,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",100.05
+Countries,ZAF,South Africa,2015,MEASLES,Measles,"Per 100,000 population",26.95
+Countries,ZAF,South Africa,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",14.52
+Countries,ZAF,South Africa,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,ZAF,South Africa,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",13.92
+Countries,ZAF,South Africa,2015,POLIO,Poliomyelitis,"Per 100,000 population",5.06
+Countries,ZAF,South Africa,2015,HEPB,Hepatitis B,"Per 100,000 population",19.13
+Countries,ZAF,South Africa,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",34.69
+Countries,ZAF,South Africa,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",74.4
+Countries,ZAF,South Africa,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",94.68
+Countries,ZAF,South Africa,2016,MEASLES,Measles,"Per 100,000 population",13.75
+Countries,ZAF,South Africa,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",15.27
+Countries,ZAF,South Africa,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.88
+Countries,ZAF,South Africa,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",13.43
+Countries,ZAF,South Africa,2016,POLIO,Poliomyelitis,"Per 100,000 population",11.86
+Countries,ZAF,South Africa,2016,HEPB,Hepatitis B,"Per 100,000 population",9.46
+Countries,ZAF,South Africa,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",35.36
+Countries,ZAF,South Africa,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",60.53
+Countries,ZAF,South Africa,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",85.43
+Countries,ZAF,South Africa,2017,MEASLES,Measles,"Per 100,000 population",27.8
+Countries,ZAF,South Africa,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",14.67
+Countries,ZAF,South Africa,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.0
+Countries,ZAF,South Africa,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,ZAF,South Africa,2017,POLIO,Poliomyelitis,"Per 100,000 population",6.63
+Countries,ZAF,South Africa,2017,HEPB,Hepatitis B,"Per 100,000 population",12.59
+Countries,ZAF,South Africa,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",26.69
+Countries,ZAF,South Africa,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",60.31
+Countries,ZAF,South Africa,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",74.72
+Countries,ZAF,South Africa,2018,MEASLES,Measles,"Per 100,000 population",13.43
+Countries,ZAF,South Africa,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",21.63
+Countries,ZAF,South Africa,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,ZAF,South Africa,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.31
+Countries,ZAF,South Africa,2018,POLIO,Poliomyelitis,"Per 100,000 population",2.13
+Countries,ZAF,South Africa,2018,HEPB,Hepatitis B,"Per 100,000 population",21.91
+Countries,ZAF,South Africa,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",31.92
+Countries,ZAF,South Africa,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",46.81
+Countries,ZAF,South Africa,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",75.0
+Countries,ZAF,South Africa,2019,MEASLES,Measles,"Per 100,000 population",26.19
+Countries,ZAF,South Africa,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",10.96
+Countries,ZAF,South Africa,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",5.71
+Countries,ZAF,South Africa,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.88
+Countries,ZAF,South Africa,2019,POLIO,Poliomyelitis,"Per 100,000 population",1.94
+Countries,ZAF,South Africa,2019,HEPB,Hepatitis B,"Per 100,000 population",18.07
+Countries,ZAF,South Africa,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",28.36
+Countries,ZAF,South Africa,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",54.09
+Countries,ZAF,South Africa,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",70.62
+Countries,ZAF,South Africa,2020,MEASLES,Measles,"Per 100,000 population",26.29
+Countries,ZAF,South Africa,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.96
+Countries,ZAF,South Africa,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",13.45
+Countries,ZAF,South Africa,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.99
+Countries,ZAF,South Africa,2020,POLIO,Poliomyelitis,"Per 100,000 population",10.2
+Countries,ZAF,South Africa,2020,HEPB,Hepatitis B,"Per 100,000 population",26.06
+Countries,ZAF,South Africa,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",44.42
+Countries,ZAF,South Africa,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",71.61
+Countries,ZAF,South Africa,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",89.01
+Countries,ZAF,South Africa,2021,MEASLES,Measles,"Per 100,000 population",22.11
+Countries,ZAF,South Africa,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.08
+Countries,ZAF,South Africa,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.56
+Countries,ZAF,South Africa,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.09
+Countries,ZAF,South Africa,2021,POLIO,Poliomyelitis,"Per 100,000 population",9.91
+Countries,ZAF,South Africa,2021,HEPB,Hepatitis B,"Per 100,000 population",23.65
+Countries,ZAF,South Africa,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",38.99
+Countries,ZAF,South Africa,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",78.19
+Countries,ZAF,South Africa,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",101.82
+Countries,ZAF,South Africa,2022,MEASLES,Measles,"Per 100,000 population",16.95
+Countries,ZAF,South Africa,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",18.9
+Countries,ZAF,South Africa,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.66
+Countries,ZAF,South Africa,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,ZAF,South Africa,2022,POLIO,Poliomyelitis,"Per 100,000 population",14.76
+Countries,ZAF,South Africa,2022,HEPB,Hepatitis B,"Per 100,000 population",10.09
+Countries,ZAF,South Africa,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",36.68
+Countries,ZAF,South Africa,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",57.76
+Countries,ZAF,South Africa,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",62.22
+Countries,ZAF,South Africa,2023,MEASLES,Measles,"Per 100,000 population",16.82
+Countries,ZAF,South Africa,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",15.82
+Countries,ZAF,South Africa,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,ZAF,South Africa,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.56
+Countries,ZAF,South Africa,2023,POLIO,Poliomyelitis,"Per 100,000 population",8.28
+Countries,ZAF,South Africa,2023,HEPB,Hepatitis B,"Per 100,000 population",17.23
+Countries,ZAF,South Africa,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",25.88
+Countries,ZAF,South Africa,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",54.16
+Countries,ZAF,South Africa,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",66.23
+Countries,ZAF,South Africa,2024,MEASLES,Measles,"Per 100,000 population",17.82
+Countries,ZAF,South Africa,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",8.47
+Countries,ZAF,South Africa,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,ZAF,South Africa,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.0
+Countries,ZAF,South Africa,2024,POLIO,Poliomyelitis,"Per 100,000 population",10.78
+Countries,ZAF,South Africa,2024,HEPB,Hepatitis B,"Per 100,000 population",11.72
+Countries,ZAF,South Africa,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",24.77
+Countries,ZAF,South Africa,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",52.57
+Countries,ZAF,South Africa,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",63.16
+Countries,GBR,United Kingdom,2010,MEASLES,Measles,"Per 100,000 population",3.79
+Countries,GBR,United Kingdom,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.79
+Countries,GBR,United Kingdom,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,GBR,United Kingdom,2010,POLIO,Poliomyelitis,"Per 100,000 population",1.18
+Countries,GBR,United Kingdom,2010,HEPB,Hepatitis B,"Per 100,000 population",2.12
+Countries,GBR,United Kingdom,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",6.32
+Countries,GBR,United Kingdom,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.93
+Countries,GBR,United Kingdom,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.77
+Countries,GBR,United Kingdom,2011,MEASLES,Measles,"Per 100,000 population",3.92
+Countries,GBR,United Kingdom,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.61
+Countries,GBR,United Kingdom,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.32
+Countries,GBR,United Kingdom,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,GBR,United Kingdom,2011,POLIO,Poliomyelitis,"Per 100,000 population",1.36
+Countries,GBR,United Kingdom,2011,HEPB,Hepatitis B,"Per 100,000 population",2.65
+Countries,GBR,United Kingdom,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.82
+Countries,GBR,United Kingdom,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.48
+Countries,GBR,United Kingdom,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.38
+Countries,GBR,United Kingdom,2012,MEASLES,Measles,"Per 100,000 population",0.89
+Countries,GBR,United Kingdom,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.62
+Countries,GBR,United Kingdom,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.29
+Countries,GBR,United Kingdom,2012,POLIO,Poliomyelitis,"Per 100,000 population",0.47
+Countries,GBR,United Kingdom,2012,HEPB,Hepatitis B,"Per 100,000 population",2.91
+Countries,GBR,United Kingdom,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",6.03
+Countries,GBR,United Kingdom,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.08
+Countries,GBR,United Kingdom,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",11.72
+Countries,GBR,United Kingdom,2013,MEASLES,Measles,"Per 100,000 population",3.39
+Countries,GBR,United Kingdom,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",3.69
+Countries,GBR,United Kingdom,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,GBR,United Kingdom,2013,POLIO,Poliomyelitis,"Per 100,000 population",1.54
+Countries,GBR,United Kingdom,2013,HEPB,Hepatitis B,"Per 100,000 population",3.54
+Countries,GBR,United Kingdom,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",6.11
+Countries,GBR,United Kingdom,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.29
+Countries,GBR,United Kingdom,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",14.04
+Countries,GBR,United Kingdom,2014,MEASLES,Measles,"Per 100,000 population",3.14
+Countries,GBR,United Kingdom,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.13
+Countries,GBR,United Kingdom,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.7
+Countries,GBR,United Kingdom,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.67
+Countries,GBR,United Kingdom,2014,POLIO,Poliomyelitis,"Per 100,000 population",1.56
+Countries,GBR,United Kingdom,2014,HEPB,Hepatitis B,"Per 100,000 population",3.28
+Countries,GBR,United Kingdom,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.82
+Countries,GBR,United Kingdom,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",10.42
+Countries,GBR,United Kingdom,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",8.66
+Countries,GBR,United Kingdom,2015,MEASLES,Measles,"Per 100,000 population",0.79
+Countries,GBR,United Kingdom,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.28
+Countries,GBR,United Kingdom,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.55
+Countries,GBR,United Kingdom,2015,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2015,HEPB,Hepatitis B,"Per 100,000 population",2.06
+Countries,GBR,United Kingdom,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.63
+Countries,GBR,United Kingdom,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",10.07
+Countries,GBR,United Kingdom,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.56
+Countries,GBR,United Kingdom,2016,MEASLES,Measles,"Per 100,000 population",0.89
+Countries,GBR,United Kingdom,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.94
+Countries,GBR,United Kingdom,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,GBR,United Kingdom,2016,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2016,HEPB,Hepatitis B,"Per 100,000 population",2.67
+Countries,GBR,United Kingdom,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.13
+Countries,GBR,United Kingdom,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",4.71
+Countries,GBR,United Kingdom,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.95
+Countries,GBR,United Kingdom,2017,MEASLES,Measles,"Per 100,000 population",2.89
+Countries,GBR,United Kingdom,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.95
+Countries,GBR,United Kingdom,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.59
+Countries,GBR,United Kingdom,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,GBR,United Kingdom,2017,POLIO,Poliomyelitis,"Per 100,000 population",0.61
+Countries,GBR,United Kingdom,2017,HEPB,Hepatitis B,"Per 100,000 population",2.49
+Countries,GBR,United Kingdom,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.52
+Countries,GBR,United Kingdom,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.4
+Countries,GBR,United Kingdom,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.7
+Countries,GBR,United Kingdom,2018,MEASLES,Measles,"Per 100,000 population",3.61
+Countries,GBR,United Kingdom,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.53
+Countries,GBR,United Kingdom,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.92
+Countries,GBR,United Kingdom,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.52
+Countries,GBR,United Kingdom,2018,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2018,HEPB,Hepatitis B,"Per 100,000 population",2.2
+Countries,GBR,United Kingdom,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",2.89
+Countries,GBR,United Kingdom,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.78
+Countries,GBR,United Kingdom,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.38
+Countries,GBR,United Kingdom,2019,MEASLES,Measles,"Per 100,000 population",3.63
+Countries,GBR,United Kingdom,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.82
+Countries,GBR,United Kingdom,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.45
+Countries,GBR,United Kingdom,2019,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2019,HEPB,Hepatitis B,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.85
+Countries,GBR,United Kingdom,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.59
+Countries,GBR,United Kingdom,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.47
+Countries,GBR,United Kingdom,2020,MEASLES,Measles,"Per 100,000 population",4.88
+Countries,GBR,United Kingdom,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.38
+Countries,GBR,United Kingdom,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.97
+Countries,GBR,United Kingdom,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.17
+Countries,GBR,United Kingdom,2020,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2020,HEPB,Hepatitis B,"Per 100,000 population",1.37
+Countries,GBR,United Kingdom,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.69
+Countries,GBR,United Kingdom,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",10.86
+Countries,GBR,United Kingdom,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",12.59
+Countries,GBR,United Kingdom,2021,MEASLES,Measles,"Per 100,000 population",3.4
+Countries,GBR,United Kingdom,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.95
+Countries,GBR,United Kingdom,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.81
+Countries,GBR,United Kingdom,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,GBR,United Kingdom,2021,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2021,HEPB,Hepatitis B,"Per 100,000 population",1.61
+Countries,GBR,United Kingdom,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",6.71
+Countries,GBR,United Kingdom,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",8.11
+Countries,GBR,United Kingdom,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",11.11
+Countries,GBR,United Kingdom,2022,MEASLES,Measles,"Per 100,000 population",2.65
+Countries,GBR,United Kingdom,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.66
+Countries,GBR,United Kingdom,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.5
+Countries,GBR,United Kingdom,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.37
+Countries,GBR,United Kingdom,2022,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2022,HEPB,Hepatitis B,"Per 100,000 population",1.38
+Countries,GBR,United Kingdom,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",2.87
+Countries,GBR,United Kingdom,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.74
+Countries,GBR,United Kingdom,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",8.43
+Countries,GBR,United Kingdom,2023,MEASLES,Measles,"Per 100,000 population",1.18
+Countries,GBR,United Kingdom,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.7
+Countries,GBR,United Kingdom,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.45
+Countries,GBR,United Kingdom,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,GBR,United Kingdom,2023,POLIO,Poliomyelitis,"Per 100,000 population",1.8
+Countries,GBR,United Kingdom,2023,HEPB,Hepatitis B,"Per 100,000 population",0.68
+Countries,GBR,United Kingdom,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.98
+Countries,GBR,United Kingdom,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.28
+Countries,GBR,United Kingdom,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.21
+Countries,GBR,United Kingdom,2024,MEASLES,Measles,"Per 100,000 population",1.83
+Countries,GBR,United Kingdom,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.44
+Countries,GBR,United Kingdom,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.32
+Countries,GBR,United Kingdom,2024,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,GBR,United Kingdom,2024,HEPB,Hepatitis B,"Per 100,000 population",1.53
+Countries,GBR,United Kingdom,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.7
+Countries,GBR,United Kingdom,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",6.85
+Countries,GBR,United Kingdom,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.1
+Countries,JPN,Japan,2010,MEASLES,Measles,"Per 100,000 population",4.09
+Countries,JPN,Japan,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.76
+Countries,JPN,Japan,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,JPN,Japan,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,JPN,Japan,2010,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,JPN,Japan,2010,HEPB,Hepatitis B,"Per 100,000 population",2.45
+Countries,JPN,Japan,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",6.35
+Countries,JPN,Japan,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",11.17
+Countries,JPN,Japan,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",14.53
+Countries,JPN,Japan,2011,MEASLES,Measles,"Per 100,000 population",3.22
+Countries,JPN,Japan,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.49
+Countries,JPN,Japan,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,JPN,Japan,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.33
+Countries,JPN,Japan,2011,POLIO,Poliomyelitis,"Per 100,000 population",1.72
+Countries,JPN,Japan,2011,HEPB,Hepatitis B,"Per 100,000 population",2.82
+Countries,JPN,Japan,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",7.52
+Countries,JPN,Japan,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",11.54
+Countries,JPN,Japan,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",15.07
+Countries,JPN,Japan,2012,MEASLES,Measles,"Per 100,000 population",3.05
+Countries,JPN,Japan,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.54
+Countries,JPN,Japan,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.99
+Countries,JPN,Japan,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,JPN,Japan,2012,POLIO,Poliomyelitis,"Per 100,000 population",1.2
+Countries,JPN,Japan,2012,HEPB,Hepatitis B,"Per 100,000 population",1.53
+Countries,JPN,Japan,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.28
+Countries,JPN,Japan,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",9.73
+Countries,JPN,Japan,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.93
+Countries,JPN,Japan,2013,MEASLES,Measles,"Per 100,000 population",3.89
+Countries,JPN,Japan,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.62
+Countries,JPN,Japan,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.45
+Countries,JPN,Japan,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,JPN,Japan,2013,POLIO,Poliomyelitis,"Per 100,000 population",2.08
+Countries,JPN,Japan,2013,HEPB,Hepatitis B,"Per 100,000 population",1.22
+Countries,JPN,Japan,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.97
+Countries,JPN,Japan,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.67
+Countries,JPN,Japan,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.98
+Countries,JPN,Japan,2014,MEASLES,Measles,"Per 100,000 population",3.47
+Countries,JPN,Japan,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.52
+Countries,JPN,Japan,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,JPN,Japan,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.62
+Countries,JPN,Japan,2014,POLIO,Poliomyelitis,"Per 100,000 population",0.38
+Countries,JPN,Japan,2014,HEPB,Hepatitis B,"Per 100,000 population",2.17
+Countries,JPN,Japan,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.61
+Countries,JPN,Japan,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.07
+Countries,JPN,Japan,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",11.24
+Countries,JPN,Japan,2015,MEASLES,Measles,"Per 100,000 population",2.85
+Countries,JPN,Japan,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.01
+Countries,JPN,Japan,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.26
+Countries,JPN,Japan,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.23
+Countries,JPN,Japan,2015,POLIO,Poliomyelitis,"Per 100,000 population",0.61
+Countries,JPN,Japan,2015,HEPB,Hepatitis B,"Per 100,000 population",3.69
+Countries,JPN,Japan,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",2.87
+Countries,JPN,Japan,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",5.84
+Countries,JPN,Japan,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",8.19
+Countries,JPN,Japan,2016,MEASLES,Measles,"Per 100,000 population",2.74
+Countries,JPN,Japan,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.32
+Countries,JPN,Japan,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,JPN,Japan,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,JPN,Japan,2016,POLIO,Poliomyelitis,"Per 100,000 population",2.16
+Countries,JPN,Japan,2016,HEPB,Hepatitis B,"Per 100,000 population",3.78
+Countries,JPN,Japan,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.05
+Countries,JPN,Japan,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",5.41
+Countries,JPN,Japan,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",8.41
+Countries,JPN,Japan,2017,MEASLES,Measles,"Per 100,000 population",3.39
+Countries,JPN,Japan,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.77
+Countries,JPN,Japan,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.22
+Countries,JPN,Japan,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.42
+Countries,JPN,Japan,2017,POLIO,Poliomyelitis,"Per 100,000 population",2.44
+Countries,JPN,Japan,2017,HEPB,Hepatitis B,"Per 100,000 population",1.26
+Countries,JPN,Japan,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.56
+Countries,JPN,Japan,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.02
+Countries,JPN,Japan,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.59
+Countries,JPN,Japan,2018,MEASLES,Measles,"Per 100,000 population",3.1
+Countries,JPN,Japan,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.26
+Countries,JPN,Japan,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,JPN,Japan,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,JPN,Japan,2018,POLIO,Poliomyelitis,"Per 100,000 population",0.11
+Countries,JPN,Japan,2018,HEPB,Hepatitis B,"Per 100,000 population",2.53
+Countries,JPN,Japan,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.53
+Countries,JPN,Japan,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",6.27
+Countries,JPN,Japan,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.09
+Countries,JPN,Japan,2019,MEASLES,Measles,"Per 100,000 population",2.94
+Countries,JPN,Japan,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.05
+Countries,JPN,Japan,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,JPN,Japan,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,JPN,Japan,2019,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,JPN,Japan,2019,HEPB,Hepatitis B,"Per 100,000 population",1.41
+Countries,JPN,Japan,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.85
+Countries,JPN,Japan,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",6.09
+Countries,JPN,Japan,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.45
+Countries,JPN,Japan,2020,MEASLES,Measles,"Per 100,000 population",2.62
+Countries,JPN,Japan,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",2.66
+Countries,JPN,Japan,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.32
+Countries,JPN,Japan,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.38
+Countries,JPN,Japan,2020,POLIO,Poliomyelitis,"Per 100,000 population",1.01
+Countries,JPN,Japan,2020,HEPB,Hepatitis B,"Per 100,000 population",2.06
+Countries,JPN,Japan,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.77
+Countries,JPN,Japan,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",10.22
+Countries,JPN,Japan,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",10.81
+Countries,JPN,Japan,2021,MEASLES,Measles,"Per 100,000 population",4.1
+Countries,JPN,Japan,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.8
+Countries,JPN,Japan,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,JPN,Japan,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.89
+Countries,JPN,Japan,2021,POLIO,Poliomyelitis,"Per 100,000 population",0.26
+Countries,JPN,Japan,2021,HEPB,Hepatitis B,"Per 100,000 population",2.5
+Countries,JPN,Japan,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",5.32
+Countries,JPN,Japan,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",6.4
+Countries,JPN,Japan,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",11.33
+Countries,JPN,Japan,2022,MEASLES,Measles,"Per 100,000 population",0.86
+Countries,JPN,Japan,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.26
+Countries,JPN,Japan,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.65
+Countries,JPN,Japan,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.69
+Countries,JPN,Japan,2022,POLIO,Poliomyelitis,"Per 100,000 population",1.68
+Countries,JPN,Japan,2022,HEPB,Hepatitis B,"Per 100,000 population",0.63
+Countries,JPN,Japan,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",3.28
+Countries,JPN,Japan,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.17
+Countries,JPN,Japan,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.84
+Countries,JPN,Japan,2023,MEASLES,Measles,"Per 100,000 population",2.41
+Countries,JPN,Japan,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",0.69
+Countries,JPN,Japan,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.78
+Countries,JPN,Japan,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,JPN,Japan,2023,POLIO,Poliomyelitis,"Per 100,000 population",0.23
+Countries,JPN,Japan,2023,HEPB,Hepatitis B,"Per 100,000 population",0.23
+Countries,JPN,Japan,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.6
+Countries,JPN,Japan,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",7.32
+Countries,JPN,Japan,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",7.61
+Countries,JPN,Japan,2024,MEASLES,Measles,"Per 100,000 population",3.99
+Countries,JPN,Japan,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",1.0
+Countries,JPN,Japan,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.9
+Countries,JPN,Japan,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.37
+Countries,JPN,Japan,2024,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,JPN,Japan,2024,HEPB,Hepatitis B,"Per 100,000 population",2.22
+Countries,JPN,Japan,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",4.36
+Countries,JPN,Japan,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",4.75
+Countries,JPN,Japan,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",9.91
+Countries,MEX,Mexico,2010,MEASLES,Measles,"Per 100,000 population",29.47
+Countries,MEX,Mexico,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",25.45
+Countries,MEX,Mexico,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,MEX,Mexico,2010,POLIO,Poliomyelitis,"Per 100,000 population",11.57
+Countries,MEX,Mexico,2010,HEPB,Hepatitis B,"Per 100,000 population",12.54
+Countries,MEX,Mexico,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",45.66
+Countries,MEX,Mexico,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",81.31
+Countries,MEX,Mexico,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",92.46
+Countries,MEX,Mexico,2011,MEASLES,Measles,"Per 100,000 population",20.94
+Countries,MEX,Mexico,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",26.42
+Countries,MEX,Mexico,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.74
+Countries,MEX,Mexico,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.72
+Countries,MEX,Mexico,2011,POLIO,Poliomyelitis,"Per 100,000 population",6.65
+Countries,MEX,Mexico,2011,HEPB,Hepatitis B,"Per 100,000 population",32.94
+Countries,MEX,Mexico,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",50.4
+Countries,MEX,Mexico,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",86.69
+Countries,MEX,Mexico,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",102.06
+Countries,MEX,Mexico,2012,MEASLES,Measles,"Per 100,000 population",27.08
+Countries,MEX,Mexico,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",21.64
+Countries,MEX,Mexico,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.29
+Countries,MEX,Mexico,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.54
+Countries,MEX,Mexico,2012,POLIO,Poliomyelitis,"Per 100,000 population",5.44
+Countries,MEX,Mexico,2012,HEPB,Hepatitis B,"Per 100,000 population",22.03
+Countries,MEX,Mexico,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",48.05
+Countries,MEX,Mexico,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",70.78
+Countries,MEX,Mexico,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",98.72
+Countries,MEX,Mexico,2013,MEASLES,Measles,"Per 100,000 population",27.16
+Countries,MEX,Mexico,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",13.22
+Countries,MEX,Mexico,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.72
+Countries,MEX,Mexico,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.77
+Countries,MEX,Mexico,2013,POLIO,Poliomyelitis,"Per 100,000 population",16.98
+Countries,MEX,Mexico,2013,HEPB,Hepatitis B,"Per 100,000 population",19.04
+Countries,MEX,Mexico,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",50.41
+Countries,MEX,Mexico,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",77.24
+Countries,MEX,Mexico,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",105.45
+Countries,MEX,Mexico,2014,MEASLES,Measles,"Per 100,000 population",19.21
+Countries,MEX,Mexico,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",14.56
+Countries,MEX,Mexico,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.21
+Countries,MEX,Mexico,2014,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2014,HEPB,Hepatitis B,"Per 100,000 population",10.41
+Countries,MEX,Mexico,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",31.43
+Countries,MEX,Mexico,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",59.18
+Countries,MEX,Mexico,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",93.49
+Countries,MEX,Mexico,2015,MEASLES,Measles,"Per 100,000 population",19.33
+Countries,MEX,Mexico,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",9.14
+Countries,MEX,Mexico,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,MEX,Mexico,2015,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2015,HEPB,Hepatitis B,"Per 100,000 population",24.23
+Countries,MEX,Mexico,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",44.9
+Countries,MEX,Mexico,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",70.97
+Countries,MEX,Mexico,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",81.93
+Countries,MEX,Mexico,2016,MEASLES,Measles,"Per 100,000 population",22.26
+Countries,MEX,Mexico,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",11.51
+Countries,MEX,Mexico,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.5
+Countries,MEX,Mexico,2016,POLIO,Poliomyelitis,"Per 100,000 population",7.61
+Countries,MEX,Mexico,2016,HEPB,Hepatitis B,"Per 100,000 population",21.63
+Countries,MEX,Mexico,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",33.78
+Countries,MEX,Mexico,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",54.58
+Countries,MEX,Mexico,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",81.9
+Countries,MEX,Mexico,2017,MEASLES,Measles,"Per 100,000 population",11.24
+Countries,MEX,Mexico,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",14.2
+Countries,MEX,Mexico,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.99
+Countries,MEX,Mexico,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,MEX,Mexico,2017,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2017,HEPB,Hepatitis B,"Per 100,000 population",13.42
+Countries,MEX,Mexico,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",43.79
+Countries,MEX,Mexico,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",62.25
+Countries,MEX,Mexico,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",82.05
+Countries,MEX,Mexico,2018,MEASLES,Measles,"Per 100,000 population",14.53
+Countries,MEX,Mexico,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",15.88
+Countries,MEX,Mexico,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.02
+Countries,MEX,Mexico,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.91
+Countries,MEX,Mexico,2018,POLIO,Poliomyelitis,"Per 100,000 population",7.08
+Countries,MEX,Mexico,2018,HEPB,Hepatitis B,"Per 100,000 population",16.2
+Countries,MEX,Mexico,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",30.14
+Countries,MEX,Mexico,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",63.21
+Countries,MEX,Mexico,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",81.53
+Countries,MEX,Mexico,2019,MEASLES,Measles,"Per 100,000 population",27.18
+Countries,MEX,Mexico,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",21.39
+Countries,MEX,Mexico,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.95
+Countries,MEX,Mexico,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,MEX,Mexico,2019,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2019,HEPB,Hepatitis B,"Per 100,000 population",14.3
+Countries,MEX,Mexico,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",40.61
+Countries,MEX,Mexico,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",64.29
+Countries,MEX,Mexico,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",78.54
+Countries,MEX,Mexico,2020,MEASLES,Measles,"Per 100,000 population",25.54
+Countries,MEX,Mexico,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",27.74
+Countries,MEX,Mexico,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.09
+Countries,MEX,Mexico,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",1.28
+Countries,MEX,Mexico,2020,POLIO,Poliomyelitis,"Per 100,000 population",2.13
+Countries,MEX,Mexico,2020,HEPB,Hepatitis B,"Per 100,000 population",14.25
+Countries,MEX,Mexico,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",39.49
+Countries,MEX,Mexico,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",69.99
+Countries,MEX,Mexico,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",97.88
+Countries,MEX,Mexico,2021,MEASLES,Measles,"Per 100,000 population",23.69
+Countries,MEX,Mexico,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",15.22
+Countries,MEX,Mexico,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.65
+Countries,MEX,Mexico,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",10.63
+Countries,MEX,Mexico,2021,POLIO,Poliomyelitis,"Per 100,000 population",0.84
+Countries,MEX,Mexico,2021,HEPB,Hepatitis B,"Per 100,000 population",14.46
+Countries,MEX,Mexico,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",30.53
+Countries,MEX,Mexico,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",69.23
+Countries,MEX,Mexico,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",88.54
+Countries,MEX,Mexico,2022,MEASLES,Measles,"Per 100,000 population",22.55
+Countries,MEX,Mexico,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",12.38
+Countries,MEX,Mexico,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",2.17
+Countries,MEX,Mexico,2022,POLIO,Poliomyelitis,"Per 100,000 population",6.55
+Countries,MEX,Mexico,2022,HEPB,Hepatitis B,"Per 100,000 population",5.48
+Countries,MEX,Mexico,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",36.69
+Countries,MEX,Mexico,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",59.3
+Countries,MEX,Mexico,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",70.58
+Countries,MEX,Mexico,2023,MEASLES,Measles,"Per 100,000 population",11.38
+Countries,MEX,Mexico,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",9.74
+Countries,MEX,Mexico,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.92
+Countries,MEX,Mexico,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,MEX,Mexico,2023,POLIO,Poliomyelitis,"Per 100,000 population",6.49
+Countries,MEX,Mexico,2023,HEPB,Hepatitis B,"Per 100,000 population",11.78
+Countries,MEX,Mexico,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",28.89
+Countries,MEX,Mexico,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",42.63
+Countries,MEX,Mexico,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",61.84
+Countries,MEX,Mexico,2024,MEASLES,Measles,"Per 100,000 population",16.6
+Countries,MEX,Mexico,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",3.3
+Countries,MEX,Mexico,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.89
+Countries,MEX,Mexico,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.09
+Countries,MEX,Mexico,2024,POLIO,Poliomyelitis,"Per 100,000 population",1.26
+Countries,MEX,Mexico,2024,HEPB,Hepatitis B,"Per 100,000 population",0.1
+Countries,MEX,Mexico,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",26.21
+Countries,MEX,Mexico,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",51.98
+Countries,MEX,Mexico,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",55.68
+Countries,PAK,Pakistan,2010,MEASLES,Measles,"Per 100,000 population",89.1
+Countries,PAK,Pakistan,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",50.34
+Countries,PAK,Pakistan,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.76
+Countries,PAK,Pakistan,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.24
+Countries,PAK,Pakistan,2010,POLIO,Poliomyelitis,"Per 100,000 population",10.72
+Countries,PAK,Pakistan,2010,HEPB,Hepatitis B,"Per 100,000 population",61.63
+Countries,PAK,Pakistan,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",135.82
+Countries,PAK,Pakistan,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",241.03
+Countries,PAK,Pakistan,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",293.53
+Countries,PAK,Pakistan,2011,MEASLES,Measles,"Per 100,000 population",72.43
+Countries,PAK,Pakistan,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",55.03
+Countries,PAK,Pakistan,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",15.67
+Countries,PAK,Pakistan,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",15.14
+Countries,PAK,Pakistan,2011,POLIO,Poliomyelitis,"Per 100,000 population",13.31
+Countries,PAK,Pakistan,2011,HEPB,Hepatitis B,"Per 100,000 population",51.06
+Countries,PAK,Pakistan,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",112.26
+Countries,PAK,Pakistan,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",223.72
+Countries,PAK,Pakistan,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",271.79
+Countries,PAK,Pakistan,2012,MEASLES,Measles,"Per 100,000 population",79.53
+Countries,PAK,Pakistan,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",56.5
+Countries,PAK,Pakistan,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.63
+Countries,PAK,Pakistan,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.4
+Countries,PAK,Pakistan,2012,POLIO,Poliomyelitis,"Per 100,000 population",11.56
+Countries,PAK,Pakistan,2012,HEPB,Hepatitis B,"Per 100,000 population",53.59
+Countries,PAK,Pakistan,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",123.32
+Countries,PAK,Pakistan,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",227.53
+Countries,PAK,Pakistan,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",282.45
+Countries,PAK,Pakistan,2013,MEASLES,Measles,"Per 100,000 population",77.53
+Countries,PAK,Pakistan,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",61.19
+Countries,PAK,Pakistan,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,PAK,Pakistan,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",11.14
+Countries,PAK,Pakistan,2013,POLIO,Poliomyelitis,"Per 100,000 population",3.76
+Countries,PAK,Pakistan,2013,HEPB,Hepatitis B,"Per 100,000 population",49.01
+Countries,PAK,Pakistan,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",113.67
+Countries,PAK,Pakistan,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",176.77
+Countries,PAK,Pakistan,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",233.7
+Countries,PAK,Pakistan,2014,MEASLES,Measles,"Per 100,000 population",78.89
+Countries,PAK,Pakistan,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",55.32
+Countries,PAK,Pakistan,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",2.42
+Countries,PAK,Pakistan,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.2
+Countries,PAK,Pakistan,2014,POLIO,Poliomyelitis,"Per 100,000 population",5.47
+Countries,PAK,Pakistan,2014,HEPB,Hepatitis B,"Per 100,000 population",48.85
+Countries,PAK,Pakistan,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",131.03
+Countries,PAK,Pakistan,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",229.64
+Countries,PAK,Pakistan,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",294.16
+Countries,PAK,Pakistan,2015,MEASLES,Measles,"Per 100,000 population",85.02
+Countries,PAK,Pakistan,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",54.1
+Countries,PAK,Pakistan,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",10.34
+Countries,PAK,Pakistan,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",8.28
+Countries,PAK,Pakistan,2015,POLIO,Poliomyelitis,"Per 100,000 population",18.44
+Countries,PAK,Pakistan,2015,HEPB,Hepatitis B,"Per 100,000 population",42.83
+Countries,PAK,Pakistan,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",139.55
+Countries,PAK,Pakistan,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",197.03
+Countries,PAK,Pakistan,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",278.75
+Countries,PAK,Pakistan,2016,MEASLES,Measles,"Per 100,000 population",63.5
+Countries,PAK,Pakistan,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",37.07
+Countries,PAK,Pakistan,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",11.61
+Countries,PAK,Pakistan,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.38
+Countries,PAK,Pakistan,2016,POLIO,Poliomyelitis,"Per 100,000 population",8.37
+Countries,PAK,Pakistan,2016,HEPB,Hepatitis B,"Per 100,000 population",37.66
+Countries,PAK,Pakistan,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",100.17
+Countries,PAK,Pakistan,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",179.78
+Countries,PAK,Pakistan,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",233.93
+Countries,PAK,Pakistan,2017,MEASLES,Measles,"Per 100,000 population",45.67
+Countries,PAK,Pakistan,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",38.62
+Countries,PAK,Pakistan,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,PAK,Pakistan,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.13
+Countries,PAK,Pakistan,2017,POLIO,Poliomyelitis,"Per 100,000 population",19.9
+Countries,PAK,Pakistan,2017,HEPB,Hepatitis B,"Per 100,000 population",42.63
+Countries,PAK,Pakistan,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",94.09
+Countries,PAK,Pakistan,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",154.16
+Countries,PAK,Pakistan,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",213.15
+Countries,PAK,Pakistan,2018,MEASLES,Measles,"Per 100,000 population",52.13
+Countries,PAK,Pakistan,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",55.32
+Countries,PAK,Pakistan,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,PAK,Pakistan,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",5.59
+Countries,PAK,Pakistan,2018,POLIO,Poliomyelitis,"Per 100,000 population",21.03
+Countries,PAK,Pakistan,2018,HEPB,Hepatitis B,"Per 100,000 population",35.28
+Countries,PAK,Pakistan,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",91.95
+Countries,PAK,Pakistan,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",160.38
+Countries,PAK,Pakistan,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",203.28
+Countries,PAK,Pakistan,2019,MEASLES,Measles,"Per 100,000 population",55.46
+Countries,PAK,Pakistan,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",44.63
+Countries,PAK,Pakistan,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.02
+Countries,PAK,Pakistan,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",13.5
+Countries,PAK,Pakistan,2019,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,PAK,Pakistan,2019,HEPB,Hepatitis B,"Per 100,000 population",46.2
+Countries,PAK,Pakistan,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",98.23
+Countries,PAK,Pakistan,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",144.91
+Countries,PAK,Pakistan,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",183.13
+Countries,PAK,Pakistan,2020,MEASLES,Measles,"Per 100,000 population",66.34
+Countries,PAK,Pakistan,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",50.97
+Countries,PAK,Pakistan,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.15
+Countries,PAK,Pakistan,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",8.04
+Countries,PAK,Pakistan,2020,POLIO,Poliomyelitis,"Per 100,000 population",27.72
+Countries,PAK,Pakistan,2020,HEPB,Hepatitis B,"Per 100,000 population",41.42
+Countries,PAK,Pakistan,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",105.26
+Countries,PAK,Pakistan,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",197.75
+Countries,PAK,Pakistan,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",250.11
+Countries,PAK,Pakistan,2021,MEASLES,Measles,"Per 100,000 population",61.67
+Countries,PAK,Pakistan,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",54.93
+Countries,PAK,Pakistan,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",7.29
+Countries,PAK,Pakistan,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.13
+Countries,PAK,Pakistan,2021,POLIO,Poliomyelitis,"Per 100,000 population",10.49
+Countries,PAK,Pakistan,2021,HEPB,Hepatitis B,"Per 100,000 population",48.5
+Countries,PAK,Pakistan,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",115.69
+Countries,PAK,Pakistan,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",209.18
+Countries,PAK,Pakistan,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",245.84
+Countries,PAK,Pakistan,2022,MEASLES,Measles,"Per 100,000 population",51.38
+Countries,PAK,Pakistan,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",31.93
+Countries,PAK,Pakistan,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,PAK,Pakistan,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,PAK,Pakistan,2022,POLIO,Poliomyelitis,"Per 100,000 population",10.96
+Countries,PAK,Pakistan,2022,HEPB,Hepatitis B,"Per 100,000 population",37.5
+Countries,PAK,Pakistan,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",77.14
+Countries,PAK,Pakistan,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",132.56
+Countries,PAK,Pakistan,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",151.94
+Countries,PAK,Pakistan,2023,MEASLES,Measles,"Per 100,000 population",44.11
+Countries,PAK,Pakistan,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",40.3
+Countries,PAK,Pakistan,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,PAK,Pakistan,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",10.76
+Countries,PAK,Pakistan,2023,POLIO,Poliomyelitis,"Per 100,000 population",16.6
+Countries,PAK,Pakistan,2023,HEPB,Hepatitis B,"Per 100,000 population",24.17
+Countries,PAK,Pakistan,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",78.97
+Countries,PAK,Pakistan,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",128.78
+Countries,PAK,Pakistan,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",162.91
+Countries,PAK,Pakistan,2024,MEASLES,Measles,"Per 100,000 population",34.82
+Countries,PAK,Pakistan,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",30.39
+Countries,PAK,Pakistan,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.59
+Countries,PAK,Pakistan,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,PAK,Pakistan,2024,POLIO,Poliomyelitis,"Per 100,000 population",0.34
+Countries,PAK,Pakistan,2024,HEPB,Hepatitis B,"Per 100,000 population",27.64
+Countries,PAK,Pakistan,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",72.3
+Countries,PAK,Pakistan,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",135.01
+Countries,PAK,Pakistan,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",177.03
+Countries,BGD,Bangladesh,2010,MEASLES,Measles,"Per 100,000 population",76.24
+Countries,BGD,Bangladesh,2010,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",60.91
+Countries,BGD,Bangladesh,2010,DIPHTHERIA,Diphtheria,"Per 100,000 population",16.47
+Countries,BGD,Bangladesh,2010,TETANUS,Neonatal Tetanus,"Per 1,000 live births",4.63
+Countries,BGD,Bangladesh,2010,POLIO,Poliomyelitis,"Per 100,000 population",19.19
+Countries,BGD,Bangladesh,2010,HEPB,Hepatitis B,"Per 100,000 population",57.25
+Countries,BGD,Bangladesh,2010,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",129.36
+Countries,BGD,Bangladesh,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",223.48
+Countries,BGD,Bangladesh,2010,INFLUENZA,Seasonal Influenza,"Per 100,000 population",296.34
+Countries,BGD,Bangladesh,2011,MEASLES,Measles,"Per 100,000 population",78.14
+Countries,BGD,Bangladesh,2011,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",61.11
+Countries,BGD,Bangladesh,2011,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BGD,Bangladesh,2011,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BGD,Bangladesh,2011,POLIO,Poliomyelitis,"Per 100,000 population",5.76
+Countries,BGD,Bangladesh,2011,HEPB,Hepatitis B,"Per 100,000 population",60.41
+Countries,BGD,Bangladesh,2011,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",128.59
+Countries,BGD,Bangladesh,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",232.64
+Countries,BGD,Bangladesh,2011,INFLUENZA,Seasonal Influenza,"Per 100,000 population",301.49
+Countries,BGD,Bangladesh,2012,MEASLES,Measles,"Per 100,000 population",87.58
+Countries,BGD,Bangladesh,2012,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",64.36
+Countries,BGD,Bangladesh,2012,DIPHTHERIA,Diphtheria,"Per 100,000 population",4.75
+Countries,BGD,Bangladesh,2012,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BGD,Bangladesh,2012,POLIO,Poliomyelitis,"Per 100,000 population",11.61
+Countries,BGD,Bangladesh,2012,HEPB,Hepatitis B,"Per 100,000 population",64.56
+Countries,BGD,Bangladesh,2012,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",131.96
+Countries,BGD,Bangladesh,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",224.3
+Countries,BGD,Bangladesh,2012,INFLUENZA,Seasonal Influenza,"Per 100,000 population",284.71
+Countries,BGD,Bangladesh,2013,MEASLES,Measles,"Per 100,000 population",84.44
+Countries,BGD,Bangladesh,2013,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",44.87
+Countries,BGD,Bangladesh,2013,DIPHTHERIA,Diphtheria,"Per 100,000 population",9.64
+Countries,BGD,Bangladesh,2013,TETANUS,Neonatal Tetanus,"Per 1,000 live births",12.65
+Countries,BGD,Bangladesh,2013,POLIO,Poliomyelitis,"Per 100,000 population",28.18
+Countries,BGD,Bangladesh,2013,HEPB,Hepatitis B,"Per 100,000 population",50.17
+Countries,BGD,Bangladesh,2013,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",135.13
+Countries,BGD,Bangladesh,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",209.58
+Countries,BGD,Bangladesh,2013,INFLUENZA,Seasonal Influenza,"Per 100,000 population",284.79
+Countries,BGD,Bangladesh,2014,MEASLES,Measles,"Per 100,000 population",78.78
+Countries,BGD,Bangladesh,2014,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",41.0
+Countries,BGD,Bangladesh,2014,DIPHTHERIA,Diphtheria,"Per 100,000 population",12.91
+Countries,BGD,Bangladesh,2014,TETANUS,Neonatal Tetanus,"Per 1,000 live births",12.24
+Countries,BGD,Bangladesh,2014,POLIO,Poliomyelitis,"Per 100,000 population",11.83
+Countries,BGD,Bangladesh,2014,HEPB,Hepatitis B,"Per 100,000 population",53.84
+Countries,BGD,Bangladesh,2014,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",120.87
+Countries,BGD,Bangladesh,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",208.52
+Countries,BGD,Bangladesh,2014,INFLUENZA,Seasonal Influenza,"Per 100,000 population",236.21
+Countries,BGD,Bangladesh,2015,MEASLES,Measles,"Per 100,000 population",66.31
+Countries,BGD,Bangladesh,2015,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",38.49
+Countries,BGD,Bangladesh,2015,DIPHTHERIA,Diphtheria,"Per 100,000 population",8.43
+Countries,BGD,Bangladesh,2015,TETANUS,Neonatal Tetanus,"Per 1,000 live births",0.1
+Countries,BGD,Bangladesh,2015,POLIO,Poliomyelitis,"Per 100,000 population",12.11
+Countries,BGD,Bangladesh,2015,HEPB,Hepatitis B,"Per 100,000 population",43.9
+Countries,BGD,Bangladesh,2015,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",117.81
+Countries,BGD,Bangladesh,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",202.05
+Countries,BGD,Bangladesh,2015,INFLUENZA,Seasonal Influenza,"Per 100,000 population",247.51
+Countries,BGD,Bangladesh,2016,MEASLES,Measles,"Per 100,000 population",70.71
+Countries,BGD,Bangladesh,2016,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",50.3
+Countries,BGD,Bangladesh,2016,DIPHTHERIA,Diphtheria,"Per 100,000 population",21.82
+Countries,BGD,Bangladesh,2016,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.93
+Countries,BGD,Bangladesh,2016,POLIO,Poliomyelitis,"Per 100,000 population",12.21
+Countries,BGD,Bangladesh,2016,HEPB,Hepatitis B,"Per 100,000 population",34.42
+Countries,BGD,Bangladesh,2016,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",100.74
+Countries,BGD,Bangladesh,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",175.56
+Countries,BGD,Bangladesh,2016,INFLUENZA,Seasonal Influenza,"Per 100,000 population",226.96
+Countries,BGD,Bangladesh,2017,MEASLES,Measles,"Per 100,000 population",75.54
+Countries,BGD,Bangladesh,2017,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",40.41
+Countries,BGD,Bangladesh,2017,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.1
+Countries,BGD,Bangladesh,2017,TETANUS,Neonatal Tetanus,"Per 1,000 live births",8.59
+Countries,BGD,Bangladesh,2017,POLIO,Poliomyelitis,"Per 100,000 population",16.56
+Countries,BGD,Bangladesh,2017,HEPB,Hepatitis B,"Per 100,000 population",41.11
+Countries,BGD,Bangladesh,2017,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",118.31
+Countries,BGD,Bangladesh,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",159.09
+Countries,BGD,Bangladesh,2017,INFLUENZA,Seasonal Influenza,"Per 100,000 population",230.36
+Countries,BGD,Bangladesh,2018,MEASLES,Measles,"Per 100,000 population",53.86
+Countries,BGD,Bangladesh,2018,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",32.94
+Countries,BGD,Bangladesh,2018,DIPHTHERIA,Diphtheria,"Per 100,000 population",23.79
+Countries,BGD,Bangladesh,2018,TETANUS,Neonatal Tetanus,"Per 1,000 live births",8.88
+Countries,BGD,Bangladesh,2018,POLIO,Poliomyelitis,"Per 100,000 population",9.56
+Countries,BGD,Bangladesh,2018,HEPB,Hepatitis B,"Per 100,000 population",39.69
+Countries,BGD,Bangladesh,2018,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",99.76
+Countries,BGD,Bangladesh,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",159.81
+Countries,BGD,Bangladesh,2018,INFLUENZA,Seasonal Influenza,"Per 100,000 population",218.73
+Countries,BGD,Bangladesh,2019,MEASLES,Measles,"Per 100,000 population",54.44
+Countries,BGD,Bangladesh,2019,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",45.25
+Countries,BGD,Bangladesh,2019,DIPHTHERIA,Diphtheria,"Per 100,000 population",8.18
+Countries,BGD,Bangladesh,2019,TETANUS,Neonatal Tetanus,"Per 1,000 live births",9.68
+Countries,BGD,Bangladesh,2019,POLIO,Poliomyelitis,"Per 100,000 population",20.63
+Countries,BGD,Bangladesh,2019,HEPB,Hepatitis B,"Per 100,000 population",52.14
+Countries,BGD,Bangladesh,2019,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",97.64
+Countries,BGD,Bangladesh,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",150.93
+Countries,BGD,Bangladesh,2019,INFLUENZA,Seasonal Influenza,"Per 100,000 population",200.65
+Countries,BGD,Bangladesh,2020,MEASLES,Measles,"Per 100,000 population",71.63
+Countries,BGD,Bangladesh,2020,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",46.86
+Countries,BGD,Bangladesh,2020,DIPHTHERIA,Diphtheria,"Per 100,000 population",3.8
+Countries,BGD,Bangladesh,2020,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.01
+Countries,BGD,Bangladesh,2020,POLIO,Poliomyelitis,"Per 100,000 population",8.08
+Countries,BGD,Bangladesh,2020,HEPB,Hepatitis B,"Per 100,000 population",45.62
+Countries,BGD,Bangladesh,2020,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",113.82
+Countries,BGD,Bangladesh,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",212.83
+Countries,BGD,Bangladesh,2020,INFLUENZA,Seasonal Influenza,"Per 100,000 population",271.71
+Countries,BGD,Bangladesh,2021,MEASLES,Measles,"Per 100,000 population",65.83
+Countries,BGD,Bangladesh,2021,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",55.2
+Countries,BGD,Bangladesh,2021,DIPHTHERIA,Diphtheria,"Per 100,000 population",1.52
+Countries,BGD,Bangladesh,2021,TETANUS,Neonatal Tetanus,"Per 1,000 live births",7.21
+Countries,BGD,Bangladesh,2021,POLIO,Poliomyelitis,"Per 100,000 population",14.57
+Countries,BGD,Bangladesh,2021,HEPB,Hepatitis B,"Per 100,000 population",45.89
+Countries,BGD,Bangladesh,2021,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",115.73
+Countries,BGD,Bangladesh,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",194.64
+Countries,BGD,Bangladesh,2021,INFLUENZA,Seasonal Influenza,"Per 100,000 population",257.14
+Countries,BGD,Bangladesh,2022,MEASLES,Measles,"Per 100,000 population",48.11
+Countries,BGD,Bangladesh,2022,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",28.15
+Countries,BGD,Bangladesh,2022,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.51
+Countries,BGD,Bangladesh,2022,TETANUS,Neonatal Tetanus,"Per 1,000 live births",3.89
+Countries,BGD,Bangladesh,2022,POLIO,Poliomyelitis,"Per 100,000 population",0.1
+Countries,BGD,Bangladesh,2022,HEPB,Hepatitis B,"Per 100,000 population",33.2
+Countries,BGD,Bangladesh,2022,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",87.85
+Countries,BGD,Bangladesh,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",123.26
+Countries,BGD,Bangladesh,2022,INFLUENZA,Seasonal Influenza,"Per 100,000 population",163.58
+Countries,BGD,Bangladesh,2023,MEASLES,Measles,"Per 100,000 population",55.22
+Countries,BGD,Bangladesh,2023,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",39.32
+Countries,BGD,Bangladesh,2023,DIPHTHERIA,Diphtheria,"Per 100,000 population",6.44
+Countries,BGD,Bangladesh,2023,TETANUS,Neonatal Tetanus,"Per 1,000 live births",2.79
+Countries,BGD,Bangladesh,2023,POLIO,Poliomyelitis,"Per 100,000 population",1.36
+Countries,BGD,Bangladesh,2023,HEPB,Hepatitis B,"Per 100,000 population",39.47
+Countries,BGD,Bangladesh,2023,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",74.68
+Countries,BGD,Bangladesh,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",125.68
+Countries,BGD,Bangladesh,2023,INFLUENZA,Seasonal Influenza,"Per 100,000 population",187.23
+Countries,BGD,Bangladesh,2024,MEASLES,Measles,"Per 100,000 population",46.44
+Countries,BGD,Bangladesh,2024,PERTUSSIS,Pertussis (Whooping Cough),"Per 100,000 population",37.13
+Countries,BGD,Bangladesh,2024,DIPHTHERIA,Diphtheria,"Per 100,000 population",0.31
+Countries,BGD,Bangladesh,2024,TETANUS,Neonatal Tetanus,"Per 1,000 live births",6.18
+Countries,BGD,Bangladesh,2024,POLIO,Poliomyelitis,"Per 100,000 population",6.04
+Countries,BGD,Bangladesh,2024,HEPB,Hepatitis B,"Per 100,000 population",30.51
+Countries,BGD,Bangladesh,2024,TUBERCULOSIS,Tuberculosis,"Per 100,000 population",83.34
+Countries,BGD,Bangladesh,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,"Per 100,000 population",126.5
+Countries,BGD,Bangladesh,2024,INFLUENZA,Seasonal Influenza,"Per 100,000 population",159.11

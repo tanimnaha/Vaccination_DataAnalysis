@@ -1,0 +1,1576 @@
+ISO_3_Code,Country_Name,Who_Region,Year,Dimension,Subgroup,Coverage_Pct,Dropout_Rate_Pct,Population_Density_sqkm,Vaccination_Strategy,Seasonal_Peak_Quarter
+IND,India,SEARO,2010,Gender,Female,61.66,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2010,Gender,Male,62.62,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2010,Urban_Rural,Urban,68.63,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2010,Urban_Rural,Rural,55.34,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2010,Education_Level,Primary or Less,52.0,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2010,Education_Level,Secondary,62.37,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2010,Education_Level,Tertiary,74.49,34.45,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2011,Gender,Female,63.95,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2011,Gender,Male,61.72,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2011,Urban_Rural,Urban,69.72,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2011,Urban_Rural,Rural,56.18,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2011,Education_Level,Primary or Less,53.69,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2011,Education_Level,Secondary,62.13,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2011,Education_Level,Tertiary,71.46,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2012,Gender,Female,64.93,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2012,Gender,Male,61.9,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2012,Urban_Rural,Urban,68.64,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2012,Urban_Rural,Rural,56.35,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2012,Education_Level,Primary or Less,51.78,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2012,Education_Level,Secondary,64.68,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2012,Education_Level,Tertiary,75.68,33.4,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2013,Gender,Female,63.39,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2013,Gender,Male,61.93,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2013,Urban_Rural,Urban,68.67,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2013,Urban_Rural,Rural,55.57,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2013,Education_Level,Primary or Less,54.22,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2013,Education_Level,Secondary,65.17,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2013,Education_Level,Tertiary,77.36,31.93,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2014,Gender,Female,66.06,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2014,Gender,Male,63.98,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2014,Urban_Rural,Urban,72.82,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2014,Urban_Rural,Rural,55.7,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2014,Education_Level,Primary or Less,56.1,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2014,Education_Level,Secondary,66.45,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2014,Education_Level,Tertiary,75.12,33.9,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2015,Gender,Female,66.91,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2015,Gender,Male,64.29,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2015,Urban_Rural,Urban,72.22,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2015,Urban_Rural,Rural,57.88,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2015,Education_Level,Primary or Less,55.96,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2015,Education_Level,Secondary,66.74,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2015,Education_Level,Tertiary,77.89,31.46,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2016,Gender,Female,64.96,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2016,Gender,Male,66.04,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2016,Urban_Rural,Urban,70.43,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2016,Urban_Rural,Rural,57.8,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2016,Education_Level,Primary or Less,56.98,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2016,Education_Level,Secondary,65.18,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2016,Education_Level,Tertiary,77.45,31.84,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2017,Gender,Female,66.33,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2017,Gender,Male,65.13,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2017,Urban_Rural,Urban,72.18,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2017,Urban_Rural,Rural,57.79,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2017,Education_Level,Primary or Less,54.31,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2017,Education_Level,Secondary,72.01,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2017,Education_Level,Tertiary,77.63,31.69,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2018,Gender,Female,67.16,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2018,Gender,Male,66.24,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2018,Urban_Rural,Urban,74.14,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2018,Urban_Rural,Rural,59.65,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2018,Education_Level,Primary or Less,55.7,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2018,Education_Level,Secondary,68.25,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2018,Education_Level,Tertiary,80.38,29.27,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2019,Gender,Female,67.7,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2019,Gender,Male,65.5,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2019,Urban_Rural,Urban,74.33,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2019,Urban_Rural,Rural,58.48,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2019,Education_Level,Primary or Less,56.94,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2019,Education_Level,Secondary,68.42,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2019,Education_Level,Tertiary,77.44,31.86,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2020,Gender,Female,69.87,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2020,Gender,Male,68.46,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2020,Urban_Rural,Urban,74.53,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2020,Urban_Rural,Rural,61.39,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2020,Education_Level,Primary or Less,57.72,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2020,Education_Level,Secondary,71.6,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2020,Education_Level,Tertiary,77.78,31.55,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2021,Gender,Female,70.67,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2021,Gender,Male,69.14,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2021,Urban_Rural,Urban,79.0,32.85,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2021,Urban_Rural,Rural,60.09,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2021,Education_Level,Primary or Less,63.68,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2021,Education_Level,Secondary,72.84,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2021,Education_Level,Tertiary,83.44,26.57,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2022,Gender,Female,72.11,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2022,Gender,Male,68.66,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2022,Urban_Rural,Urban,77.69,33.96,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2022,Urban_Rural,Rural,62.1,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2022,Education_Level,Primary or Less,60.27,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2022,Education_Level,Secondary,70.64,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2022,Education_Level,Tertiary,80.38,29.26,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2023,Gender,Female,72.8,34.48,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2023,Gender,Male,70.74,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2023,Urban_Rural,Urban,78.83,33.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2023,Urban_Rural,Rural,61.92,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2023,Education_Level,Primary or Less,58.29,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2023,Education_Level,Secondary,74.75,34.22,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2023,Education_Level,Tertiary,83.64,26.4,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2024,Gender,Female,72.81,34.47,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2024,Gender,Male,71.42,35.0,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2024,Urban_Rural,Urban,79.34,32.56,435,Centralized Health Clinic,Q1
+IND,India,SEARO,2024,Urban_Rural,Rural,64.52,35.0,435,Door-to-Door Campaign,Q1
+IND,India,SEARO,2024,Education_Level,Primary or Less,62.61,35.0,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2024,Education_Level,Secondary,75.02,33.98,435,Mobile Outreach Unit,Q1
+IND,India,SEARO,2024,Education_Level,Tertiary,82.66,27.26,435,Mobile Outreach Unit,Q1
+USA,United States,AMRO,2010,Gender,Female,88.45,20.39,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2010,Gender,Male,87.58,21.18,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2010,Urban_Rural,Urban,97.22,17.37,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2010,Urban_Rural,Rural,79.48,32.44,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2010,Education_Level,Primary or Less,77.35,31.93,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2010,Education_Level,Secondary,87.37,23.12,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2010,Education_Level,Tertiary,99.0,12.31,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2011,Gender,Female,88.97,19.93,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2011,Gender,Male,86.5,22.15,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2011,Urban_Rural,Urban,95.12,19.14,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2011,Urban_Rural,Rural,82.99,29.46,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2011,Education_Level,Primary or Less,78.17,31.21,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2011,Education_Level,Secondary,90.31,20.53,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2011,Education_Level,Tertiary,99.0,10.34,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2012,Gender,Female,90.19,18.82,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2012,Gender,Male,87.39,21.35,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2012,Urban_Rural,Urban,96.73,17.78,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2012,Urban_Rural,Rural,83.25,29.24,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2012,Education_Level,Primary or Less,79.1,30.39,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2012,Education_Level,Secondary,91.6,19.4,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2012,Education_Level,Tertiary,98.43,13.38,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2013,Gender,Female,90.03,18.97,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2013,Gender,Male,88.97,19.93,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2013,Urban_Rural,Urban,96.69,17.81,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2013,Urban_Rural,Rural,81.86,30.42,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2013,Education_Level,Primary or Less,79.54,30.0,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2013,Education_Level,Secondary,91.91,19.12,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2013,Education_Level,Tertiary,99.0,12.35,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2014,Gender,Female,91.33,17.8,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2014,Gender,Male,91.16,17.96,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2014,Urban_Rural,Urban,96.58,17.9,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2014,Urban_Rural,Rural,82.22,30.11,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2014,Education_Level,Primary or Less,83.93,26.14,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2014,Education_Level,Secondary,93.14,18.04,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2014,Education_Level,Tertiary,99.0,11.44,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2015,Gender,Female,92.94,16.35,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2015,Gender,Male,90.96,18.14,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2015,Urban_Rural,Urban,97.32,17.28,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2015,Urban_Rural,Rural,83.94,28.65,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2015,Education_Level,Primary or Less,81.06,28.66,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2015,Education_Level,Secondary,94.99,16.41,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2015,Education_Level,Tertiary,99.0,8.9,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2016,Gender,Female,90.86,18.23,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2016,Gender,Male,93.3,16.03,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2016,Urban_Rural,Urban,98.35,16.4,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2016,Urban_Rural,Rural,86.77,26.25,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2016,Education_Level,Primary or Less,83.27,26.72,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2016,Education_Level,Secondary,94.57,16.78,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2016,Education_Level,Tertiary,99.0,9.31,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2017,Gender,Female,96.46,13.19,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2017,Gender,Male,91.83,17.35,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2017,Urban_Rural,Urban,98.59,16.19,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2017,Urban_Rural,Rural,84.7,28.0,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2017,Education_Level,Primary or Less,82.9,27.05,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2017,Education_Level,Secondary,94.9,16.49,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2017,Education_Level,Tertiary,99.0,7.24,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2018,Gender,Female,95.16,14.36,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2018,Gender,Male,93.56,15.8,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2018,Urban_Rural,Urban,99.0,15.15,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2018,Urban_Rural,Rural,86.91,26.12,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2018,Education_Level,Primary or Less,84.77,25.4,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2018,Education_Level,Secondary,95.48,15.98,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2018,Education_Level,Tertiary,99.0,7.58,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2019,Gender,Female,95.88,13.71,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2019,Gender,Male,93.71,15.66,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2019,Urban_Rural,Urban,99.0,14.01,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2019,Urban_Rural,Rural,88.49,24.78,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2019,Education_Level,Primary or Less,84.63,25.53,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2019,Education_Level,Secondary,95.39,16.06,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2019,Education_Level,Tertiary,99.0,9.11,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2020,Gender,Female,95.91,13.68,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2020,Gender,Male,93.87,15.52,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2020,Urban_Rural,Urban,99.0,12.9,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2020,Urban_Rural,Rural,89.39,24.02,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2020,Education_Level,Primary or Less,83.46,26.56,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2020,Education_Level,Secondary,95.67,15.81,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2020,Education_Level,Tertiary,99.0,6.75,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2021,Gender,Female,95.7,13.87,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2021,Gender,Male,94.68,14.79,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2021,Urban_Rural,Urban,99.0,13.68,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2021,Urban_Rural,Rural,86.99,26.06,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2021,Education_Level,Primary or Less,86.94,23.49,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2021,Education_Level,Secondary,97.81,13.92,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2021,Education_Level,Tertiary,99.0,3.69,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2022,Gender,Female,97.56,12.2,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2022,Gender,Male,96.89,12.8,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2022,Urban_Rural,Urban,99.0,13.28,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2022,Urban_Rural,Rural,88.01,25.19,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2022,Education_Level,Primary or Less,89.73,21.04,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2022,Education_Level,Secondary,97.49,14.21,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2022,Education_Level,Tertiary,99.0,6.74,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2023,Gender,Female,96.73,12.94,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2023,Gender,Male,98.22,11.61,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2023,Urban_Rural,Urban,99.0,12.22,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2023,Urban_Rural,Rural,90.08,23.43,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2023,Education_Level,Primary or Less,87.33,23.15,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2023,Education_Level,Secondary,98.01,13.75,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2023,Education_Level,Tertiary,99.0,5.26,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2024,Gender,Female,99.0,10.5,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2024,Gender,Male,95.77,13.8,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2024,Urban_Rural,Urban,99.0,10.66,37,Centralized Health Clinic,Q4
+USA,United States,AMRO,2024,Urban_Rural,Rural,92.02,21.78,37,Door-to-Door Campaign,Q4
+USA,United States,AMRO,2024,Education_Level,Primary or Less,88.24,22.35,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2024,Education_Level,Secondary,99.0,10.42,37,Mobile Outreach Unit,Q4
+USA,United States,AMRO,2024,Education_Level,Tertiary,99.0,6.07,37,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2010,Gender,Female,73.97,33.43,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2010,Gender,Male,74.44,33.0,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2010,Urban_Rural,Urban,80.8,31.32,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2010,Urban_Rural,Rural,68.55,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2010,Education_Level,Primary or Less,64.53,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2010,Education_Level,Secondary,77.22,32.05,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2010,Education_Level,Tertiary,86.12,24.21,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2011,Gender,Female,76.61,31.05,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2011,Gender,Male,74.36,33.08,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2011,Urban_Rural,Urban,80.56,31.52,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2011,Urban_Rural,Rural,67.94,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2011,Education_Level,Primary or Less,67.88,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2011,Education_Level,Secondary,76.79,32.43,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2011,Education_Level,Tertiary,85.78,24.51,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2012,Gender,Female,77.36,30.38,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2012,Gender,Male,74.42,33.02,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2012,Urban_Rural,Urban,84.1,28.51,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2012,Urban_Rural,Rural,67.6,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2012,Education_Level,Primary or Less,65.97,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2012,Education_Level,Secondary,82.21,27.66,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2012,Education_Level,Tertiary,85.69,24.6,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2013,Gender,Female,79.37,28.56,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2013,Gender,Male,76.42,31.22,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2013,Urban_Rural,Urban,83.91,28.67,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2013,Urban_Rural,Rural,68.63,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2013,Education_Level,Primary or Less,68.3,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2013,Education_Level,Secondary,78.55,30.88,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2013,Education_Level,Tertiary,86.38,23.99,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2014,Gender,Female,80.06,27.95,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2014,Gender,Male,76.61,31.05,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2014,Urban_Rural,Urban,82.07,30.24,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2014,Urban_Rural,Rural,69.98,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2014,Education_Level,Primary or Less,69.01,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2014,Education_Level,Secondary,80.77,28.92,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2014,Education_Level,Tertiary,87.84,22.7,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2015,Gender,Female,78.32,29.51,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2015,Gender,Male,76.33,31.3,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2015,Urban_Rural,Urban,84.97,27.77,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2015,Urban_Rural,Rural,71.18,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2015,Education_Level,Primary or Less,69.56,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2015,Education_Level,Secondary,80.28,29.36,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2015,Education_Level,Tertiary,89.23,21.48,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2016,Gender,Female,79.72,28.25,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2016,Gender,Male,78.55,29.3,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2016,Urban_Rural,Urban,85.54,27.29,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2016,Urban_Rural,Rural,72.83,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2016,Education_Level,Primary or Less,69.67,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2016,Education_Level,Secondary,81.36,28.4,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2016,Education_Level,Tertiary,90.14,20.68,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2017,Gender,Female,79.76,28.22,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2017,Gender,Male,79.1,28.81,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2017,Urban_Rural,Urban,85.62,27.22,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2017,Urban_Rural,Rural,72.82,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2017,Education_Level,Primary or Less,69.59,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2017,Education_Level,Secondary,84.4,25.73,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2017,Education_Level,Tertiary,89.01,21.67,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2018,Gender,Female,78.3,29.53,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2018,Gender,Male,80.07,27.94,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2018,Urban_Rural,Urban,86.33,26.62,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2018,Urban_Rural,Rural,73.29,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2018,Education_Level,Primary or Less,68.75,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2018,Education_Level,Secondary,85.46,24.79,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2018,Education_Level,Tertiary,91.02,19.9,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2019,Gender,Female,81.39,26.75,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2019,Gender,Male,82.39,25.85,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2019,Urban_Rural,Urban,88.81,24.51,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2019,Urban_Rural,Rural,75.47,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2019,Education_Level,Primary or Less,71.04,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2019,Education_Level,Secondary,83.37,26.63,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2019,Education_Level,Tertiary,91.4,19.56,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2020,Gender,Female,82.09,26.12,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2020,Gender,Male,81.6,26.56,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2020,Urban_Rural,Urban,88.06,25.15,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2020,Urban_Rural,Rural,77.16,34.41,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2020,Education_Level,Primary or Less,73.26,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2020,Education_Level,Secondary,86.82,23.59,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2020,Education_Level,Tertiary,89.66,21.1,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2021,Gender,Female,85.4,23.14,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2021,Gender,Male,79.52,28.44,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2021,Urban_Rural,Urban,87.69,25.47,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2021,Urban_Rural,Rural,73.1,35.0,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2021,Education_Level,Primary or Less,73.06,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2021,Education_Level,Secondary,84.67,25.49,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2021,Education_Level,Tertiary,94.89,16.49,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2022,Gender,Female,84.11,24.3,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2022,Gender,Male,83.83,24.56,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2022,Urban_Rural,Urban,88.78,24.54,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2022,Urban_Rural,Rural,77.4,34.21,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2022,Education_Level,Primary or Less,73.35,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2022,Education_Level,Secondary,88.93,21.74,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2022,Education_Level,Tertiary,95.71,15.78,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2023,Gender,Female,84.6,23.86,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2023,Gender,Male,83.27,25.06,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2023,Urban_Rural,Urban,89.39,24.02,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2023,Urban_Rural,Rural,77.03,34.52,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2023,Education_Level,Primary or Less,73.64,35.0,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2023,Education_Level,Secondary,87.19,23.28,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2023,Education_Level,Tertiary,93.09,18.08,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2024,Gender,Female,85.27,23.26,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2024,Gender,Male,82.84,25.44,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2024,Urban_Rural,Urban,89.98,23.51,25,Centralized Health Clinic,Q4
+BRA,Brazil,AMRO,2024,Urban_Rural,Rural,78.03,33.68,25,Door-to-Door Campaign,Q4
+BRA,Brazil,AMRO,2024,Education_Level,Primary or Less,76.49,32.69,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2024,Education_Level,Secondary,83.3,26.69,25,Mobile Outreach Unit,Q4
+BRA,Brazil,AMRO,2024,Education_Level,Tertiary,98.59,13.24,25,Mobile Outreach Unit,Q4
+NGA,Nigeria,AFRO,2010,Gender,Female,64.2,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2010,Gender,Male,59.85,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2010,Urban_Rural,Urban,69.49,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2010,Urban_Rural,Rural,53.95,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2010,Education_Level,Primary or Less,51.85,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2010,Education_Level,Secondary,64.9,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2010,Education_Level,Tertiary,73.72,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2011,Gender,Female,62.93,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2011,Gender,Male,61.32,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2011,Urban_Rural,Urban,68.58,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2011,Urban_Rural,Rural,56.57,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2011,Education_Level,Primary or Less,49.91,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2011,Education_Level,Secondary,64.46,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2011,Education_Level,Tertiary,76.06,33.07,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2012,Gender,Female,64.9,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2012,Gender,Male,63.65,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2012,Urban_Rural,Urban,69.72,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2012,Urban_Rural,Rural,54.5,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2012,Education_Level,Primary or Less,53.48,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2012,Education_Level,Secondary,64.37,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2012,Education_Level,Tertiary,77.75,31.58,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2013,Gender,Female,64.74,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2013,Gender,Male,63.94,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2013,Urban_Rural,Urban,72.64,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2013,Urban_Rural,Rural,55.28,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2013,Education_Level,Primary or Less,50.68,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2013,Education_Level,Secondary,66.84,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2013,Education_Level,Tertiary,76.12,33.02,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2014,Gender,Female,65.19,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2014,Gender,Male,62.84,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2014,Urban_Rural,Urban,71.67,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2014,Urban_Rural,Rural,57.27,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2014,Education_Level,Primary or Less,55.28,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2014,Education_Level,Secondary,65.1,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2014,Education_Level,Tertiary,76.29,32.87,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2015,Gender,Female,67.12,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2015,Gender,Male,63.19,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2015,Urban_Rural,Urban,73.75,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2015,Urban_Rural,Rural,58.31,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2015,Education_Level,Primary or Less,56.78,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2015,Education_Level,Secondary,65.58,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2015,Education_Level,Tertiary,77.52,31.78,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2016,Gender,Female,65.36,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2016,Gender,Male,64.45,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2016,Urban_Rural,Urban,73.02,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2016,Urban_Rural,Rural,58.37,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2016,Education_Level,Primary or Less,56.24,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2016,Education_Level,Secondary,71.09,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2016,Education_Level,Tertiary,77.22,32.05,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2017,Gender,Female,68.41,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2017,Gender,Male,66.03,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2017,Urban_Rural,Urban,73.28,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2017,Urban_Rural,Rural,58.23,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2017,Education_Level,Primary or Less,57.45,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2017,Education_Level,Secondary,72.7,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2017,Education_Level,Tertiary,78.03,31.33,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2018,Gender,Female,68.13,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2018,Gender,Male,67.94,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2018,Urban_Rural,Urban,75.33,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2018,Urban_Rural,Rural,60.63,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2018,Education_Level,Primary or Less,57.14,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2018,Education_Level,Secondary,71.32,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2018,Education_Level,Tertiary,78.78,30.67,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2019,Gender,Female,70.01,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2019,Gender,Male,66.68,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2019,Urban_Rural,Urban,74.1,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2019,Urban_Rural,Rural,60.92,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2019,Education_Level,Primary or Less,56.45,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2019,Education_Level,Secondary,69.75,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2019,Education_Level,Tertiary,77.38,31.9,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2020,Gender,Female,68.26,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2020,Gender,Male,70.64,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2020,Urban_Rural,Urban,74.77,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2020,Urban_Rural,Rural,60.87,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2020,Education_Level,Primary or Less,59.12,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2020,Education_Level,Secondary,69.41,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2020,Education_Level,Tertiary,79.25,30.26,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2021,Gender,Female,72.33,34.9,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2021,Gender,Male,69.26,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2021,Urban_Rural,Urban,77.38,34.22,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2021,Urban_Rural,Rural,64.09,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2021,Education_Level,Primary or Less,60.02,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2021,Education_Level,Secondary,71.37,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2021,Education_Level,Tertiary,78.55,30.88,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2022,Gender,Female,70.82,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2022,Gender,Male,69.44,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2022,Urban_Rural,Urban,75.93,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2022,Urban_Rural,Rural,64.75,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2022,Education_Level,Primary or Less,62.05,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2022,Education_Level,Secondary,73.88,34.99,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2022,Education_Level,Tertiary,81.23,28.52,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2023,Gender,Female,70.87,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2023,Gender,Male,71.63,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2023,Urban_Rural,Urban,78.0,33.7,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2023,Urban_Rural,Rural,64.53,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2023,Education_Level,Primary or Less,62.03,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2023,Education_Level,Secondary,73.57,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2023,Education_Level,Tertiary,85.1,25.11,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2024,Gender,Female,71.94,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2024,Gender,Male,70.69,35.0,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2024,Urban_Rural,Urban,80.27,31.77,226,Centralized Health Clinic,Q1
+NGA,Nigeria,AFRO,2024,Urban_Rural,Rural,64.4,35.0,226,Door-to-Door Campaign,Q1
+NGA,Nigeria,AFRO,2024,Education_Level,Primary or Less,61.61,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2024,Education_Level,Secondary,73.42,35.0,226,Mobile Outreach Unit,Q1
+NGA,Nigeria,AFRO,2024,Education_Level,Tertiary,83.82,26.24,226,Mobile Outreach Unit,Q1
+DEU,Germany,EURO,2010,Gender,Female,88.57,20.29,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2010,Gender,Male,86.86,21.83,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2010,Urban_Rural,Urban,95.3,19.0,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2010,Urban_Rural,Rural,80.61,31.48,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2010,Education_Level,Primary or Less,76.49,32.69,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2010,Education_Level,Secondary,90.05,20.76,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2010,Education_Level,Tertiary,99.0,11.04,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2011,Gender,Female,90.27,18.76,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2011,Gender,Male,89.42,19.52,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2011,Urban_Rural,Urban,94.32,19.83,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2011,Urban_Rural,Rural,82.48,29.89,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2011,Education_Level,Primary or Less,77.73,31.6,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2011,Education_Level,Secondary,88.85,21.81,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2011,Education_Level,Tertiary,98.5,13.32,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2012,Gender,Female,90.33,18.7,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2012,Gender,Male,89.63,19.33,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2012,Urban_Rural,Urban,96.27,18.17,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2012,Urban_Rural,Rural,81.72,30.54,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2012,Education_Level,Primary or Less,77.85,31.49,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2012,Education_Level,Secondary,92.46,18.64,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2012,Education_Level,Tertiary,99.0,10.38,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2013,Gender,Female,91.2,17.92,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2013,Gender,Male,88.25,20.58,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2013,Urban_Rural,Urban,97.57,17.07,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2013,Urban_Rural,Rural,84.07,28.54,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2013,Education_Level,Primary or Less,82.4,27.49,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2013,Education_Level,Secondary,91.44,19.53,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2013,Education_Level,Tertiary,99.0,10.46,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2014,Gender,Female,91.07,18.04,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2014,Gender,Male,89.08,19.83,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2014,Urban_Rural,Urban,99.0,15.68,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2014,Urban_Rural,Rural,83.98,28.62,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2014,Education_Level,Primary or Less,82.74,27.19,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2014,Education_Level,Secondary,90.96,19.95,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2014,Education_Level,Tertiary,99.0,10.04,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2015,Gender,Female,92.81,16.47,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2015,Gender,Male,89.87,19.12,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2015,Urban_Rural,Urban,99.0,15.18,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2015,Urban_Rural,Rural,83.71,28.85,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2015,Education_Level,Primary or Less,82.18,27.68,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2015,Education_Level,Secondary,92.67,18.45,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2015,Education_Level,Tertiary,99.0,11.38,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2016,Gender,Female,93.91,15.48,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2016,Gender,Male,91.78,17.4,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2016,Urban_Rural,Urban,98.98,15.86,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2016,Urban_Rural,Rural,84.37,28.29,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2016,Education_Level,Primary or Less,82.73,27.2,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2016,Education_Level,Secondary,96.1,15.43,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2016,Education_Level,Tertiary,99.0,10.09,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2017,Gender,Female,94.26,15.17,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2017,Gender,Male,92.3,16.93,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2017,Urban_Rural,Urban,99.0,15.7,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2017,Urban_Rural,Rural,83.43,29.09,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2017,Education_Level,Primary or Less,82.88,27.06,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2017,Education_Level,Secondary,95.91,15.6,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2017,Education_Level,Tertiary,99.0,8.14,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2018,Gender,Female,92.96,16.33,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2018,Gender,Male,94.05,15.36,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2018,Urban_Rural,Urban,99.0,13.23,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2018,Urban_Rural,Rural,85.97,26.93,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2018,Education_Level,Primary or Less,87.07,23.38,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2018,Education_Level,Secondary,94.36,16.97,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2018,Education_Level,Tertiary,99.0,9.63,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2019,Gender,Female,94.09,15.32,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2019,Gender,Male,93.75,15.63,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2019,Urban_Rural,Urban,98.67,16.13,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2019,Urban_Rural,Rural,86.43,26.54,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2019,Education_Level,Primary or Less,88.7,21.94,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2019,Education_Level,Secondary,94.04,17.24,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2019,Education_Level,Tertiary,99.0,8.06,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2020,Gender,Female,94.76,14.71,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2020,Gender,Male,93.92,15.48,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2020,Urban_Rural,Urban,99.0,14.08,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2020,Urban_Rural,Rural,86.7,26.31,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2020,Education_Level,Primary or Less,84.77,25.41,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2020,Education_Level,Secondary,97.95,13.8,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2020,Education_Level,Tertiary,99.0,4.89,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2021,Gender,Female,96.22,13.41,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2021,Gender,Male,94.91,14.58,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2021,Urban_Rural,Urban,99.0,12.66,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2021,Urban_Rural,Rural,86.72,26.29,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2021,Education_Level,Primary or Less,85.47,24.79,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2021,Education_Level,Secondary,96.94,14.69,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2021,Education_Level,Tertiary,99.0,4.85,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2022,Gender,Female,98.95,10.94,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2022,Gender,Male,94.82,14.66,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2022,Urban_Rural,Urban,99.0,11.23,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2022,Urban_Rural,Rural,87.15,25.92,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2022,Education_Level,Primary or Less,86.7,23.7,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2022,Education_Level,Secondary,98.79,13.06,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2022,Education_Level,Tertiary,99.0,7.45,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2023,Gender,Female,97.07,12.64,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2023,Gender,Male,95.37,14.16,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2023,Urban_Rural,Urban,99.0,13.28,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2023,Urban_Rural,Rural,86.4,26.56,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2023,Education_Level,Primary or Less,86.79,23.63,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2023,Education_Level,Secondary,98.97,12.91,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2023,Education_Level,Tertiary,99.0,5.0,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2024,Gender,Female,99.0,10.57,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2024,Gender,Male,95.06,14.44,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2024,Urban_Rural,Urban,99.0,11.73,240,Centralized Health Clinic,Q4
+DEU,Germany,EURO,2024,Urban_Rural,Rural,93.37,20.63,240,Door-to-Door Campaign,Q4
+DEU,Germany,EURO,2024,Education_Level,Primary or Less,89.13,21.57,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2024,Education_Level,Secondary,99.0,11.0,240,Mobile Outreach Unit,Q4
+DEU,Germany,EURO,2024,Education_Level,Tertiary,99.0,5.6,240,Mobile Outreach Unit,Q4
+CHN,China,WPRO,2010,Gender,Female,75.6,31.96,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2010,Gender,Male,71.9,35.0,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2010,Urban_Rural,Urban,82.2,30.13,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2010,Urban_Rural,Rural,69.18,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2010,Education_Level,Primary or Less,62.83,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2010,Education_Level,Secondary,75.26,33.77,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2010,Education_Level,Tertiary,85.95,24.36,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2011,Gender,Female,76.65,31.01,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2011,Gender,Male,74.36,33.08,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2011,Urban_Rural,Urban,81.22,30.96,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2011,Urban_Rural,Rural,67.23,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2011,Education_Level,Primary or Less,65.63,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2011,Education_Level,Secondary,78.58,30.85,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2011,Education_Level,Tertiary,86.63,23.77,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2012,Gender,Female,77.06,30.65,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2012,Gender,Male,73.84,33.54,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2012,Urban_Rural,Urban,83.94,28.65,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2012,Urban_Rural,Rural,68.84,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2012,Education_Level,Primary or Less,65.75,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2012,Education_Level,Secondary,78.78,30.67,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2012,Education_Level,Tertiary,86.13,24.2,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2013,Gender,Female,77.48,30.26,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2013,Gender,Male,76.41,31.23,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2013,Urban_Rural,Urban,82.79,29.63,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2013,Urban_Rural,Rural,67.63,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2013,Education_Level,Primary or Less,64.39,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2013,Education_Level,Secondary,79.77,29.8,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2013,Education_Level,Tertiary,88.05,22.51,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2014,Gender,Female,78.53,29.32,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2014,Gender,Male,75.84,31.75,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2014,Urban_Rural,Urban,84.28,28.37,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2014,Urban_Rural,Rural,69.82,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2014,Education_Level,Primary or Less,66.9,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2014,Education_Level,Secondary,79.69,29.88,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2014,Education_Level,Tertiary,89.24,21.46,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2015,Gender,Female,81.05,27.06,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2015,Gender,Male,78.27,29.56,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2015,Urban_Rural,Urban,86.03,26.88,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2015,Urban_Rural,Rural,72.33,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2015,Education_Level,Primary or Less,67.35,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2015,Education_Level,Secondary,80.02,29.58,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2015,Education_Level,Tertiary,88.14,22.43,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2016,Gender,Female,79.32,28.61,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2016,Gender,Male,77.97,29.83,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2016,Urban_Rural,Urban,84.85,27.87,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2016,Urban_Rural,Rural,71.97,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2016,Education_Level,Primary or Less,69.85,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2016,Education_Level,Secondary,79.24,30.27,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2016,Education_Level,Tertiary,89.73,21.04,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2017,Gender,Female,80.4,27.64,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2017,Gender,Male,77.63,30.14,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2017,Urban_Rural,Urban,85.48,27.34,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2017,Urban_Rural,Rural,73.45,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2017,Education_Level,Primary or Less,71.19,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2017,Education_Level,Secondary,79.46,30.08,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2017,Education_Level,Tertiary,91.61,19.38,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2018,Gender,Female,79.93,28.06,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2018,Gender,Male,79.4,28.54,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2018,Urban_Rural,Urban,86.98,26.06,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2018,Urban_Rural,Rural,74.0,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2018,Education_Level,Primary or Less,70.34,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2018,Education_Level,Secondary,81.08,28.65,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2018,Education_Level,Tertiary,89.82,20.95,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2019,Gender,Female,82.27,25.96,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2019,Gender,Male,79.87,28.12,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2019,Urban_Rural,Urban,87.31,25.79,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2019,Urban_Rural,Rural,74.96,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2019,Education_Level,Primary or Less,71.95,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2019,Education_Level,Secondary,85.68,24.6,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2019,Education_Level,Tertiary,90.77,20.12,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2020,Gender,Female,82.09,26.12,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2020,Gender,Male,81.38,26.75,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2020,Urban_Rural,Urban,90.68,22.92,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2020,Urban_Rural,Rural,73.55,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2020,Education_Level,Primary or Less,72.06,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2020,Education_Level,Secondary,85.98,24.34,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2020,Education_Level,Tertiary,93.07,18.09,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2021,Gender,Female,84.52,23.93,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2021,Gender,Male,83.86,24.53,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2021,Urban_Rural,Urban,89.55,23.88,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2021,Urban_Rural,Rural,75.75,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2021,Education_Level,Primary or Less,73.81,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2021,Education_Level,Secondary,83.34,26.66,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2021,Education_Level,Tertiary,91.48,19.5,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2022,Gender,Female,84.36,24.08,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2022,Gender,Male,81.97,26.22,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2022,Urban_Rural,Urban,91.16,22.51,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2022,Urban_Rural,Rural,76.28,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2022,Education_Level,Primary or Less,74.95,34.04,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2022,Education_Level,Secondary,83.6,26.43,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2022,Education_Level,Tertiary,95.9,15.61,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2023,Gender,Female,82.6,25.66,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2023,Gender,Male,82.18,26.04,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2023,Urban_Rural,Urban,91.36,22.35,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2023,Urban_Rural,Rural,76.0,35.0,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2023,Education_Level,Primary or Less,73.49,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2023,Education_Level,Secondary,86.26,24.09,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2023,Education_Level,Tertiary,97.23,14.44,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2024,Gender,Female,83.68,24.69,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2024,Gender,Male,85.25,23.28,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2024,Urban_Rural,Urban,92.87,21.06,150,Centralized Health Clinic,Q1
+CHN,China,WPRO,2024,Urban_Rural,Rural,76.69,34.81,150,Door-to-Door Campaign,Q1
+CHN,China,WPRO,2024,Education_Level,Primary or Less,73.76,35.0,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2024,Education_Level,Secondary,86.62,23.77,150,Mobile Outreach Unit,Q1
+CHN,China,WPRO,2024,Education_Level,Tertiary,94.73,16.64,150,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2010,Gender,Female,63.14,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2010,Gender,Male,61.68,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2010,Urban_Rural,Urban,66.64,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2010,Urban_Rural,Rural,53.4,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2010,Education_Level,Primary or Less,50.22,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2010,Education_Level,Secondary,64.32,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2010,Education_Level,Tertiary,74.31,34.61,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2011,Gender,Female,62.43,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2011,Gender,Male,62.77,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2011,Urban_Rural,Urban,68.09,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2011,Urban_Rural,Rural,56.06,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2011,Education_Level,Primary or Less,52.27,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2011,Education_Level,Secondary,64.04,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2011,Education_Level,Tertiary,75.41,33.64,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2012,Gender,Female,65.99,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2012,Gender,Male,60.66,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2012,Urban_Rural,Urban,70.62,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2012,Urban_Rural,Rural,56.11,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2012,Education_Level,Primary or Less,54.39,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2012,Education_Level,Secondary,63.24,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2012,Education_Level,Tertiary,72.77,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2013,Gender,Female,64.23,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2013,Gender,Male,63.51,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2013,Urban_Rural,Urban,69.72,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2013,Urban_Rural,Rural,56.21,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2013,Education_Level,Primary or Less,55.35,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2013,Education_Level,Secondary,69.17,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2013,Education_Level,Tertiary,76.24,32.91,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2014,Gender,Female,66.46,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2014,Gender,Male,63.82,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2014,Urban_Rural,Urban,70.23,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2014,Urban_Rural,Rural,56.91,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2014,Education_Level,Primary or Less,54.71,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2014,Education_Level,Secondary,65.06,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2014,Education_Level,Tertiary,77.02,32.22,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2015,Gender,Female,67.82,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2015,Gender,Male,64.82,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2015,Urban_Rural,Urban,73.3,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2015,Urban_Rural,Rural,59.45,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2015,Education_Level,Primary or Less,53.95,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2015,Education_Level,Secondary,64.89,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2015,Education_Level,Tertiary,75.75,33.34,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2016,Gender,Female,67.1,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2016,Gender,Male,64.2,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2016,Urban_Rural,Urban,74.41,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2016,Urban_Rural,Rural,61.04,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2016,Education_Level,Primary or Less,56.47,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2016,Education_Level,Secondary,66.73,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2016,Education_Level,Tertiary,77.93,31.42,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2017,Gender,Female,66.72,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2017,Gender,Male,67.24,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2017,Urban_Rural,Urban,73.12,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2017,Urban_Rural,Rural,60.27,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2017,Education_Level,Primary or Less,58.25,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2017,Education_Level,Secondary,69.71,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2017,Education_Level,Tertiary,80.58,29.09,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2018,Gender,Female,68.58,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2018,Gender,Male,66.3,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2018,Urban_Rural,Urban,71.58,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2018,Urban_Rural,Rural,57.36,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2018,Education_Level,Primary or Less,58.58,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2018,Education_Level,Secondary,69.32,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2018,Education_Level,Tertiary,77.38,31.91,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2019,Gender,Female,67.99,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2019,Gender,Male,68.24,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2019,Urban_Rural,Urban,73.62,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2019,Urban_Rural,Rural,62.76,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2019,Education_Level,Primary or Less,61.83,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2019,Education_Level,Secondary,68.95,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2019,Education_Level,Tertiary,80.3,29.33,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2020,Gender,Female,70.24,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2020,Gender,Male,67.21,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2020,Urban_Rural,Urban,74.32,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2020,Urban_Rural,Rural,61.35,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2020,Education_Level,Primary or Less,57.29,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2020,Education_Level,Secondary,72.64,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2020,Education_Level,Tertiary,79.63,29.92,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2021,Gender,Female,69.38,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2021,Gender,Male,68.81,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2021,Urban_Rural,Urban,76.76,34.75,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2021,Urban_Rural,Rural,61.33,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2021,Education_Level,Primary or Less,56.71,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2021,Education_Level,Secondary,71.89,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2021,Education_Level,Tertiary,78.87,30.59,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2022,Gender,Female,70.41,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2022,Gender,Male,70.07,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2022,Urban_Rural,Urban,76.19,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2022,Urban_Rural,Rural,62.73,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2022,Education_Level,Primary or Less,62.58,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2022,Education_Level,Secondary,71.87,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2022,Education_Level,Tertiary,84.43,25.7,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2023,Gender,Female,72.64,34.62,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2023,Gender,Male,69.37,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2023,Urban_Rural,Urban,77.03,34.53,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2023,Urban_Rural,Rural,62.08,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2023,Education_Level,Primary or Less,62.06,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2023,Education_Level,Secondary,75.09,33.92,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2023,Education_Level,Tertiary,81.56,28.23,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2024,Gender,Female,70.74,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2024,Gender,Male,71.36,35.0,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2024,Urban_Rural,Urban,77.27,34.32,94,Centralized Health Clinic,Q1
+KEN,Kenya,AFRO,2024,Urban_Rural,Rural,63.45,35.0,94,Door-to-Door Campaign,Q1
+KEN,Kenya,AFRO,2024,Education_Level,Primary or Less,62.27,35.0,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2024,Education_Level,Secondary,75.65,33.43,94,Mobile Outreach Unit,Q1
+KEN,Kenya,AFRO,2024,Education_Level,Tertiary,83.91,26.16,94,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2010,Gender,Female,76.23,31.39,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2010,Gender,Male,74.04,33.36,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2010,Urban_Rural,Urban,79.92,32.07,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2010,Urban_Rural,Rural,67.92,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2010,Education_Level,Primary or Less,66.08,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2010,Education_Level,Secondary,76.11,33.03,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2010,Education_Level,Tertiary,85.45,24.8,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2011,Gender,Female,77.61,30.15,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2011,Gender,Male,74.51,32.94,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2011,Urban_Rural,Urban,81.88,30.41,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2011,Urban_Rural,Rural,68.09,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2011,Education_Level,Primary or Less,66.7,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2011,Education_Level,Secondary,78.14,31.24,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2011,Education_Level,Tertiary,87.03,23.41,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2012,Gender,Female,78.72,29.15,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2012,Gender,Male,75.19,32.33,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2012,Urban_Rural,Urban,81.76,30.5,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2012,Urban_Rural,Rural,70.13,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2012,Education_Level,Primary or Less,66.75,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2012,Education_Level,Secondary,77.52,31.79,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2012,Education_Level,Tertiary,86.86,23.56,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2013,Gender,Female,76.63,31.04,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2013,Gender,Male,76.53,31.12,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2013,Urban_Rural,Urban,81.85,30.43,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2013,Urban_Rural,Rural,70.42,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2013,Education_Level,Primary or Less,66.32,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2013,Education_Level,Secondary,77.01,32.23,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2013,Education_Level,Tertiary,89.75,21.02,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2014,Gender,Female,80.86,27.23,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2014,Gender,Male,77.44,30.31,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2014,Urban_Rural,Urban,83.96,28.64,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2014,Urban_Rural,Rural,69.15,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2014,Education_Level,Primary or Less,68.19,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2014,Education_Level,Secondary,80.76,28.94,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2014,Education_Level,Tertiary,88.81,21.85,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2015,Gender,Female,80.2,27.82,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2015,Gender,Male,79.21,28.71,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2015,Urban_Rural,Urban,83.49,29.03,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2015,Urban_Rural,Rural,71.35,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2015,Education_Level,Primary or Less,65.65,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2015,Education_Level,Secondary,79.28,30.23,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2015,Education_Level,Tertiary,90.58,20.29,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2016,Gender,Female,79.95,28.04,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2016,Gender,Male,76.79,30.89,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2016,Urban_Rural,Urban,86.96,26.08,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2016,Urban_Rural,Rural,71.05,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2016,Education_Level,Primary or Less,70.48,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2016,Education_Level,Secondary,81.97,27.87,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2016,Education_Level,Tertiary,88.95,21.72,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2017,Gender,Female,81.57,26.59,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2017,Gender,Male,79.42,28.52,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2017,Urban_Rural,Urban,86.61,26.38,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2017,Urban_Rural,Rural,71.84,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2017,Education_Level,Primary or Less,68.25,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2017,Education_Level,Secondary,81.27,28.48,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2017,Education_Level,Tertiary,90.24,20.59,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2018,Gender,Female,82.25,25.97,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2018,Gender,Male,78.15,29.66,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2018,Urban_Rural,Urban,88.86,24.46,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2018,Urban_Rural,Rural,74.93,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2018,Education_Level,Primary or Less,69.64,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2018,Education_Level,Secondary,84.7,25.46,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2018,Education_Level,Tertiary,90.09,20.72,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2019,Gender,Female,83.23,25.1,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2019,Gender,Male,79.68,28.29,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2019,Urban_Rural,Urban,89.04,24.32,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2019,Urban_Rural,Rural,72.08,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2019,Education_Level,Primary or Less,72.92,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2019,Education_Level,Secondary,85.23,25.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2019,Education_Level,Tertiary,90.1,20.72,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2020,Gender,Female,84.56,23.9,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2020,Gender,Male,82.22,26.0,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2020,Urban_Rural,Urban,86.1,26.81,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2020,Urban_Rural,Rural,73.91,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2020,Education_Level,Primary or Less,73.56,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2020,Education_Level,Secondary,85.08,25.13,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2020,Education_Level,Tertiary,93.17,18.01,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2021,Gender,Female,84.43,24.01,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2021,Gender,Male,81.03,27.08,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2021,Urban_Rural,Urban,89.26,24.13,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2021,Urban_Rural,Rural,74.19,35.0,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2021,Education_Level,Primary or Less,72.9,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2021,Education_Level,Secondary,86.2,24.14,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2021,Education_Level,Tertiary,94.87,16.51,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2022,Gender,Female,84.42,24.02,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2022,Gender,Male,83.59,24.77,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2022,Urban_Rural,Urban,91.21,22.48,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2022,Urban_Rural,Rural,78.06,33.65,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2022,Education_Level,Primary or Less,75.15,33.87,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2022,Education_Level,Secondary,86.38,23.98,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2022,Education_Level,Tertiary,95.8,15.69,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2023,Gender,Female,85.14,23.37,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2023,Gender,Male,83.02,25.28,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2023,Urban_Rural,Urban,91.64,22.11,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2023,Urban_Rural,Rural,77.51,34.12,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2023,Education_Level,Primary or Less,74.54,34.41,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2023,Education_Level,Secondary,85.81,24.49,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2023,Education_Level,Tertiary,94.72,16.64,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2024,Gender,Female,85.19,23.33,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2024,Gender,Male,85.26,23.27,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2024,Urban_Rural,Urban,92.71,21.19,145,Centralized Health Clinic,Q1
+IDN,Indonesia,SEARO,2024,Urban_Rural,Rural,78.66,33.14,145,Door-to-Door Campaign,Q1
+IDN,Indonesia,SEARO,2024,Education_Level,Primary or Less,73.22,35.0,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2024,Education_Level,Secondary,86.26,24.09,145,Mobile Outreach Unit,Q1
+IDN,Indonesia,SEARO,2024,Education_Level,Tertiary,95.41,16.04,145,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2010,Gender,Female,62.19,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2010,Gender,Male,63.06,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2010,Urban_Rural,Urban,68.98,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2010,Urban_Rural,Rural,54.89,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2010,Education_Level,Primary or Less,51.3,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2010,Education_Level,Secondary,65.29,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2010,Education_Level,Tertiary,76.29,32.87,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2011,Gender,Female,63.58,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2011,Gender,Male,61.67,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2011,Urban_Rural,Urban,69.09,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2011,Urban_Rural,Rural,54.81,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2011,Education_Level,Primary or Less,52.7,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2011,Education_Level,Secondary,63.78,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2011,Education_Level,Tertiary,72.37,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2012,Gender,Female,64.18,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2012,Gender,Male,62.68,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2012,Urban_Rural,Urban,69.57,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2012,Urban_Rural,Rural,57.65,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2012,Education_Level,Primary or Less,54.02,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2012,Education_Level,Secondary,66.51,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2012,Education_Level,Tertiary,75.55,33.51,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2013,Gender,Female,65.0,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2013,Gender,Male,63.52,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2013,Urban_Rural,Urban,69.57,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2013,Urban_Rural,Rural,57.39,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2013,Education_Level,Primary or Less,53.6,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2013,Education_Level,Secondary,65.14,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2013,Education_Level,Tertiary,77.05,32.19,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2014,Gender,Female,64.27,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2014,Gender,Male,65.72,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2014,Urban_Rural,Urban,73.27,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2014,Urban_Rural,Rural,57.03,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2014,Education_Level,Primary or Less,57.48,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2014,Education_Level,Secondary,65.47,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2014,Education_Level,Tertiary,77.29,31.98,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2015,Gender,Female,66.32,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2015,Gender,Male,62.89,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2015,Urban_Rural,Urban,71.24,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2015,Urban_Rural,Rural,57.79,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2015,Education_Level,Primary or Less,56.67,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2015,Education_Level,Secondary,66.78,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2015,Education_Level,Tertiary,76.09,33.04,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2016,Gender,Female,67.54,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2016,Gender,Male,65.89,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2016,Urban_Rural,Urban,72.59,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2016,Urban_Rural,Rural,58.34,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2016,Education_Level,Primary or Less,57.61,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2016,Education_Level,Secondary,67.74,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2016,Education_Level,Tertiary,75.42,33.63,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2017,Gender,Female,67.31,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2017,Gender,Male,66.65,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2017,Urban_Rural,Urban,73.22,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2017,Urban_Rural,Rural,58.8,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2017,Education_Level,Primary or Less,55.02,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2017,Education_Level,Secondary,68.68,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2017,Education_Level,Tertiary,78.24,31.15,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2018,Gender,Female,67.39,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2018,Gender,Male,66.61,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2018,Urban_Rural,Urban,72.79,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2018,Urban_Rural,Rural,59.95,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2018,Education_Level,Primary or Less,60.19,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2018,Education_Level,Secondary,69.86,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2018,Education_Level,Tertiary,76.23,32.92,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2019,Gender,Female,69.43,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2019,Gender,Male,68.81,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2019,Urban_Rural,Urban,73.14,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2019,Urban_Rural,Rural,59.55,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2019,Education_Level,Primary or Less,58.69,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2019,Education_Level,Secondary,70.17,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2019,Education_Level,Tertiary,81.12,28.62,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2020,Gender,Female,69.62,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2020,Gender,Male,69.03,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2020,Urban_Rural,Urban,77.33,34.27,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2020,Urban_Rural,Rural,60.46,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2020,Education_Level,Primary or Less,60.12,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2020,Education_Level,Secondary,70.4,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2020,Education_Level,Tertiary,76.68,32.52,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2021,Gender,Female,70.98,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2021,Gender,Male,69.5,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2021,Urban_Rural,Urban,74.34,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2021,Urban_Rural,Rural,61.66,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2021,Education_Level,Primary or Less,58.77,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2021,Education_Level,Secondary,72.91,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2021,Education_Level,Tertiary,78.38,31.03,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2022,Gender,Female,71.31,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2022,Gender,Male,67.26,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2022,Urban_Rural,Urban,77.36,34.25,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2022,Urban_Rural,Rural,63.05,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2022,Education_Level,Primary or Less,59.63,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2022,Education_Level,Secondary,74.54,34.4,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2022,Education_Level,Tertiary,77.47,31.83,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2023,Gender,Female,71.88,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2023,Gender,Male,71.5,35.0,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2023,Urban_Rural,Urban,77.75,33.91,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2023,Urban_Rural,Rural,65.24,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2023,Education_Level,Primary or Less,60.42,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2023,Education_Level,Secondary,72.85,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2023,Education_Level,Tertiary,83.95,26.12,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2024,Gender,Female,73.49,33.85,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2024,Gender,Male,73.4,33.94,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2024,Urban_Rural,Urban,78.42,33.34,103,Centralized Health Clinic,Q1
+EGY,Egypt,EMRO,2024,Urban_Rural,Rural,64.54,35.0,103,Door-to-Door Campaign,Q1
+EGY,Egypt,EMRO,2024,Education_Level,Primary or Less,61.11,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2024,Education_Level,Secondary,73.49,35.0,103,Mobile Outreach Unit,Q1
+EGY,Egypt,EMRO,2024,Education_Level,Tertiary,84.42,25.71,103,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2010,Gender,Female,75.8,31.78,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2010,Gender,Male,73.39,33.95,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2010,Urban_Rural,Urban,81.05,31.11,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2010,Urban_Rural,Rural,67.39,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2010,Education_Level,Primary or Less,63.89,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2010,Education_Level,Secondary,76.31,32.84,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2010,Education_Level,Tertiary,84.5,25.64,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2011,Gender,Female,76.08,31.53,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2011,Gender,Male,76.07,31.54,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2011,Urban_Rural,Urban,82.26,30.08,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2011,Urban_Rural,Rural,71.15,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2011,Education_Level,Primary or Less,64.55,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2011,Education_Level,Secondary,78.43,30.98,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2011,Education_Level,Tertiary,87.03,23.41,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2012,Gender,Female,77.85,29.93,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2012,Gender,Male,74.99,32.51,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2012,Urban_Rural,Urban,82.46,29.91,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2012,Urban_Rural,Rural,69.39,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2012,Education_Level,Primary or Less,65.64,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2012,Education_Level,Secondary,75.74,33.35,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2012,Education_Level,Tertiary,89.37,21.36,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2013,Gender,Female,78.79,29.09,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2013,Gender,Male,75.88,31.71,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2013,Urban_Rural,Urban,83.86,28.72,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2013,Urban_Rural,Rural,70.81,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2013,Education_Level,Primary or Less,69.12,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2013,Education_Level,Secondary,79.26,30.25,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2013,Education_Level,Tertiary,87.22,23.24,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2014,Gender,Female,80.06,27.94,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2014,Gender,Male,77.09,30.61,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2014,Urban_Rural,Urban,84.12,28.5,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2014,Urban_Rural,Rural,70.62,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2014,Education_Level,Primary or Less,69.53,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2014,Education_Level,Secondary,79.74,29.83,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2014,Education_Level,Tertiary,90.28,20.55,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2015,Gender,Female,79.09,28.82,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2015,Gender,Male,78.31,29.52,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2015,Urban_Rural,Urban,83.86,28.72,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2015,Urban_Rural,Rural,72.28,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2015,Education_Level,Primary or Less,67.49,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2015,Education_Level,Secondary,81.19,28.55,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2015,Education_Level,Tertiary,87.27,23.2,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2016,Gender,Female,80.02,27.98,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2016,Gender,Male,78.59,29.27,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2016,Urban_Rural,Urban,84.88,27.85,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2016,Urban_Rural,Rural,71.57,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2016,Education_Level,Primary or Less,69.59,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2016,Education_Level,Secondary,82.04,27.8,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2016,Education_Level,Tertiary,90.35,20.49,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2017,Gender,Female,82.03,26.17,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2017,Gender,Male,80.26,27.77,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2017,Urban_Rural,Urban,86.36,26.59,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2017,Urban_Rural,Rural,70.8,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2017,Education_Level,Primary or Less,69.17,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2017,Education_Level,Secondary,78.56,30.87,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2017,Education_Level,Tertiary,90.63,20.25,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2018,Gender,Female,82.8,25.48,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2018,Gender,Male,80.59,27.47,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2018,Urban_Rural,Urban,87.2,25.88,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2018,Urban_Rural,Rural,72.23,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2018,Education_Level,Primary or Less,70.78,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2018,Education_Level,Secondary,85.8,24.5,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2018,Education_Level,Tertiary,93.83,17.43,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2019,Gender,Female,81.95,26.25,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2019,Gender,Male,79.02,28.88,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2019,Urban_Rural,Urban,90.45,23.12,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2019,Urban_Rural,Rural,72.93,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2019,Education_Level,Primary or Less,72.1,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2019,Education_Level,Secondary,80.96,28.75,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2019,Education_Level,Tertiary,91.82,19.2,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2020,Gender,Female,81.24,26.89,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2020,Gender,Male,80.04,27.97,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2020,Urban_Rural,Urban,87.39,25.72,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2020,Urban_Rural,Rural,75.07,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2020,Education_Level,Primary or Less,71.86,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2020,Education_Level,Secondary,88.07,22.5,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2020,Education_Level,Tertiary,94.7,16.66,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2021,Gender,Female,84.66,23.81,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2021,Gender,Male,82.4,25.84,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2021,Urban_Rural,Urban,89.53,23.9,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2021,Urban_Rural,Rural,76.63,34.87,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2021,Education_Level,Primary or Less,69.13,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2021,Education_Level,Secondary,83.77,26.29,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2021,Education_Level,Tertiary,91.66,19.34,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2022,Gender,Female,82.32,25.92,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2022,Gender,Male,81.83,26.35,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2022,Urban_Rural,Urban,88.52,24.76,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2022,Urban_Rural,Rural,77.33,34.27,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2022,Education_Level,Primary or Less,73.54,35.0,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2022,Education_Level,Secondary,82.39,27.5,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2022,Education_Level,Tertiary,94.87,16.51,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2023,Gender,Female,83.89,24.5,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2023,Gender,Male,83.36,24.97,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2023,Urban_Rural,Urban,91.07,22.59,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2023,Urban_Rural,Rural,75.7,35.0,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2023,Education_Level,Primary or Less,74.43,34.51,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2023,Education_Level,Secondary,86.7,23.7,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2023,Education_Level,Tertiary,94.85,16.53,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2024,Gender,Female,84.88,23.61,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2024,Gender,Male,84.0,24.4,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2024,Urban_Rural,Urban,91.13,22.54,49,Centralized Health Clinic,Q1
+ZAF,South Africa,AFRO,2024,Urban_Rural,Rural,77.68,33.97,49,Door-to-Door Campaign,Q1
+ZAF,South Africa,AFRO,2024,Education_Level,Primary or Less,74.4,34.52,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2024,Education_Level,Secondary,85.01,25.19,49,Mobile Outreach Unit,Q1
+ZAF,South Africa,AFRO,2024,Education_Level,Tertiary,95.55,15.92,49,Mobile Outreach Unit,Q1
+GBR,United Kingdom,EURO,2010,Gender,Female,89.13,19.79,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2010,Gender,Male,87.39,21.35,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2010,Urban_Rural,Urban,94.37,19.79,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2010,Urban_Rural,Rural,79.92,32.07,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2010,Education_Level,Primary or Less,77.19,32.07,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2010,Education_Level,Secondary,89.35,21.37,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2010,Education_Level,Tertiary,99.0,11.46,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2011,Gender,Female,88.55,20.3,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2011,Gender,Male,87.99,20.81,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2011,Urban_Rural,Urban,93.69,20.36,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2011,Urban_Rural,Rural,82.12,30.2,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2011,Education_Level,Primary or Less,77.9,31.45,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2011,Education_Level,Secondary,89.46,21.27,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2011,Education_Level,Tertiary,99.0,11.98,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2012,Gender,Female,87.74,21.03,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2012,Gender,Male,87.3,21.43,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2012,Urban_Rural,Urban,96.33,18.12,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2012,Urban_Rural,Rural,83.12,29.35,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2012,Education_Level,Primary or Less,80.08,29.53,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2012,Education_Level,Secondary,91.61,19.38,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2012,Education_Level,Tertiary,99.0,8.47,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2013,Gender,Female,91.39,17.75,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2013,Gender,Male,88.26,20.57,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2013,Urban_Rural,Urban,97.83,16.84,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2013,Urban_Rural,Rural,81.83,30.44,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2013,Education_Level,Primary or Less,79.04,30.45,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2013,Education_Level,Secondary,90.03,20.77,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2013,Education_Level,Tertiary,99.0,11.58,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2014,Gender,Female,90.37,18.67,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2014,Gender,Male,90.56,18.5,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2014,Urban_Rural,Urban,97.15,17.42,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2014,Urban_Rural,Rural,81.67,30.58,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2014,Education_Level,Primary or Less,80.68,29.0,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2014,Education_Level,Secondary,94.29,17.02,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2014,Education_Level,Tertiary,99.0,8.27,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2015,Gender,Female,90.51,18.54,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2015,Gender,Male,89.92,19.07,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2015,Urban_Rural,Urban,96.45,18.02,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2015,Urban_Rural,Rural,84.42,28.24,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2015,Education_Level,Primary or Less,79.39,30.14,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2015,Education_Level,Secondary,95.09,16.32,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2015,Education_Level,Tertiary,99.0,8.21,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2016,Gender,Female,93.82,15.56,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2016,Gender,Male,90.68,18.39,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2016,Urban_Rural,Urban,97.91,16.77,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2016,Urban_Rural,Rural,84.15,28.47,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2016,Education_Level,Primary or Less,83.86,26.21,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2016,Education_Level,Secondary,91.65,19.35,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2016,Education_Level,Tertiary,99.0,8.67,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2017,Gender,Female,92.77,16.51,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2017,Gender,Male,91.68,17.49,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2017,Urban_Rural,Urban,99.0,14.76,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2017,Urban_Rural,Rural,83.58,28.96,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2017,Education_Level,Primary or Less,82.48,27.41,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2017,Education_Level,Secondary,94.71,16.66,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2017,Education_Level,Tertiary,99.0,8.62,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2018,Gender,Female,94.3,15.13,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2018,Gender,Male,93.36,15.98,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2018,Urban_Rural,Urban,99.0,15.38,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2018,Urban_Rural,Rural,86.54,26.44,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2018,Education_Level,Primary or Less,84.09,26.0,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2018,Education_Level,Secondary,96.03,15.49,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2018,Education_Level,Tertiary,99.0,7.26,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2019,Gender,Female,95.38,14.16,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2019,Gender,Male,93.41,15.93,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2019,Urban_Rural,Urban,99.0,15.61,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2019,Urban_Rural,Rural,88.43,24.84,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2019,Education_Level,Primary or Less,86.84,23.58,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2019,Education_Level,Secondary,95.76,15.73,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2019,Education_Level,Tertiary,99.0,6.73,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2020,Gender,Female,95.25,14.27,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2020,Gender,Male,93.48,15.87,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2020,Urban_Rural,Urban,99.0,13.67,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2020,Urban_Rural,Rural,90.87,22.76,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2020,Education_Level,Primary or Less,87.39,23.09,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2020,Education_Level,Secondary,99.0,12.73,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2020,Education_Level,Tertiary,99.0,6.04,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2021,Gender,Female,95.58,13.98,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2021,Gender,Male,95.94,13.66,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2021,Urban_Rural,Urban,98.79,16.03,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2021,Urban_Rural,Rural,88.67,24.63,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2021,Education_Level,Primary or Less,87.35,23.13,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2021,Education_Level,Secondary,97.93,13.82,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2021,Education_Level,Tertiary,99.0,3.91,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2022,Gender,Female,95.77,13.8,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2022,Gender,Male,97.2,12.52,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2022,Urban_Rural,Urban,99.0,12.7,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2022,Urban_Rural,Rural,90.64,22.96,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2022,Education_Level,Primary or Less,87.93,22.62,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2022,Education_Level,Secondary,99.0,11.41,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2022,Education_Level,Tertiary,99.0,4.2,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2023,Gender,Female,98.59,11.27,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2023,Gender,Male,97.67,12.1,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2023,Urban_Rural,Urban,99.0,11.88,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2023,Urban_Rural,Rural,90.32,23.23,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2023,Education_Level,Primary or Less,87.09,23.36,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2023,Education_Level,Secondary,98.07,13.7,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2023,Education_Level,Tertiary,99.0,4.18,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2024,Gender,Female,98.8,11.08,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2024,Gender,Male,98.26,11.57,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2024,Urban_Rural,Urban,99.0,11.54,277,Centralized Health Clinic,Q4
+GBR,United Kingdom,EURO,2024,Urban_Rural,Rural,89.39,24.02,277,Door-to-Door Campaign,Q4
+GBR,United Kingdom,EURO,2024,Education_Level,Primary or Less,89.66,21.1,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2024,Education_Level,Secondary,99.0,12.09,277,Mobile Outreach Unit,Q4
+GBR,United Kingdom,EURO,2024,Education_Level,Tertiary,99.0,5.3,277,Mobile Outreach Unit,Q4
+JPN,Japan,WPRO,2010,Gender,Female,90.19,18.83,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2010,Gender,Male,88.13,20.69,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2010,Urban_Rural,Urban,96.72,17.79,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2010,Urban_Rural,Rural,80.09,31.92,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2010,Education_Level,Primary or Less,77.28,31.99,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2010,Education_Level,Secondary,88.37,22.23,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2010,Education_Level,Tertiary,98.15,13.63,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2011,Gender,Female,89.11,19.8,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2011,Gender,Male,88.58,20.28,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2011,Urban_Rural,Urban,94.08,20.03,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2011,Urban_Rural,Rural,80.4,31.66,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2011,Education_Level,Primary or Less,81.24,28.5,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2011,Education_Level,Secondary,86.3,24.05,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2011,Education_Level,Tertiary,99.0,11.63,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2012,Gender,Female,88.91,19.98,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2012,Gender,Male,87.79,20.98,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2012,Urban_Rural,Urban,97.61,17.03,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2012,Urban_Rural,Rural,81.99,30.31,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2012,Education_Level,Primary or Less,83.39,26.62,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2012,Education_Level,Secondary,92.34,18.74,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2012,Education_Level,Tertiary,99.0,12.74,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2013,Gender,Female,91.46,17.69,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2013,Gender,Male,90.43,18.61,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2013,Urban_Rural,Urban,97.23,17.36,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2013,Urban_Rural,Rural,82.34,30.01,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2013,Education_Level,Primary or Less,77.56,31.74,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2013,Education_Level,Secondary,91.62,19.38,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2013,Education_Level,Tertiary,99.0,8.83,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2014,Gender,Female,90.8,18.28,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2014,Gender,Male,89.59,19.37,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2014,Urban_Rural,Urban,98.49,16.28,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2014,Urban_Rural,Rural,84.04,28.56,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2014,Education_Level,Primary or Less,78.84,30.63,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2014,Education_Level,Secondary,92.64,18.48,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2014,Education_Level,Tertiary,99.0,8.56,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2015,Gender,Female,92.33,16.91,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2015,Gender,Male,92.13,17.08,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2015,Urban_Rural,Urban,99.0,15.18,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2015,Urban_Rural,Rural,82.89,29.55,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2015,Education_Level,Primary or Less,81.06,28.67,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2015,Education_Level,Secondary,94.49,16.85,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2015,Education_Level,Tertiary,99.0,11.83,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2016,Gender,Female,92.78,16.5,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2016,Gender,Male,91.95,17.25,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2016,Urban_Rural,Urban,97.95,16.74,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2016,Urban_Rural,Rural,85.41,27.41,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2016,Education_Level,Primary or Less,81.3,28.46,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2016,Education_Level,Secondary,93.28,17.91,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2016,Education_Level,Tertiary,99.0,8.2,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2017,Gender,Female,95.07,14.44,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2017,Gender,Male,91.39,17.75,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2017,Urban_Rural,Urban,97.95,16.75,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2017,Urban_Rural,Rural,85.36,27.45,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2017,Education_Level,Primary or Less,83.6,26.43,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2017,Education_Level,Secondary,93.82,17.44,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2017,Education_Level,Tertiary,99.0,6.38,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2018,Gender,Female,94.25,15.17,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2018,Gender,Male,92.07,17.14,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2018,Urban_Rural,Urban,99.0,12.94,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2018,Urban_Rural,Rural,87.62,25.52,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2018,Education_Level,Primary or Less,82.51,27.39,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2018,Education_Level,Secondary,97.2,14.46,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2018,Education_Level,Tertiary,99.0,8.82,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2019,Gender,Female,95.87,13.72,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2019,Gender,Male,95.28,14.25,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2019,Urban_Rural,Urban,99.0,15.55,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2019,Urban_Rural,Rural,86.15,26.77,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2019,Education_Level,Primary or Less,83.53,26.5,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2019,Education_Level,Secondary,96.7,14.91,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2019,Education_Level,Tertiary,99.0,6.71,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2020,Gender,Female,95.71,13.86,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2020,Gender,Male,92.52,16.73,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2020,Urban_Rural,Urban,99.0,14.98,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2020,Urban_Rural,Rural,86.44,26.53,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2020,Education_Level,Primary or Less,85.84,24.46,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2020,Education_Level,Secondary,94.91,16.48,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2020,Education_Level,Tertiary,99.0,7.93,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2021,Gender,Female,95.37,14.17,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2021,Gender,Male,95.24,14.28,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2021,Urban_Rural,Urban,99.0,11.98,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2021,Urban_Rural,Rural,88.38,24.87,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2021,Education_Level,Primary or Less,88.69,21.95,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2021,Education_Level,Secondary,97.93,13.82,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2021,Education_Level,Tertiary,99.0,6.23,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2022,Gender,Female,96.42,13.23,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2022,Gender,Male,95.8,13.78,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2022,Urban_Rural,Urban,99.0,13.38,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2022,Urban_Rural,Rural,87.73,25.43,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2022,Education_Level,Primary or Less,84.89,25.3,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2022,Education_Level,Secondary,98.06,13.7,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2022,Education_Level,Tertiary,99.0,6.15,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2023,Gender,Female,99.0,9.5,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2023,Gender,Male,96.51,13.14,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2023,Urban_Rural,Urban,99.0,11.74,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2023,Urban_Rural,Rural,88.94,24.4,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2023,Education_Level,Primary or Less,91.7,19.31,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2023,Education_Level,Secondary,97.71,14.01,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2023,Education_Level,Tertiary,99.0,5.5,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2024,Gender,Female,99.0,10.36,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2024,Gender,Male,97.2,12.52,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2024,Urban_Rural,Urban,99.0,12.64,338,Centralized Health Clinic,Q1
+JPN,Japan,WPRO,2024,Urban_Rural,Rural,90.33,23.22,338,Door-to-Door Campaign,Q1
+JPN,Japan,WPRO,2024,Education_Level,Primary or Less,88.82,21.84,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2024,Education_Level,Secondary,99.0,11.5,338,Mobile Outreach Unit,Q1
+JPN,Japan,WPRO,2024,Education_Level,Tertiary,99.0,3.38,338,Mobile Outreach Unit,Q1
+MEX,Mexico,AMRO,2010,Gender,Female,77.99,29.81,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2010,Gender,Male,74.47,32.98,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2010,Urban_Rural,Urban,82.45,29.91,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2010,Urban_Rural,Rural,64.59,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2010,Education_Level,Primary or Less,67.8,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2010,Education_Level,Secondary,77.1,32.15,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2010,Education_Level,Tertiary,84.7,25.47,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2011,Gender,Female,76.3,31.33,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2011,Gender,Male,75.56,31.99,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2011,Urban_Rural,Urban,83.44,29.07,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2011,Urban_Rural,Rural,68.09,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2011,Education_Level,Primary or Less,66.6,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2011,Education_Level,Secondary,77.31,31.97,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2011,Education_Level,Tertiary,87.44,23.06,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2012,Gender,Female,77.41,30.33,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2012,Gender,Male,75.9,31.69,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2012,Urban_Rural,Urban,82.53,29.85,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2012,Urban_Rural,Rural,69.38,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2012,Education_Level,Primary or Less,65.16,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2012,Education_Level,Secondary,78.69,30.75,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2012,Education_Level,Tertiary,86.45,23.93,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2013,Gender,Female,76.91,30.78,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2013,Gender,Male,75.59,31.97,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2013,Urban_Rural,Urban,83.35,29.15,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2013,Urban_Rural,Rural,68.97,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2013,Education_Level,Primary or Less,67.69,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2013,Education_Level,Secondary,79.22,30.29,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2013,Education_Level,Tertiary,89.62,21.13,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2014,Gender,Female,78.52,29.34,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2014,Gender,Male,77.18,30.54,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2014,Urban_Rural,Urban,86.54,26.44,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2014,Urban_Rural,Rural,69.77,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2014,Education_Level,Primary or Less,67.37,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2014,Education_Level,Secondary,81.61,28.19,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2014,Education_Level,Tertiary,87.36,23.12,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2015,Gender,Female,80.62,27.45,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2015,Gender,Male,77.46,30.28,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2015,Urban_Rural,Urban,84.0,28.6,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2015,Urban_Rural,Rural,72.09,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2015,Education_Level,Primary or Less,68.12,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2015,Education_Level,Secondary,83.24,26.75,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2015,Education_Level,Tertiary,89.62,21.13,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2016,Gender,Female,80.07,27.93,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2016,Gender,Male,77.81,29.97,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2016,Urban_Rural,Urban,85.52,27.3,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2016,Urban_Rural,Rural,71.37,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2016,Education_Level,Primary or Less,71.2,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2016,Education_Level,Secondary,81.63,28.16,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2016,Education_Level,Tertiary,91.26,19.69,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2017,Gender,Female,80.8,27.28,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2017,Gender,Male,78.69,29.18,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2017,Urban_Rural,Urban,86.85,26.18,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2017,Urban_Rural,Rural,74.31,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2017,Education_Level,Primary or Less,68.33,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2017,Education_Level,Secondary,82.53,27.37,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2017,Education_Level,Tertiary,93.14,18.03,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2018,Gender,Female,80.59,27.47,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2018,Gender,Male,80.72,27.35,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2018,Urban_Rural,Urban,88.21,25.02,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2018,Urban_Rural,Rural,71.55,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2018,Education_Level,Primary or Less,72.27,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2018,Education_Level,Secondary,81.71,28.1,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2018,Education_Level,Tertiary,92.14,18.92,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2019,Gender,Female,83.12,25.19,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2019,Gender,Male,81.7,26.47,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2019,Urban_Rural,Urban,85.96,26.94,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2019,Urban_Rural,Rural,75.95,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2019,Education_Level,Primary or Less,73.43,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2019,Education_Level,Secondary,84.88,25.31,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2019,Education_Level,Tertiary,92.84,18.3,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2020,Gender,Female,82.36,25.87,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2020,Gender,Male,80.12,27.89,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2020,Urban_Rural,Urban,86.55,26.43,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2020,Urban_Rural,Rural,75.27,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2020,Education_Level,Primary or Less,73.58,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2020,Education_Level,Secondary,83.87,26.19,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2020,Education_Level,Tertiary,92.31,18.77,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2021,Gender,Female,83.57,24.79,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2021,Gender,Male,81.26,26.87,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2021,Urban_Rural,Urban,89.23,24.16,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2021,Urban_Rural,Rural,74.36,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2021,Education_Level,Primary or Less,73.62,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2021,Education_Level,Secondary,86.57,23.82,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2021,Education_Level,Tertiary,94.46,16.87,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2022,Gender,Female,84.12,24.29,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2022,Gender,Male,83.59,24.77,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2022,Urban_Rural,Urban,89.92,23.57,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2022,Urban_Rural,Rural,77.05,34.51,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2022,Education_Level,Primary or Less,72.45,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2022,Education_Level,Secondary,84.64,25.52,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2022,Education_Level,Tertiary,92.92,18.23,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2023,Gender,Female,84.43,24.01,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2023,Gender,Male,84.28,24.15,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2023,Urban_Rural,Urban,89.55,23.88,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2023,Urban_Rural,Rural,73.83,35.0,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2023,Education_Level,Primary or Less,73.48,35.0,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2023,Education_Level,Secondary,84.34,25.78,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2023,Education_Level,Tertiary,94.34,16.98,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2024,Gender,Female,87.71,21.06,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2024,Gender,Male,83.11,25.2,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2024,Urban_Rural,Urban,92.06,21.75,66,Centralized Health Clinic,Q4
+MEX,Mexico,AMRO,2024,Urban_Rural,Rural,77.2,34.38,66,Door-to-Door Campaign,Q4
+MEX,Mexico,AMRO,2024,Education_Level,Primary or Less,75.36,33.68,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2024,Education_Level,Secondary,86.04,24.29,66,Mobile Outreach Unit,Q4
+MEX,Mexico,AMRO,2024,Education_Level,Tertiary,97.54,14.16,66,Mobile Outreach Unit,Q4
+PAK,Pakistan,EMRO,2010,Gender,Female,63.23,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2010,Gender,Male,61.65,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2010,Urban_Rural,Urban,68.62,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2010,Urban_Rural,Rural,56.01,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2010,Education_Level,Primary or Less,52.84,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2010,Education_Level,Secondary,64.56,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2010,Education_Level,Tertiary,73.98,34.9,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2011,Gender,Female,61.74,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2011,Gender,Male,62.09,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2011,Urban_Rural,Urban,69.12,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2011,Urban_Rural,Rural,56.6,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2011,Education_Level,Primary or Less,51.65,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2011,Education_Level,Secondary,65.0,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2011,Education_Level,Tertiary,76.59,32.6,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2012,Gender,Female,64.17,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2012,Gender,Male,61.27,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2012,Urban_Rural,Urban,72.51,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2012,Urban_Rural,Rural,55.04,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2012,Education_Level,Primary or Less,51.84,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2012,Education_Level,Secondary,63.9,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2012,Education_Level,Tertiary,75.49,33.57,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2013,Gender,Female,66.2,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2013,Gender,Male,65.06,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2013,Urban_Rural,Urban,70.62,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2013,Urban_Rural,Rural,55.42,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2013,Education_Level,Primary or Less,53.25,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2013,Education_Level,Secondary,66.15,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2013,Education_Level,Tertiary,75.07,33.94,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2014,Gender,Female,66.91,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2014,Gender,Male,62.68,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2014,Urban_Rural,Urban,69.96,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2014,Urban_Rural,Rural,56.93,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2014,Education_Level,Primary or Less,55.35,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2014,Education_Level,Secondary,66.14,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2014,Education_Level,Tertiary,75.01,33.99,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2015,Gender,Female,67.47,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2015,Gender,Male,65.17,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2015,Urban_Rural,Urban,70.82,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2015,Urban_Rural,Rural,57.39,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2015,Education_Level,Primary or Less,56.28,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2015,Education_Level,Secondary,65.61,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2015,Education_Level,Tertiary,77.27,32.01,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2016,Gender,Female,66.66,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2016,Gender,Male,65.76,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2016,Urban_Rural,Urban,72.84,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2016,Urban_Rural,Rural,57.36,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2016,Education_Level,Primary or Less,55.25,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2016,Education_Level,Secondary,70.37,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2016,Education_Level,Tertiary,80.76,28.93,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2017,Gender,Female,65.95,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2017,Gender,Male,67.14,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2017,Urban_Rural,Urban,73.75,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2017,Urban_Rural,Rural,61.9,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2017,Education_Level,Primary or Less,56.06,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2017,Education_Level,Secondary,70.25,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2017,Education_Level,Tertiary,77.45,31.85,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2018,Gender,Female,69.68,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2018,Gender,Male,69.11,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2018,Urban_Rural,Urban,74.36,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2018,Urban_Rural,Rural,58.73,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2018,Education_Level,Primary or Less,59.72,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2018,Education_Level,Secondary,70.45,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2018,Education_Level,Tertiary,79.17,30.33,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2019,Gender,Female,70.68,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2019,Gender,Male,66.36,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2019,Urban_Rural,Urban,73.94,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2019,Urban_Rural,Rural,61.51,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2019,Education_Level,Primary or Less,57.19,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2019,Education_Level,Secondary,69.83,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2019,Education_Level,Tertiary,81.21,28.53,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2020,Gender,Female,70.23,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2020,Gender,Male,67.02,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2020,Urban_Rural,Urban,75.99,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2020,Urban_Rural,Rural,62.99,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2020,Education_Level,Primary or Less,59.26,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2020,Education_Level,Secondary,72.31,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2020,Education_Level,Tertiary,79.22,30.28,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2021,Gender,Female,70.76,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2021,Gender,Male,67.32,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2021,Urban_Rural,Urban,76.96,34.59,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2021,Urban_Rural,Rural,62.63,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2021,Education_Level,Primary or Less,57.76,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2021,Education_Level,Secondary,73.98,34.9,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2021,Education_Level,Tertiary,81.56,28.23,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2022,Gender,Female,70.51,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2022,Gender,Male,70.26,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2022,Urban_Rural,Urban,75.72,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2022,Urban_Rural,Rural,61.88,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2022,Education_Level,Primary or Less,58.93,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2022,Education_Level,Secondary,70.89,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2022,Education_Level,Tertiary,82.06,27.79,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2023,Gender,Female,71.99,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2023,Gender,Male,71.05,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2023,Urban_Rural,Urban,74.22,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2023,Urban_Rural,Rural,63.13,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2023,Education_Level,Primary or Less,60.53,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2023,Education_Level,Secondary,73.18,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2023,Education_Level,Tertiary,82.14,27.72,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2024,Gender,Female,72.83,34.45,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2024,Gender,Male,71.09,35.0,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2024,Urban_Rural,Urban,77.75,33.91,287,Centralized Health Clinic,Q1
+PAK,Pakistan,EMRO,2024,Urban_Rural,Rural,63.82,35.0,287,Door-to-Door Campaign,Q1
+PAK,Pakistan,EMRO,2024,Education_Level,Primary or Less,61.72,35.0,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2024,Education_Level,Secondary,74.56,34.39,287,Mobile Outreach Unit,Q1
+PAK,Pakistan,EMRO,2024,Education_Level,Tertiary,82.93,27.02,287,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2010,Gender,Female,62.01,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2010,Gender,Male,60.36,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2010,Urban_Rural,Urban,69.11,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2010,Urban_Rural,Rural,55.41,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2010,Education_Level,Primary or Less,53.61,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2010,Education_Level,Secondary,63.26,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2010,Education_Level,Tertiary,70.18,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2011,Gender,Female,63.88,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2011,Gender,Male,61.18,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2011,Urban_Rural,Urban,69.08,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2011,Urban_Rural,Rural,55.38,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2011,Education_Level,Primary or Less,53.53,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2011,Education_Level,Secondary,66.04,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2011,Education_Level,Tertiary,75.45,33.6,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2012,Gender,Female,65.52,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2012,Gender,Male,62.7,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2012,Urban_Rural,Urban,67.87,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2012,Urban_Rural,Rural,55.17,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2012,Education_Level,Primary or Less,55.51,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2012,Education_Level,Secondary,65.62,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2012,Education_Level,Tertiary,77.67,31.65,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2013,Gender,Female,64.52,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2013,Gender,Male,65.61,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2013,Urban_Rural,Urban,70.6,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2013,Urban_Rural,Rural,56.1,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2013,Education_Level,Primary or Less,53.03,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2013,Education_Level,Secondary,67.09,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2013,Education_Level,Tertiary,72.98,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2014,Gender,Female,65.05,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2014,Gender,Male,63.95,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2014,Urban_Rural,Urban,68.59,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2014,Urban_Rural,Rural,57.18,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2014,Education_Level,Primary or Less,57.38,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2014,Education_Level,Secondary,67.45,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2014,Education_Level,Tertiary,74.81,34.16,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2015,Gender,Female,65.82,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2015,Gender,Male,65.04,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2015,Urban_Rural,Urban,71.39,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2015,Urban_Rural,Rural,58.56,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2015,Education_Level,Primary or Less,54.69,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2015,Education_Level,Secondary,65.96,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2015,Education_Level,Tertiary,78.27,31.12,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2016,Gender,Female,67.71,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2016,Gender,Male,63.51,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2016,Urban_Rural,Urban,72.3,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2016,Urban_Rural,Rural,59.95,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2016,Education_Level,Primary or Less,55.95,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2016,Education_Level,Secondary,67.33,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2016,Education_Level,Tertiary,76.82,32.4,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2017,Gender,Female,67.81,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2017,Gender,Male,65.92,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2017,Urban_Rural,Urban,73.3,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2017,Urban_Rural,Rural,59.22,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2017,Education_Level,Primary or Less,55.44,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2017,Education_Level,Secondary,67.36,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2017,Education_Level,Tertiary,76.27,32.89,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2018,Gender,Female,68.49,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2018,Gender,Male,67.38,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2018,Urban_Rural,Urban,72.97,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2018,Urban_Rural,Rural,58.3,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2018,Education_Level,Primary or Less,56.29,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2018,Education_Level,Secondary,71.7,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2018,Education_Level,Tertiary,78.13,31.25,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2019,Gender,Female,68.89,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2019,Gender,Male,66.7,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2019,Urban_Rural,Urban,75.49,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2019,Urban_Rural,Rural,60.65,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2019,Education_Level,Primary or Less,57.21,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2019,Education_Level,Secondary,68.75,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2019,Education_Level,Tertiary,79.87,29.72,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2020,Gender,Female,70.06,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2020,Gender,Male,66.96,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2020,Urban_Rural,Urban,76.97,34.57,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2020,Urban_Rural,Rural,60.73,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2020,Education_Level,Primary or Less,55.66,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2020,Education_Level,Secondary,73.29,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2020,Education_Level,Tertiary,79.85,29.74,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2021,Gender,Female,70.93,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2021,Gender,Male,70.57,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2021,Urban_Rural,Urban,75.0,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2021,Urban_Rural,Rural,62.78,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2021,Education_Level,Primary or Less,61.46,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2021,Education_Level,Secondary,70.3,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2021,Education_Level,Tertiary,82.89,27.06,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2022,Gender,Female,69.79,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2022,Gender,Male,69.5,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2022,Urban_Rural,Urban,75.61,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2022,Urban_Rural,Rural,63.74,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2022,Education_Level,Primary or Less,58.95,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2022,Education_Level,Secondary,71.47,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2022,Education_Level,Tertiary,80.08,29.53,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2023,Gender,Female,70.7,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2023,Gender,Male,69.53,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2023,Urban_Rural,Urban,77.55,34.09,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2023,Urban_Rural,Rural,63.48,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2023,Education_Level,Primary or Less,60.78,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2023,Education_Level,Secondary,72.1,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2023,Education_Level,Tertiary,81.57,28.22,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2024,Gender,Female,71.01,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2024,Gender,Male,70.3,35.0,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2024,Urban_Rural,Urban,78.03,33.67,1265,Centralized Health Clinic,Q1
+BGD,Bangladesh,SEARO,2024,Urban_Rural,Rural,64.65,35.0,1265,Door-to-Door Campaign,Q1
+BGD,Bangladesh,SEARO,2024,Education_Level,Primary or Less,62.06,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2024,Education_Level,Secondary,71.96,35.0,1265,Mobile Outreach Unit,Q1
+BGD,Bangladesh,SEARO,2024,Education_Level,Tertiary,83.44,26.57,1265,Mobile Outreach Unit,Q1

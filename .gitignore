@@ -1,0 +1,68 @@
+# ============================================================================
+# .gitignore: Vaccination Data Analysis & Visualization
+# ============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE & Editor Configuration
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary & Log files
+*.log
+*.tmp
+*.temp
+.tempmediaStorage/
+
+# Python Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Explicitly Preserve Database & Deliverables
+!database/vaccination_db.sqlite
+!data/raw/*.csv
+!data/cleaned/*.csv
+!Sample_EDA_Submission_Template.ipynb
+!Vaccination_Project_Report_Tanim_Naha.docx
+!Vaccination_Project_Report_Tanim_Naha.pdf
+!Vaccination_Report.docx
+!power_bi/interactive_dashboard.html
+!power_bi/index.html
+!power_bi/dax_measures.dax
+!power_bi/power_query_etl.m
+!power_bi/dashboard_guide.md

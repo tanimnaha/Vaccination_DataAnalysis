@@ -1,0 +1,2026 @@
+Group,Code,Name,Year,Disease,Disease_description,Cases
+Countries,IND,India,2010,MEASLES,Measles,83760
+Countries,IND,India,2010,PERTUSSIS,Pertussis (Whooping Cough),64047
+Countries,IND,India,2010,DIPHTHERIA,Diphtheria,21449
+Countries,IND,India,2010,TETANUS,Neonatal Tetanus,123
+Countries,IND,India,2010,POLIO,Poliomyelitis,36284
+Countries,IND,India,2010,HEPB,Hepatitis B,80523
+Countries,IND,India,2010,TUBERCULOSIS,Tuberculosis,232419
+Countries,IND,India,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,295831
+Countries,IND,India,2010,INFLUENZA,Seasonal Influenza,400351
+Countries,IND,India,2011,MEASLES,Measles,102677
+Countries,IND,India,2011,PERTUSSIS,Pertussis (Whooping Cough),92723
+Countries,IND,India,2011,DIPHTHERIA,Diphtheria,19499
+Countries,IND,India,2011,TETANUS,Neonatal Tetanus,16676
+Countries,IND,India,2011,POLIO,Poliomyelitis,27778
+Countries,IND,India,2011,HEPB,Hepatitis B,73292
+Countries,IND,India,2011,TUBERCULOSIS,Tuberculosis,172000
+Countries,IND,India,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,315387
+Countries,IND,India,2011,INFLUENZA,Seasonal Influenza,437532
+Countries,IND,India,2012,MEASLES,Measles,93465
+Countries,IND,India,2012,PERTUSSIS,Pertussis (Whooping Cough),62961
+Countries,IND,India,2012,DIPHTHERIA,Diphtheria,15857
+Countries,IND,India,2012,TETANUS,Neonatal Tetanus,142
+Countries,IND,India,2012,POLIO,Poliomyelitis,30005
+Countries,IND,India,2012,HEPB,Hepatitis B,61621
+Countries,IND,India,2012,TUBERCULOSIS,Tuberculosis,155172
+Countries,IND,India,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,264991
+Countries,IND,India,2012,INFLUENZA,Seasonal Influenza,492977
+Countries,IND,India,2013,MEASLES,Measles,81019
+Countries,IND,India,2013,PERTUSSIS,Pertussis (Whooping Cough),67023
+Countries,IND,India,2013,DIPHTHERIA,Diphtheria,11556
+Countries,IND,India,2013,TETANUS,Neonatal Tetanus,9598
+Countries,IND,India,2013,POLIO,Poliomyelitis,22833
+Countries,IND,India,2013,HEPB,Hepatitis B,59173
+Countries,IND,India,2013,TUBERCULOSIS,Tuberculosis,163408
+Countries,IND,India,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,307002
+Countries,IND,India,2013,INFLUENZA,Seasonal Influenza,315504
+Countries,IND,India,2014,MEASLES,Measles,102105
+Countries,IND,India,2014,PERTUSSIS,Pertussis (Whooping Cough),53107
+Countries,IND,India,2014,DIPHTHERIA,Diphtheria,3399
+Countries,IND,India,2014,TETANUS,Neonatal Tetanus,178
+Countries,IND,India,2014,POLIO,Poliomyelitis,9639
+Countries,IND,India,2014,HEPB,Hepatitis B,83694
+Countries,IND,India,2014,TUBERCULOSIS,Tuberculosis,187382
+Countries,IND,India,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,328207
+Countries,IND,India,2014,INFLUENZA,Seasonal Influenza,361610
+Countries,IND,India,2015,MEASLES,Measles,116080
+Countries,IND,India,2015,PERTUSSIS,Pertussis (Whooping Cough),41256
+Countries,IND,India,2015,DIPHTHERIA,Diphtheria,10195
+Countries,IND,India,2015,TETANUS,Neonatal Tetanus,140
+Countries,IND,India,2015,POLIO,Poliomyelitis,36197
+Countries,IND,India,2015,HEPB,Hepatitis B,79051
+Countries,IND,India,2015,TUBERCULOSIS,Tuberculosis,172059
+Countries,IND,India,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,286906
+Countries,IND,India,2015,INFLUENZA,Seasonal Influenza,393330
+Countries,IND,India,2016,MEASLES,Measles,87053
+Countries,IND,India,2016,PERTUSSIS,Pertussis (Whooping Cough),49387
+Countries,IND,India,2016,DIPHTHERIA,Diphtheria,24421
+Countries,IND,India,2016,TETANUS,Neonatal Tetanus,3218
+Countries,IND,India,2016,POLIO,Poliomyelitis,46406
+Countries,IND,India,2016,HEPB,Hepatitis B,77632
+Countries,IND,India,2016,TUBERCULOSIS,Tuberculosis,102048
+Countries,IND,India,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,235219
+Countries,IND,India,2016,INFLUENZA,Seasonal Influenza,203126
+Countries,IND,India,2017,MEASLES,Measles,54266
+Countries,IND,India,2017,PERTUSSIS,Pertussis (Whooping Cough),40990
+Countries,IND,India,2017,DIPHTHERIA,Diphtheria,11395
+Countries,IND,India,2017,TETANUS,Neonatal Tetanus,2385
+Countries,IND,India,2017,POLIO,Poliomyelitis,26221
+Countries,IND,India,2017,HEPB,Hepatitis B,75159
+Countries,IND,India,2017,TUBERCULOSIS,Tuberculosis,172442
+Countries,IND,India,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,284597
+Countries,IND,India,2017,INFLUENZA,Seasonal Influenza,269070
+Countries,IND,India,2018,MEASLES,Measles,69381
+Countries,IND,India,2018,PERTUSSIS,Pertussis (Whooping Cough),50201
+Countries,IND,India,2018,DIPHTHERIA,Diphtheria,122
+Countries,IND,India,2018,TETANUS,Neonatal Tetanus,10250
+Countries,IND,India,2018,POLIO,Poliomyelitis,24595
+Countries,IND,India,2018,HEPB,Hepatitis B,72257
+Countries,IND,India,2018,TUBERCULOSIS,Tuberculosis,134187
+Countries,IND,India,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,255785
+Countries,IND,India,2018,INFLUENZA,Seasonal Influenza,339573
+Countries,IND,India,2019,MEASLES,Measles,86555
+Countries,IND,India,2019,PERTUSSIS,Pertussis (Whooping Cough),51816
+Countries,IND,India,2019,DIPHTHERIA,Diphtheria,23113
+Countries,IND,India,2019,TETANUS,Neonatal Tetanus,2962
+Countries,IND,India,2019,POLIO,Poliomyelitis,33216
+Countries,IND,India,2019,HEPB,Hepatitis B,52663
+Countries,IND,India,2019,TUBERCULOSIS,Tuberculosis,95613
+Countries,IND,India,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,206840
+Countries,IND,India,2019,INFLUENZA,Seasonal Influenza,228971
+Countries,IND,India,2020,MEASLES,Measles,114953
+Countries,IND,India,2020,PERTUSSIS,Pertussis (Whooping Cough),69723
+Countries,IND,India,2020,DIPHTHERIA,Diphtheria,13887
+Countries,IND,India,2020,TETANUS,Neonatal Tetanus,131
+Countries,IND,India,2020,POLIO,Poliomyelitis,8368
+Countries,IND,India,2020,HEPB,Hepatitis B,82272
+Countries,IND,India,2020,TUBERCULOSIS,Tuberculosis,175821
+Countries,IND,India,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,263736
+Countries,IND,India,2020,INFLUENZA,Seasonal Influenza,407065
+Countries,IND,India,2021,MEASLES,Measles,127340
+Countries,IND,India,2021,PERTUSSIS,Pertussis (Whooping Cough),95903
+Countries,IND,India,2021,DIPHTHERIA,Diphtheria,9686
+Countries,IND,India,2021,TETANUS,Neonatal Tetanus,119
+Countries,IND,India,2021,POLIO,Poliomyelitis,42771
+Countries,IND,India,2021,HEPB,Hepatitis B,76574
+Countries,IND,India,2021,TUBERCULOSIS,Tuberculosis,160554
+Countries,IND,India,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,277912
+Countries,IND,India,2021,INFLUENZA,Seasonal Influenza,408467
+Countries,IND,India,2022,MEASLES,Measles,69705
+Countries,IND,India,2022,PERTUSSIS,Pertussis (Whooping Cough),37198
+Countries,IND,India,2022,DIPHTHERIA,Diphtheria,5333
+Countries,IND,India,2022,TETANUS,Neonatal Tetanus,177
+Countries,IND,India,2022,POLIO,Poliomyelitis,8578
+Countries,IND,India,2022,HEPB,Hepatitis B,43233
+Countries,IND,India,2022,TUBERCULOSIS,Tuberculosis,85903
+Countries,IND,India,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,157940
+Countries,IND,India,2022,INFLUENZA,Seasonal Influenza,207895
+Countries,IND,India,2023,MEASLES,Measles,69911
+Countries,IND,India,2023,PERTUSSIS,Pertussis (Whooping Cough),55770
+Countries,IND,India,2023,DIPHTHERIA,Diphtheria,26300
+Countries,IND,India,2023,TETANUS,Neonatal Tetanus,7173
+Countries,IND,India,2023,POLIO,Poliomyelitis,9892
+Countries,IND,India,2023,HEPB,Hepatitis B,32135
+Countries,IND,India,2023,TUBERCULOSIS,Tuberculosis,130004
+Countries,IND,India,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,161644
+Countries,IND,India,2023,INFLUENZA,Seasonal Influenza,246560
+Countries,IND,India,2024,MEASLES,Measles,72860
+Countries,IND,India,2024,PERTUSSIS,Pertussis (Whooping Cough),32268
+Countries,IND,India,2024,DIPHTHERIA,Diphtheria,2745
+Countries,IND,India,2024,TETANUS,Neonatal Tetanus,144
+Countries,IND,India,2024,POLIO,Poliomyelitis,5070
+Countries,IND,India,2024,HEPB,Hepatitis B,52091
+Countries,IND,India,2024,TUBERCULOSIS,Tuberculosis,99054
+Countries,IND,India,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,226035
+Countries,IND,India,2024,INFLUENZA,Seasonal Influenza,235241
+Countries,USA,United States,2010,MEASLES,Measles,811
+Countries,USA,United States,2010,PERTUSSIS,Pertussis (Whooping Cough),961
+Countries,USA,United States,2010,DIPHTHERIA,Diphtheria,430
+Countries,USA,United States,2010,TETANUS,Neonatal Tetanus,252
+Countries,USA,United States,2010,POLIO,Poliomyelitis,393
+Countries,USA,United States,2010,HEPB,Hepatitis B,674
+Countries,USA,United States,2010,TUBERCULOSIS,Tuberculosis,1997
+Countries,USA,United States,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,2618
+Countries,USA,United States,2010,INFLUENZA,Seasonal Influenza,5055
+Countries,USA,United States,2011,MEASLES,Measles,1292
+Countries,USA,United States,2011,PERTUSSIS,Pertussis (Whooping Cough),1030
+Countries,USA,United States,2011,DIPHTHERIA,Diphtheria,675
+Countries,USA,United States,2011,TETANUS,Neonatal Tetanus,29
+Countries,USA,United States,2011,POLIO,Poliomyelitis,32
+Countries,USA,United States,2011,HEPB,Hepatitis B,755
+Countries,USA,United States,2011,TUBERCULOSIS,Tuberculosis,1874
+Countries,USA,United States,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,3079
+Countries,USA,United States,2011,INFLUENZA,Seasonal Influenza,4166
+Countries,USA,United States,2012,MEASLES,Measles,885
+Countries,USA,United States,2012,PERTUSSIS,Pertussis (Whooping Cough),745
+Countries,USA,United States,2012,DIPHTHERIA,Diphtheria,341
+Countries,USA,United States,2012,TETANUS,Neonatal Tetanus,477
+Countries,USA,United States,2012,POLIO,Poliomyelitis,33
+Countries,USA,United States,2012,HEPB,Hepatitis B,559
+Countries,USA,United States,2012,TUBERCULOSIS,Tuberculosis,2234
+Countries,USA,United States,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,2740
+Countries,USA,United States,2012,INFLUENZA,Seasonal Influenza,3138
+Countries,USA,United States,2013,MEASLES,Measles,1242
+Countries,USA,United States,2013,PERTUSSIS,Pertussis (Whooping Cough),844
+Countries,USA,United States,2013,DIPHTHERIA,Diphtheria,35
+Countries,USA,United States,2013,TETANUS,Neonatal Tetanus,33
+Countries,USA,United States,2013,POLIO,Poliomyelitis,242
+Countries,USA,United States,2013,HEPB,Hepatitis B,779
+Countries,USA,United States,2013,TUBERCULOSIS,Tuberculosis,1104
+Countries,USA,United States,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,1628
+Countries,USA,United States,2013,INFLUENZA,Seasonal Influenza,3735
+Countries,USA,United States,2014,MEASLES,Measles,960
+Countries,USA,United States,2014,PERTUSSIS,Pertussis (Whooping Cough),1106
+Countries,USA,United States,2014,DIPHTHERIA,Diphtheria,24
+Countries,USA,United States,2014,TETANUS,Neonatal Tetanus,424
+Countries,USA,United States,2014,POLIO,Poliomyelitis,58
+Countries,USA,United States,2014,HEPB,Hepatitis B,455
+Countries,USA,United States,2014,TUBERCULOSIS,Tuberculosis,989
+Countries,USA,United States,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,2920
+Countries,USA,United States,2014,INFLUENZA,Seasonal Influenza,2748
+Countries,USA,United States,2015,MEASLES,Measles,1209
+Countries,USA,United States,2015,PERTUSSIS,Pertussis (Whooping Cough),183
+Countries,USA,United States,2015,DIPHTHERIA,Diphtheria,37
+Countries,USA,United States,2015,TETANUS,Neonatal Tetanus,36
+Countries,USA,United States,2015,POLIO,Poliomyelitis,24
+Countries,USA,United States,2015,HEPB,Hepatitis B,881
+Countries,USA,United States,2015,TUBERCULOSIS,Tuberculosis,1585
+Countries,USA,United States,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,2166
+Countries,USA,United States,2015,INFLUENZA,Seasonal Influenza,3796
+Countries,USA,United States,2016,MEASLES,Measles,978
+Countries,USA,United States,2016,PERTUSSIS,Pertussis (Whooping Cough),593
+Countries,USA,United States,2016,DIPHTHERIA,Diphtheria,284
+Countries,USA,United States,2016,TETANUS,Neonatal Tetanus,56
+Countries,USA,United States,2016,POLIO,Poliomyelitis,115
+Countries,USA,United States,2016,HEPB,Hepatitis B,226
+Countries,USA,United States,2016,TUBERCULOSIS,Tuberculosis,1691
+Countries,USA,United States,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,2973
+Countries,USA,United States,2016,INFLUENZA,Seasonal Influenza,3320
+Countries,USA,United States,2017,MEASLES,Measles,122
+Countries,USA,United States,2017,PERTUSSIS,Pertussis (Whooping Cough),457
+Countries,USA,United States,2017,DIPHTHERIA,Diphtheria,595
+Countries,USA,United States,2017,TETANUS,Neonatal Tetanus,427
+Countries,USA,United States,2017,POLIO,Poliomyelitis,29
+Countries,USA,United States,2017,HEPB,Hepatitis B,865
+Countries,USA,United States,2017,TUBERCULOSIS,Tuberculosis,1651
+Countries,USA,United States,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,2949
+Countries,USA,United States,2017,INFLUENZA,Seasonal Influenza,3039
+Countries,USA,United States,2018,MEASLES,Measles,458
+Countries,USA,United States,2018,PERTUSSIS,Pertussis (Whooping Cough),31
+Countries,USA,United States,2018,DIPHTHERIA,Diphtheria,39
+Countries,USA,United States,2018,TETANUS,Neonatal Tetanus,315
+Countries,USA,United States,2018,POLIO,Poliomyelitis,33
+Countries,USA,United States,2018,HEPB,Hepatitis B,167
+Countries,USA,United States,2018,TUBERCULOSIS,Tuberculosis,1584
+Countries,USA,United States,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,2701
+Countries,USA,United States,2018,INFLUENZA,Seasonal Influenza,3014
+Countries,USA,United States,2019,MEASLES,Measles,738
+Countries,USA,United States,2019,PERTUSSIS,Pertussis (Whooping Cough),596
+Countries,USA,United States,2019,DIPHTHERIA,Diphtheria,336
+Countries,USA,United States,2019,TETANUS,Neonatal Tetanus,35
+Countries,USA,United States,2019,POLIO,Poliomyelitis,37
+Countries,USA,United States,2019,HEPB,Hepatitis B,996
+Countries,USA,United States,2019,TUBERCULOSIS,Tuberculosis,1385
+Countries,USA,United States,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,2294
+Countries,USA,United States,2019,INFLUENZA,Seasonal Influenza,3282
+Countries,USA,United States,2020,MEASLES,Measles,431
+Countries,USA,United States,2020,PERTUSSIS,Pertussis (Whooping Cough),656
+Countries,USA,United States,2020,DIPHTHERIA,Diphtheria,27
+Countries,USA,United States,2020,TETANUS,Neonatal Tetanus,32
+Countries,USA,United States,2020,POLIO,Poliomyelitis,705
+Countries,USA,United States,2020,HEPB,Hepatitis B,414
+Countries,USA,United States,2020,TUBERCULOSIS,Tuberculosis,1508
+Countries,USA,United States,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,5027
+Countries,USA,United States,2020,INFLUENZA,Seasonal Influenza,3763
+Countries,USA,United States,2021,MEASLES,Measles,488
+Countries,USA,United States,2021,PERTUSSIS,Pertussis (Whooping Cough),1062
+Countries,USA,United States,2021,DIPHTHERIA,Diphtheria,34
+Countries,USA,United States,2021,TETANUS,Neonatal Tetanus,741
+Countries,USA,United States,2021,POLIO,Poliomyelitis,383
+Countries,USA,United States,2021,HEPB,Hepatitis B,1404
+Countries,USA,United States,2021,TUBERCULOSIS,Tuberculosis,2011
+Countries,USA,United States,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,3429
+Countries,USA,United States,2021,INFLUENZA,Seasonal Influenza,2858
+Countries,USA,United States,2022,MEASLES,Measles,490
+Countries,USA,United States,2022,PERTUSSIS,Pertussis (Whooping Cough),31
+Countries,USA,United States,2022,DIPHTHERIA,Diphtheria,403
+Countries,USA,United States,2022,TETANUS,Neonatal Tetanus,164
+Countries,USA,United States,2022,POLIO,Poliomyelitis,36
+Countries,USA,United States,2022,HEPB,Hepatitis B,31
+Countries,USA,United States,2022,TUBERCULOSIS,Tuberculosis,1249
+Countries,USA,United States,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,2321
+Countries,USA,United States,2022,INFLUENZA,Seasonal Influenza,2677
+Countries,USA,United States,2023,MEASLES,Measles,565
+Countries,USA,United States,2023,PERTUSSIS,Pertussis (Whooping Cough),171
+Countries,USA,United States,2023,DIPHTHERIA,Diphtheria,519
+Countries,USA,United States,2023,TETANUS,Neonatal Tetanus,42
+Countries,USA,United States,2023,POLIO,Poliomyelitis,38
+Countries,USA,United States,2023,HEPB,Hepatitis B,930
+Countries,USA,United States,2023,TUBERCULOSIS,Tuberculosis,1513
+Countries,USA,United States,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,1701
+Countries,USA,United States,2023,INFLUENZA,Seasonal Influenza,2073
+Countries,USA,United States,2024,MEASLES,Measles,1226
+Countries,USA,United States,2024,PERTUSSIS,Pertussis (Whooping Cough),142
+Countries,USA,United States,2024,DIPHTHERIA,Diphtheria,28
+Countries,USA,United States,2024,TETANUS,Neonatal Tetanus,36
+Countries,USA,United States,2024,POLIO,Poliomyelitis,518
+Countries,USA,United States,2024,HEPB,Hepatitis B,447
+Countries,USA,United States,2024,TUBERCULOSIS,Tuberculosis,1017
+Countries,USA,United States,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,2260
+Countries,USA,United States,2024,INFLUENZA,Seasonal Influenza,1908
+Countries,BRA,Brazil,2010,MEASLES,Measles,3056
+Countries,BRA,Brazil,2010,PERTUSSIS,Pertussis (Whooping Cough),2475
+Countries,BRA,Brazil,2010,DIPHTHERIA,Diphtheria,10
+Countries,BRA,Brazil,2010,TETANUS,Neonatal Tetanus,10
+Countries,BRA,Brazil,2010,POLIO,Poliomyelitis,395
+Countries,BRA,Brazil,2010,HEPB,Hepatitis B,1730
+Countries,BRA,Brazil,2010,TUBERCULOSIS,Tuberculosis,5450
+Countries,BRA,Brazil,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,7160
+Countries,BRA,Brazil,2010,INFLUENZA,Seasonal Influenza,10542
+Countries,BRA,Brazil,2011,MEASLES,Measles,1462
+Countries,BRA,Brazil,2011,PERTUSSIS,Pertussis (Whooping Cough),3441
+Countries,BRA,Brazil,2011,DIPHTHERIA,Diphtheria,335
+Countries,BRA,Brazil,2011,TETANUS,Neonatal Tetanus,1159
+Countries,BRA,Brazil,2011,POLIO,Poliomyelitis,76
+Countries,BRA,Brazil,2011,HEPB,Hepatitis B,2137
+Countries,BRA,Brazil,2011,TUBERCULOSIS,Tuberculosis,5018
+Countries,BRA,Brazil,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,10189
+Countries,BRA,Brazil,2011,INFLUENZA,Seasonal Influenza,9816
+Countries,BRA,Brazil,2012,MEASLES,Measles,2987
+Countries,BRA,Brazil,2012,PERTUSSIS,Pertussis (Whooping Cough),2694
+Countries,BRA,Brazil,2012,DIPHTHERIA,Diphtheria,799
+Countries,BRA,Brazil,2012,TETANUS,Neonatal Tetanus,164
+Countries,BRA,Brazil,2012,POLIO,Poliomyelitis,1001
+Countries,BRA,Brazil,2012,HEPB,Hepatitis B,2434
+Countries,BRA,Brazil,2012,TUBERCULOSIS,Tuberculosis,3895
+Countries,BRA,Brazil,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,6964
+Countries,BRA,Brazil,2012,INFLUENZA,Seasonal Influenza,8159
+Countries,BRA,Brazil,2013,MEASLES,Measles,1693
+Countries,BRA,Brazil,2013,PERTUSSIS,Pertussis (Whooping Cough),2220
+Countries,BRA,Brazil,2013,DIPHTHERIA,Diphtheria,960
+Countries,BRA,Brazil,2013,TETANUS,Neonatal Tetanus,342
+Countries,BRA,Brazil,2013,POLIO,Poliomyelitis,1061
+Countries,BRA,Brazil,2013,HEPB,Hepatitis B,1892
+Countries,BRA,Brazil,2013,TUBERCULOSIS,Tuberculosis,5691
+Countries,BRA,Brazil,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,6790
+Countries,BRA,Brazil,2013,INFLUENZA,Seasonal Influenza,8440
+Countries,BRA,Brazil,2014,MEASLES,Measles,3330
+Countries,BRA,Brazil,2014,PERTUSSIS,Pertussis (Whooping Cough),1302
+Countries,BRA,Brazil,2014,DIPHTHERIA,Diphtheria,8
+Countries,BRA,Brazil,2014,TETANUS,Neonatal Tetanus,467
+Countries,BRA,Brazil,2014,POLIO,Poliomyelitis,519
+Countries,BRA,Brazil,2014,HEPB,Hepatitis B,1397
+Countries,BRA,Brazil,2014,TUBERCULOSIS,Tuberculosis,2801
+Countries,BRA,Brazil,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,7180
+Countries,BRA,Brazil,2014,INFLUENZA,Seasonal Influenza,6226
+Countries,BRA,Brazil,2015,MEASLES,Measles,2090
+Countries,BRA,Brazil,2015,PERTUSSIS,Pertussis (Whooping Cough),1720
+Countries,BRA,Brazil,2015,DIPHTHERIA,Diphtheria,8
+Countries,BRA,Brazil,2015,TETANUS,Neonatal Tetanus,448
+Countries,BRA,Brazil,2015,POLIO,Poliomyelitis,8
+Countries,BRA,Brazil,2015,HEPB,Hepatitis B,1134
+Countries,BRA,Brazil,2015,TUBERCULOSIS,Tuberculosis,4768
+Countries,BRA,Brazil,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,5872
+Countries,BRA,Brazil,2015,INFLUENZA,Seasonal Influenza,6109
+Countries,BRA,Brazil,2016,MEASLES,Measles,2006
+Countries,BRA,Brazil,2016,PERTUSSIS,Pertussis (Whooping Cough),2009
+Countries,BRA,Brazil,2016,DIPHTHERIA,Diphtheria,430
+Countries,BRA,Brazil,2016,TETANUS,Neonatal Tetanus,396
+Countries,BRA,Brazil,2016,POLIO,Poliomyelitis,464
+Countries,BRA,Brazil,2016,HEPB,Hepatitis B,1573
+Countries,BRA,Brazil,2016,TUBERCULOSIS,Tuberculosis,4040
+Countries,BRA,Brazil,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,6360
+Countries,BRA,Brazil,2016,INFLUENZA,Seasonal Influenza,9809
+Countries,BRA,Brazil,2017,MEASLES,Measles,1941
+Countries,BRA,Brazil,2017,PERTUSSIS,Pertussis (Whooping Cough),1068
+Countries,BRA,Brazil,2017,DIPHTHERIA,Diphtheria,10
+Countries,BRA,Brazil,2017,TETANUS,Neonatal Tetanus,10
+Countries,BRA,Brazil,2017,POLIO,Poliomyelitis,1109
+Countries,BRA,Brazil,2017,HEPB,Hepatitis B,1417
+Countries,BRA,Brazil,2017,TUBERCULOSIS,Tuberculosis,2935
+Countries,BRA,Brazil,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,5798
+Countries,BRA,Brazil,2017,INFLUENZA,Seasonal Influenza,10021
+Countries,BRA,Brazil,2018,MEASLES,Measles,2424
+Countries,BRA,Brazil,2018,PERTUSSIS,Pertussis (Whooping Cough),1451
+Countries,BRA,Brazil,2018,DIPHTHERIA,Diphtheria,10
+Countries,BRA,Brazil,2018,TETANUS,Neonatal Tetanus,11
+Countries,BRA,Brazil,2018,POLIO,Poliomyelitis,1232
+Countries,BRA,Brazil,2018,HEPB,Hepatitis B,2661
+Countries,BRA,Brazil,2018,TUBERCULOSIS,Tuberculosis,3355
+Countries,BRA,Brazil,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,4355
+Countries,BRA,Brazil,2018,INFLUENZA,Seasonal Influenza,8946
+Countries,BRA,Brazil,2019,MEASLES,Measles,1032
+Countries,BRA,Brazil,2019,PERTUSSIS,Pertussis (Whooping Cough),933
+Countries,BRA,Brazil,2019,DIPHTHERIA,Diphtheria,240
+Countries,BRA,Brazil,2019,TETANUS,Neonatal Tetanus,9
+Countries,BRA,Brazil,2019,POLIO,Poliomyelitis,513
+Countries,BRA,Brazil,2019,HEPB,Hepatitis B,2676
+Countries,BRA,Brazil,2019,TUBERCULOSIS,Tuberculosis,3059
+Countries,BRA,Brazil,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,6232
+Countries,BRA,Brazil,2019,INFLUENZA,Seasonal Influenza,8772
+Countries,BRA,Brazil,2020,MEASLES,Measles,2248
+Countries,BRA,Brazil,2020,PERTUSSIS,Pertussis (Whooping Cough),1524
+Countries,BRA,Brazil,2020,DIPHTHERIA,Diphtheria,1975
+Countries,BRA,Brazil,2020,TETANUS,Neonatal Tetanus,835
+Countries,BRA,Brazil,2020,POLIO,Poliomyelitis,11
+Countries,BRA,Brazil,2020,HEPB,Hepatitis B,1091
+Countries,BRA,Brazil,2020,TUBERCULOSIS,Tuberculosis,2579
+Countries,BRA,Brazil,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,7291
+Countries,BRA,Brazil,2020,INFLUENZA,Seasonal Influenza,8826
+Countries,BRA,Brazil,2021,MEASLES,Measles,2293
+Countries,BRA,Brazil,2021,PERTUSSIS,Pertussis (Whooping Cough),1578
+Countries,BRA,Brazil,2021,DIPHTHERIA,Diphtheria,8
+Countries,BRA,Brazil,2021,TETANUS,Neonatal Tetanus,1167
+Countries,BRA,Brazil,2021,POLIO,Poliomyelitis,166
+Countries,BRA,Brazil,2021,HEPB,Hepatitis B,1232
+Countries,BRA,Brazil,2021,TUBERCULOSIS,Tuberculosis,3948
+Countries,BRA,Brazil,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,4682
+Countries,BRA,Brazil,2021,INFLUENZA,Seasonal Influenza,10546
+Countries,BRA,Brazil,2022,MEASLES,Measles,975
+Countries,BRA,Brazil,2022,PERTUSSIS,Pertussis (Whooping Cough),2384
+Countries,BRA,Brazil,2022,DIPHTHERIA,Diphtheria,8
+Countries,BRA,Brazil,2022,TETANUS,Neonatal Tetanus,8
+Countries,BRA,Brazil,2022,POLIO,Poliomyelitis,627
+Countries,BRA,Brazil,2022,HEPB,Hepatitis B,921
+Countries,BRA,Brazil,2022,TUBERCULOSIS,Tuberculosis,4552
+Countries,BRA,Brazil,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,5112
+Countries,BRA,Brazil,2022,INFLUENZA,Seasonal Influenza,7024
+Countries,BRA,Brazil,2023,MEASLES,Measles,2634
+Countries,BRA,Brazil,2023,PERTUSSIS,Pertussis (Whooping Cough),1056
+Countries,BRA,Brazil,2023,DIPHTHERIA,Diphtheria,220
+Countries,BRA,Brazil,2023,TETANUS,Neonatal Tetanus,9
+Countries,BRA,Brazil,2023,POLIO,Poliomyelitis,121
+Countries,BRA,Brazil,2023,HEPB,Hepatitis B,1237
+Countries,BRA,Brazil,2023,TUBERCULOSIS,Tuberculosis,3373
+Countries,BRA,Brazil,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,4882
+Countries,BRA,Brazil,2023,INFLUENZA,Seasonal Influenza,6011
+Countries,BRA,Brazil,2024,MEASLES,Measles,1745
+Countries,BRA,Brazil,2024,PERTUSSIS,Pertussis (Whooping Cough),1647
+Countries,BRA,Brazil,2024,DIPHTHERIA,Diphtheria,375
+Countries,BRA,Brazil,2024,TETANUS,Neonatal Tetanus,10
+Countries,BRA,Brazil,2024,POLIO,Poliomyelitis,584
+Countries,BRA,Brazil,2024,HEPB,Hepatitis B,1069
+Countries,BRA,Brazil,2024,TUBERCULOSIS,Tuberculosis,2659
+Countries,BRA,Brazil,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,5603
+Countries,BRA,Brazil,2024,INFLUENZA,Seasonal Influenza,6301
+Countries,NGA,Nigeria,2010,MEASLES,Measles,7738
+Countries,NGA,Nigeria,2010,PERTUSSIS,Pertussis (Whooping Cough),7153
+Countries,NGA,Nigeria,2010,DIPHTHERIA,Diphtheria,1266
+Countries,NGA,Nigeria,2010,TETANUS,Neonatal Tetanus,8
+Countries,NGA,Nigeria,2010,POLIO,Poliomyelitis,1375
+Countries,NGA,Nigeria,2010,HEPB,Hepatitis B,5859
+Countries,NGA,Nigeria,2010,TUBERCULOSIS,Tuberculosis,10349
+Countries,NGA,Nigeria,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,21397
+Countries,NGA,Nigeria,2010,INFLUENZA,Seasonal Influenza,23953
+Countries,NGA,Nigeria,2011,MEASLES,Measles,5536
+Countries,NGA,Nigeria,2011,PERTUSSIS,Pertussis (Whooping Cough),5379
+Countries,NGA,Nigeria,2011,DIPHTHERIA,Diphtheria,1515
+Countries,NGA,Nigeria,2011,TETANUS,Neonatal Tetanus,11
+Countries,NGA,Nigeria,2011,POLIO,Poliomyelitis,1111
+Countries,NGA,Nigeria,2011,HEPB,Hepatitis B,4849
+Countries,NGA,Nigeria,2011,TUBERCULOSIS,Tuberculosis,12949
+Countries,NGA,Nigeria,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,17164
+Countries,NGA,Nigeria,2011,INFLUENZA,Seasonal Influenza,26651
+Countries,NGA,Nigeria,2012,MEASLES,Measles,4724
+Countries,NGA,Nigeria,2012,PERTUSSIS,Pertussis (Whooping Cough),5492
+Countries,NGA,Nigeria,2012,DIPHTHERIA,Diphtheria,1274
+Countries,NGA,Nigeria,2012,TETANUS,Neonatal Tetanus,770
+Countries,NGA,Nigeria,2012,POLIO,Poliomyelitis,1606
+Countries,NGA,Nigeria,2012,HEPB,Hepatitis B,6521
+Countries,NGA,Nigeria,2012,TUBERCULOSIS,Tuberculosis,12122
+Countries,NGA,Nigeria,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,16795
+Countries,NGA,Nigeria,2012,INFLUENZA,Seasonal Influenza,21871
+Countries,NGA,Nigeria,2013,MEASLES,Measles,5061
+Countries,NGA,Nigeria,2013,PERTUSSIS,Pertussis (Whooping Cough),3961
+Countries,NGA,Nigeria,2013,DIPHTHERIA,Diphtheria,11
+Countries,NGA,Nigeria,2013,TETANUS,Neonatal Tetanus,674
+Countries,NGA,Nigeria,2013,POLIO,Poliomyelitis,890
+Countries,NGA,Nigeria,2013,HEPB,Hepatitis B,5616
+Countries,NGA,Nigeria,2013,TUBERCULOSIS,Tuberculosis,10053
+Countries,NGA,Nigeria,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,20551
+Countries,NGA,Nigeria,2013,INFLUENZA,Seasonal Influenza,28012
+Countries,NGA,Nigeria,2014,MEASLES,Measles,6200
+Countries,NGA,Nigeria,2014,PERTUSSIS,Pertussis (Whooping Cough),4670
+Countries,NGA,Nigeria,2014,DIPHTHERIA,Diphtheria,588
+Countries,NGA,Nigeria,2014,TETANUS,Neonatal Tetanus,1756
+Countries,NGA,Nigeria,2014,POLIO,Poliomyelitis,1072
+Countries,NGA,Nigeria,2014,HEPB,Hepatitis B,5791
+Countries,NGA,Nigeria,2014,TUBERCULOSIS,Tuberculosis,13130
+Countries,NGA,Nigeria,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,18022
+Countries,NGA,Nigeria,2014,INFLUENZA,Seasonal Influenza,24630
+Countries,NGA,Nigeria,2015,MEASLES,Measles,7479
+Countries,NGA,Nigeria,2015,PERTUSSIS,Pertussis (Whooping Cough),3818
+Countries,NGA,Nigeria,2015,DIPHTHERIA,Diphtheria,728
+Countries,NGA,Nigeria,2015,TETANUS,Neonatal Tetanus,2149
+Countries,NGA,Nigeria,2015,POLIO,Poliomyelitis,772
+Countries,NGA,Nigeria,2015,HEPB,Hepatitis B,5636
+Countries,NGA,Nigeria,2015,TUBERCULOSIS,Tuberculosis,9350
+Countries,NGA,Nigeria,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,13438
+Countries,NGA,Nigeria,2015,INFLUENZA,Seasonal Influenza,24131
+Countries,NGA,Nigeria,2016,MEASLES,Measles,5875
+Countries,NGA,Nigeria,2016,PERTUSSIS,Pertussis (Whooping Cough),3457
+Countries,NGA,Nigeria,2016,DIPHTHERIA,Diphtheria,609
+Countries,NGA,Nigeria,2016,TETANUS,Neonatal Tetanus,186
+Countries,NGA,Nigeria,2016,POLIO,Poliomyelitis,1340
+Countries,NGA,Nigeria,2016,HEPB,Hepatitis B,4904
+Countries,NGA,Nigeria,2016,TUBERCULOSIS,Tuberculosis,9047
+Countries,NGA,Nigeria,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,17391
+Countries,NGA,Nigeria,2016,INFLUENZA,Seasonal Influenza,20158
+Countries,NGA,Nigeria,2017,MEASLES,Measles,6733
+Countries,NGA,Nigeria,2017,PERTUSSIS,Pertussis (Whooping Cough),4346
+Countries,NGA,Nigeria,2017,DIPHTHERIA,Diphtheria,585
+Countries,NGA,Nigeria,2017,TETANUS,Neonatal Tetanus,533
+Countries,NGA,Nigeria,2017,POLIO,Poliomyelitis,470
+Countries,NGA,Nigeria,2017,HEPB,Hepatitis B,4744
+Countries,NGA,Nigeria,2017,TUBERCULOSIS,Tuberculosis,8817
+Countries,NGA,Nigeria,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,16858
+Countries,NGA,Nigeria,2017,INFLUENZA,Seasonal Influenza,23492
+Countries,NGA,Nigeria,2018,MEASLES,Measles,26991
+Countries,NGA,Nigeria,2018,PERTUSSIS,Pertussis (Whooping Cough),3302
+Countries,NGA,Nigeria,2018,DIPHTHERIA,Diphtheria,363
+Countries,NGA,Nigeria,2018,TETANUS,Neonatal Tetanus,372
+Countries,NGA,Nigeria,2018,POLIO,Poliomyelitis,1471
+Countries,NGA,Nigeria,2018,HEPB,Hepatitis B,4336
+Countries,NGA,Nigeria,2018,TUBERCULOSIS,Tuberculosis,13052
+Countries,NGA,Nigeria,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,18050
+Countries,NGA,Nigeria,2018,INFLUENZA,Seasonal Influenza,23717
+Countries,NGA,Nigeria,2019,MEASLES,Measles,5025
+Countries,NGA,Nigeria,2019,PERTUSSIS,Pertussis (Whooping Cough),4828
+Countries,NGA,Nigeria,2019,DIPHTHERIA,Diphtheria,411
+Countries,NGA,Nigeria,2019,TETANUS,Neonatal Tetanus,559
+Countries,NGA,Nigeria,2019,POLIO,Poliomyelitis,216
+Countries,NGA,Nigeria,2019,HEPB,Hepatitis B,4696
+Countries,NGA,Nigeria,2019,TUBERCULOSIS,Tuberculosis,10129
+Countries,NGA,Nigeria,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,14943
+Countries,NGA,Nigeria,2019,INFLUENZA,Seasonal Influenza,22899
+Countries,NGA,Nigeria,2020,MEASLES,Measles,9530
+Countries,NGA,Nigeria,2020,PERTUSSIS,Pertussis (Whooping Cough),6091
+Countries,NGA,Nigeria,2020,DIPHTHERIA,Diphtheria,879
+Countries,NGA,Nigeria,2020,TETANUS,Neonatal Tetanus,10
+Countries,NGA,Nigeria,2020,POLIO,Poliomyelitis,1988
+Countries,NGA,Nigeria,2020,HEPB,Hepatitis B,4571
+Countries,NGA,Nigeria,2020,TUBERCULOSIS,Tuberculosis,11068
+Countries,NGA,Nigeria,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,23073
+Countries,NGA,Nigeria,2020,INFLUENZA,Seasonal Influenza,24899
+Countries,NGA,Nigeria,2021,MEASLES,Measles,7508
+Countries,NGA,Nigeria,2021,PERTUSSIS,Pertussis (Whooping Cough),4848
+Countries,NGA,Nigeria,2021,DIPHTHERIA,Diphtheria,1021
+Countries,NGA,Nigeria,2021,TETANUS,Neonatal Tetanus,454
+Countries,NGA,Nigeria,2021,POLIO,Poliomyelitis,1258
+Countries,NGA,Nigeria,2021,HEPB,Hepatitis B,5180
+Countries,NGA,Nigeria,2021,TUBERCULOSIS,Tuberculosis,11474
+Countries,NGA,Nigeria,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,17878
+Countries,NGA,Nigeria,2021,INFLUENZA,Seasonal Influenza,26460
+Countries,NGA,Nigeria,2022,MEASLES,Measles,6333
+Countries,NGA,Nigeria,2022,PERTUSSIS,Pertussis (Whooping Cough),4175
+Countries,NGA,Nigeria,2022,DIPHTHERIA,Diphtheria,445
+Countries,NGA,Nigeria,2022,TETANUS,Neonatal Tetanus,347
+Countries,NGA,Nigeria,2022,POLIO,Poliomyelitis,202
+Countries,NGA,Nigeria,2022,HEPB,Hepatitis B,4876
+Countries,NGA,Nigeria,2022,TUBERCULOSIS,Tuberculosis,5944
+Countries,NGA,Nigeria,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,11741
+Countries,NGA,Nigeria,2022,INFLUENZA,Seasonal Influenza,13615
+Countries,NGA,Nigeria,2023,MEASLES,Measles,5074
+Countries,NGA,Nigeria,2023,PERTUSSIS,Pertussis (Whooping Cough),2800
+Countries,NGA,Nigeria,2023,DIPHTHERIA,Diphtheria,1298
+Countries,NGA,Nigeria,2023,TETANUS,Neonatal Tetanus,12
+Countries,NGA,Nigeria,2023,POLIO,Poliomyelitis,1680
+Countries,NGA,Nigeria,2023,HEPB,Hepatitis B,2751
+Countries,NGA,Nigeria,2023,TUBERCULOSIS,Tuberculosis,9090
+Countries,NGA,Nigeria,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,12737
+Countries,NGA,Nigeria,2023,INFLUENZA,Seasonal Influenza,18570
+Countries,NGA,Nigeria,2024,MEASLES,Measles,4037
+Countries,NGA,Nigeria,2024,PERTUSSIS,Pertussis (Whooping Cough),2033
+Countries,NGA,Nigeria,2024,DIPHTHERIA,Diphtheria,7
+Countries,NGA,Nigeria,2024,TETANUS,Neonatal Tetanus,10
+Countries,NGA,Nigeria,2024,POLIO,Poliomyelitis,1062
+Countries,NGA,Nigeria,2024,HEPB,Hepatitis B,2762
+Countries,NGA,Nigeria,2024,TUBERCULOSIS,Tuberculosis,7124
+Countries,NGA,Nigeria,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,16550
+Countries,NGA,Nigeria,2024,INFLUENZA,Seasonal Influenza,14279
+Countries,DEU,Germany,2010,MEASLES,Measles,476
+Countries,DEU,Germany,2010,PERTUSSIS,Pertussis (Whooping Cough),306
+Countries,DEU,Germany,2010,DIPHTHERIA,Diphtheria,24
+Countries,DEU,Germany,2010,TETANUS,Neonatal Tetanus,9
+Countries,DEU,Germany,2010,POLIO,Poliomyelitis,7
+Countries,DEU,Germany,2010,HEPB,Hepatitis B,272
+Countries,DEU,Germany,2010,TUBERCULOSIS,Tuberculosis,355
+Countries,DEU,Germany,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,1105
+Countries,DEU,Germany,2010,INFLUENZA,Seasonal Influenza,1525
+Countries,DEU,Germany,2011,MEASLES,Measles,225
+Countries,DEU,Germany,2011,PERTUSSIS,Pertussis (Whooping Cough),124
+Countries,DEU,Germany,2011,DIPHTHERIA,Diphtheria,107
+Countries,DEU,Germany,2011,TETANUS,Neonatal Tetanus,12
+Countries,DEU,Germany,2011,POLIO,Poliomyelitis,96
+Countries,DEU,Germany,2011,HEPB,Hepatitis B,410
+Countries,DEU,Germany,2011,TUBERCULOSIS,Tuberculosis,422
+Countries,DEU,Germany,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,860
+Countries,DEU,Germany,2011,INFLUENZA,Seasonal Influenza,1293
+Countries,DEU,Germany,2012,MEASLES,Measles,138
+Countries,DEU,Germany,2012,PERTUSSIS,Pertussis (Whooping Cough),277
+Countries,DEU,Germany,2012,DIPHTHERIA,Diphtheria,10
+Countries,DEU,Germany,2012,TETANUS,Neonatal Tetanus,130
+Countries,DEU,Germany,2012,POLIO,Poliomyelitis,130
+Countries,DEU,Germany,2012,HEPB,Hepatitis B,277
+Countries,DEU,Germany,2012,TUBERCULOSIS,Tuberculosis,867
+Countries,DEU,Germany,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,906
+Countries,DEU,Germany,2012,INFLUENZA,Seasonal Influenza,1475
+Countries,DEU,Germany,2013,MEASLES,Measles,133
+Countries,DEU,Germany,2013,PERTUSSIS,Pertussis (Whooping Cough),96
+Countries,DEU,Germany,2013,DIPHTHERIA,Diphtheria,148
+Countries,DEU,Germany,2013,TETANUS,Neonatal Tetanus,10
+Countries,DEU,Germany,2013,POLIO,Poliomyelitis,12
+Countries,DEU,Germany,2013,HEPB,Hepatitis B,127
+Countries,DEU,Germany,2013,TUBERCULOSIS,Tuberculosis,681
+Countries,DEU,Germany,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,855
+Countries,DEU,Germany,2013,INFLUENZA,Seasonal Influenza,926
+Countries,DEU,Germany,2014,MEASLES,Measles,182
+Countries,DEU,Germany,2014,PERTUSSIS,Pertussis (Whooping Cough),300
+Countries,DEU,Germany,2014,DIPHTHERIA,Diphtheria,11
+Countries,DEU,Germany,2014,TETANUS,Neonatal Tetanus,13
+Countries,DEU,Germany,2014,POLIO,Poliomyelitis,87
+Countries,DEU,Germany,2014,HEPB,Hepatitis B,372
+Countries,DEU,Germany,2014,TUBERCULOSIS,Tuberculosis,321
+Countries,DEU,Germany,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,812
+Countries,DEU,Germany,2014,INFLUENZA,Seasonal Influenza,1361
+Countries,DEU,Germany,2015,MEASLES,Measles,323
+Countries,DEU,Germany,2015,PERTUSSIS,Pertussis (Whooping Cough),230
+Countries,DEU,Germany,2015,DIPHTHERIA,Diphtheria,11
+Countries,DEU,Germany,2015,TETANUS,Neonatal Tetanus,181
+Countries,DEU,Germany,2015,POLIO,Poliomyelitis,10
+Countries,DEU,Germany,2015,HEPB,Hepatitis B,265
+Countries,DEU,Germany,2015,TUBERCULOSIS,Tuberculosis,451
+Countries,DEU,Germany,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,1113
+Countries,DEU,Germany,2015,INFLUENZA,Seasonal Influenza,1034
+Countries,DEU,Germany,2016,MEASLES,Measles,161
+Countries,DEU,Germany,2016,PERTUSSIS,Pertussis (Whooping Cough),180
+Countries,DEU,Germany,2016,DIPHTHERIA,Diphtheria,84
+Countries,DEU,Germany,2016,TETANUS,Neonatal Tetanus,8
+Countries,DEU,Germany,2016,POLIO,Poliomyelitis,63
+Countries,DEU,Germany,2016,HEPB,Hepatitis B,363
+Countries,DEU,Germany,2016,TUBERCULOSIS,Tuberculosis,331
+Countries,DEU,Germany,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,849
+Countries,DEU,Germany,2016,INFLUENZA,Seasonal Influenza,911
+Countries,DEU,Germany,2017,MEASLES,Measles,179
+Countries,DEU,Germany,2017,PERTUSSIS,Pertussis (Whooping Cough),496
+Countries,DEU,Germany,2017,DIPHTHERIA,Diphtheria,84
+Countries,DEU,Germany,2017,TETANUS,Neonatal Tetanus,10
+Countries,DEU,Germany,2017,POLIO,Poliomyelitis,7
+Countries,DEU,Germany,2017,HEPB,Hepatitis B,219
+Countries,DEU,Germany,2017,TUBERCULOSIS,Tuberculosis,376
+Countries,DEU,Germany,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,570
+Countries,DEU,Germany,2017,INFLUENZA,Seasonal Influenza,1106
+Countries,DEU,Germany,2018,MEASLES,Measles,156
+Countries,DEU,Germany,2018,PERTUSSIS,Pertussis (Whooping Cough),131
+Countries,DEU,Germany,2018,DIPHTHERIA,Diphtheria,114
+Countries,DEU,Germany,2018,TETANUS,Neonatal Tetanus,52
+Countries,DEU,Germany,2018,POLIO,Poliomyelitis,182
+Countries,DEU,Germany,2018,HEPB,Hepatitis B,180
+Countries,DEU,Germany,2018,TUBERCULOSIS,Tuberculosis,529
+Countries,DEU,Germany,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,932
+Countries,DEU,Germany,2018,INFLUENZA,Seasonal Influenza,915
+Countries,DEU,Germany,2019,MEASLES,Measles,182
+Countries,DEU,Germany,2019,PERTUSSIS,Pertussis (Whooping Cough),160
+Countries,DEU,Germany,2019,DIPHTHERIA,Diphtheria,18
+Countries,DEU,Germany,2019,TETANUS,Neonatal Tetanus,10
+Countries,DEU,Germany,2019,POLIO,Poliomyelitis,10
+Countries,DEU,Germany,2019,HEPB,Hepatitis B,12
+Countries,DEU,Germany,2019,TUBERCULOSIS,Tuberculosis,386
+Countries,DEU,Germany,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,753
+Countries,DEU,Germany,2019,INFLUENZA,Seasonal Influenza,703
+Countries,DEU,Germany,2020,MEASLES,Measles,344
+Countries,DEU,Germany,2020,PERTUSSIS,Pertussis (Whooping Cough),322
+Countries,DEU,Germany,2020,DIPHTHERIA,Diphtheria,107
+Countries,DEU,Germany,2020,TETANUS,Neonatal Tetanus,8
+Countries,DEU,Germany,2020,POLIO,Poliomyelitis,8
+Countries,DEU,Germany,2020,HEPB,Hepatitis B,141
+Countries,DEU,Germany,2020,TUBERCULOSIS,Tuberculosis,439
+Countries,DEU,Germany,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,819
+Countries,DEU,Germany,2020,INFLUENZA,Seasonal Influenza,1240
+Countries,DEU,Germany,2021,MEASLES,Measles,96
+Countries,DEU,Germany,2021,PERTUSSIS,Pertussis (Whooping Cough),282
+Countries,DEU,Germany,2021,DIPHTHERIA,Diphtheria,10
+Countries,DEU,Germany,2021,TETANUS,Neonatal Tetanus,51
+Countries,DEU,Germany,2021,POLIO,Poliomyelitis,179
+Countries,DEU,Germany,2021,HEPB,Hepatitis B,370
+Countries,DEU,Germany,2021,TUBERCULOSIS,Tuberculosis,460
+Countries,DEU,Germany,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,768
+Countries,DEU,Germany,2021,INFLUENZA,Seasonal Influenza,1017
+Countries,DEU,Germany,2022,MEASLES,Measles,250
+Countries,DEU,Germany,2022,PERTUSSIS,Pertussis (Whooping Cough),35
+Countries,DEU,Germany,2022,DIPHTHERIA,Diphtheria,8
+Countries,DEU,Germany,2022,TETANUS,Neonatal Tetanus,9
+Countries,DEU,Germany,2022,POLIO,Poliomyelitis,7
+Countries,DEU,Germany,2022,HEPB,Hepatitis B,237
+Countries,DEU,Germany,2022,TUBERCULOSIS,Tuberculosis,457
+Countries,DEU,Germany,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,525
+Countries,DEU,Germany,2022,INFLUENZA,Seasonal Influenza,786
+Countries,DEU,Germany,2023,MEASLES,Measles,281
+Countries,DEU,Germany,2023,PERTUSSIS,Pertussis (Whooping Cough),171
+Countries,DEU,Germany,2023,DIPHTHERIA,Diphtheria,8
+Countries,DEU,Germany,2023,TETANUS,Neonatal Tetanus,70
+Countries,DEU,Germany,2023,POLIO,Poliomyelitis,40
+Countries,DEU,Germany,2023,HEPB,Hepatitis B,10
+Countries,DEU,Germany,2023,TUBERCULOSIS,Tuberculosis,380
+Countries,DEU,Germany,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,788
+Countries,DEU,Germany,2023,INFLUENZA,Seasonal Influenza,996
+Countries,DEU,Germany,2024,MEASLES,Measles,291
+Countries,DEU,Germany,2024,PERTUSSIS,Pertussis (Whooping Cough),8
+Countries,DEU,Germany,2024,DIPHTHERIA,Diphtheria,82
+Countries,DEU,Germany,2024,TETANUS,Neonatal Tetanus,10
+Countries,DEU,Germany,2024,POLIO,Poliomyelitis,54
+Countries,DEU,Germany,2024,HEPB,Hepatitis B,91
+Countries,DEU,Germany,2024,TUBERCULOSIS,Tuberculosis,343
+Countries,DEU,Germany,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,740
+Countries,DEU,Germany,2024,INFLUENZA,Seasonal Influenza,632
+Countries,CHN,China,2010,MEASLES,Measles,43961
+Countries,CHN,China,2010,PERTUSSIS,Pertussis (Whooping Cough),26782
+Countries,CHN,China,2010,DIPHTHERIA,Diphtheria,11751
+Countries,CHN,China,2010,TETANUS,Neonatal Tetanus,131
+Countries,CHN,China,2010,POLIO,Poliomyelitis,2176
+Countries,CHN,China,2010,HEPB,Hepatitis B,19143
+Countries,CHN,China,2010,TUBERCULOSIS,Tuberculosis,63947
+Countries,CHN,China,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,135127
+Countries,CHN,China,2010,INFLUENZA,Seasonal Influenza,108662
+Countries,CHN,China,2011,MEASLES,Measles,26422
+Countries,CHN,China,2011,PERTUSSIS,Pertussis (Whooping Cough),42101
+Countries,CHN,China,2011,DIPHTHERIA,Diphtheria,8177
+Countries,CHN,China,2011,TETANUS,Neonatal Tetanus,3960
+Countries,CHN,China,2011,POLIO,Poliomyelitis,6782
+Countries,CHN,China,2011,HEPB,Hepatitis B,28616
+Countries,CHN,China,2011,TUBERCULOSIS,Tuberculosis,63606
+Countries,CHN,China,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,121147
+Countries,CHN,China,2011,INFLUENZA,Seasonal Influenza,155955
+Countries,CHN,China,2012,MEASLES,Measles,28889
+Countries,CHN,China,2012,PERTUSSIS,Pertussis (Whooping Cough),14033
+Countries,CHN,China,2012,DIPHTHERIA,Diphtheria,2152
+Countries,CHN,China,2012,TETANUS,Neonatal Tetanus,10552
+Countries,CHN,China,2012,POLIO,Poliomyelitis,170
+Countries,CHN,China,2012,HEPB,Hepatitis B,23427
+Countries,CHN,China,2012,TUBERCULOSIS,Tuberculosis,48126
+Countries,CHN,China,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,104195
+Countries,CHN,China,2012,INFLUENZA,Seasonal Influenza,161905
+Countries,CHN,China,2013,MEASLES,Measles,47905
+Countries,CHN,China,2013,PERTUSSIS,Pertussis (Whooping Cough),24898
+Countries,CHN,China,2013,DIPHTHERIA,Diphtheria,124
+Countries,CHN,China,2013,TETANUS,Neonatal Tetanus,4375
+Countries,CHN,China,2013,POLIO,Poliomyelitis,1393
+Countries,CHN,China,2013,HEPB,Hepatitis B,37634
+Countries,CHN,China,2013,TUBERCULOSIS,Tuberculosis,86806
+Countries,CHN,China,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,95995
+Countries,CHN,China,2013,INFLUENZA,Seasonal Influenza,148800
+Countries,CHN,China,2014,MEASLES,Measles,44216
+Countries,CHN,China,2014,PERTUSSIS,Pertussis (Whooping Cough),32073
+Countries,CHN,China,2014,DIPHTHERIA,Diphtheria,5486
+Countries,CHN,China,2014,TETANUS,Neonatal Tetanus,7219
+Countries,CHN,China,2014,POLIO,Poliomyelitis,8047
+Countries,CHN,China,2014,HEPB,Hepatitis B,28890
+Countries,CHN,China,2014,TUBERCULOSIS,Tuberculosis,90080
+Countries,CHN,China,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,96636
+Countries,CHN,China,2014,INFLUENZA,Seasonal Influenza,131376
+Countries,CHN,China,2015,MEASLES,Measles,36042
+Countries,CHN,China,2015,PERTUSSIS,Pertussis (Whooping Cough),17883
+Countries,CHN,China,2015,DIPHTHERIA,Diphtheria,1897
+Countries,CHN,China,2015,TETANUS,Neonatal Tetanus,9972
+Countries,CHN,China,2015,POLIO,Poliomyelitis,18372
+Countries,CHN,China,2015,HEPB,Hepatitis B,24199
+Countries,CHN,China,2015,TUBERCULOSIS,Tuberculosis,38392
+Countries,CHN,China,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,92133
+Countries,CHN,China,2015,INFLUENZA,Seasonal Influenza,126225
+Countries,CHN,China,2016,MEASLES,Measles,26603
+Countries,CHN,China,2016,PERTUSSIS,Pertussis (Whooping Cough),16406
+Countries,CHN,China,2016,DIPHTHERIA,Diphtheria,11496
+Countries,CHN,China,2016,TETANUS,Neonatal Tetanus,4230
+Countries,CHN,China,2016,POLIO,Poliomyelitis,1768
+Countries,CHN,China,2016,HEPB,Hepatitis B,10675
+Countries,CHN,China,2016,TUBERCULOSIS,Tuberculosis,52162
+Countries,CHN,China,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,97463
+Countries,CHN,China,2016,INFLUENZA,Seasonal Influenza,110885
+Countries,CHN,China,2017,MEASLES,Measles,36730
+Countries,CHN,China,2017,PERTUSSIS,Pertussis (Whooping Cough),12775
+Countries,CHN,China,2017,DIPHTHERIA,Diphtheria,173
+Countries,CHN,China,2017,TETANUS,Neonatal Tetanus,2841
+Countries,CHN,China,2017,POLIO,Poliomyelitis,1524
+Countries,CHN,China,2017,HEPB,Hepatitis B,19803
+Countries,CHN,China,2017,TUBERCULOSIS,Tuberculosis,57903
+Countries,CHN,China,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,113429
+Countries,CHN,China,2017,INFLUENZA,Seasonal Influenza,119837
+Countries,CHN,China,2018,MEASLES,Measles,13159
+Countries,CHN,China,2018,PERTUSSIS,Pertussis (Whooping Cough),14468
+Countries,CHN,China,2018,DIPHTHERIA,Diphtheria,6341
+Countries,CHN,China,2018,TETANUS,Neonatal Tetanus,7601
+Countries,CHN,China,2018,POLIO,Poliomyelitis,10900
+Countries,CHN,China,2018,HEPB,Hepatitis B,15957
+Countries,CHN,China,2018,TUBERCULOSIS,Tuberculosis,42298
+Countries,CHN,China,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,80362
+Countries,CHN,China,2018,INFLUENZA,Seasonal Influenza,80544
+Countries,CHN,China,2019,MEASLES,Measles,9665
+Countries,CHN,China,2019,PERTUSSIS,Pertussis (Whooping Cough),12064
+Countries,CHN,China,2019,DIPHTHERIA,Diphtheria,139
+Countries,CHN,China,2019,TETANUS,Neonatal Tetanus,131
+Countries,CHN,China,2019,POLIO,Poliomyelitis,3942
+Countries,CHN,China,2019,HEPB,Hepatitis B,19983
+Countries,CHN,China,2019,TUBERCULOSIS,Tuberculosis,71996
+Countries,CHN,China,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,90526
+Countries,CHN,China,2019,INFLUENZA,Seasonal Influenza,109059
+Countries,CHN,China,2020,MEASLES,Measles,26629
+Countries,CHN,China,2020,PERTUSSIS,Pertussis (Whooping Cough),16593
+Countries,CHN,China,2020,DIPHTHERIA,Diphtheria,131
+Countries,CHN,China,2020,TETANUS,Neonatal Tetanus,150
+Countries,CHN,China,2020,POLIO,Poliomyelitis,13232
+Countries,CHN,China,2020,HEPB,Hepatitis B,29567
+Countries,CHN,China,2020,TUBERCULOSIS,Tuberculosis,47980
+Countries,CHN,China,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,113878
+Countries,CHN,China,2020,INFLUENZA,Seasonal Influenza,141109
+Countries,CHN,China,2021,MEASLES,Measles,28271
+Countries,CHN,China,2021,PERTUSSIS,Pertussis (Whooping Cough),31829
+Countries,CHN,China,2021,DIPHTHERIA,Diphtheria,7827
+Countries,CHN,China,2021,TETANUS,Neonatal Tetanus,146
+Countries,CHN,China,2021,POLIO,Poliomyelitis,120
+Countries,CHN,China,2021,HEPB,Hepatitis B,15228
+Countries,CHN,China,2021,TUBERCULOSIS,Tuberculosis,70111
+Countries,CHN,China,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,101429
+Countries,CHN,China,2021,INFLUENZA,Seasonal Influenza,119656
+Countries,CHN,China,2022,MEASLES,Measles,18214
+Countries,CHN,China,2022,PERTUSSIS,Pertussis (Whooping Cough),21148
+Countries,CHN,China,2022,DIPHTHERIA,Diphtheria,7398
+Countries,CHN,China,2022,TETANUS,Neonatal Tetanus,76
+Countries,CHN,China,2022,POLIO,Poliomyelitis,16665
+Countries,CHN,China,2022,HEPB,Hepatitis B,22661
+Countries,CHN,China,2022,TUBERCULOSIS,Tuberculosis,27374
+Countries,CHN,China,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,98618
+Countries,CHN,China,2022,INFLUENZA,Seasonal Influenza,113965
+Countries,CHN,China,2023,MEASLES,Measles,21640
+Countries,CHN,China,2023,PERTUSSIS,Pertussis (Whooping Cough),10955
+Countries,CHN,China,2023,DIPHTHERIA,Diphtheria,11540
+Countries,CHN,China,2023,TETANUS,Neonatal Tetanus,137
+Countries,CHN,China,2023,POLIO,Poliomyelitis,141
+Countries,CHN,China,2023,HEPB,Hepatitis B,27440
+Countries,CHN,China,2023,TUBERCULOSIS,Tuberculosis,36000
+Countries,CHN,China,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,78381
+Countries,CHN,China,2023,INFLUENZA,Seasonal Influenza,88066
+Countries,CHN,China,2024,MEASLES,Measles,35090
+Countries,CHN,China,2024,PERTUSSIS,Pertussis (Whooping Cough),25687
+Countries,CHN,China,2024,DIPHTHERIA,Diphtheria,139
+Countries,CHN,China,2024,TETANUS,Neonatal Tetanus,11772
+Countries,CHN,China,2024,POLIO,Poliomyelitis,13668
+Countries,CHN,China,2024,HEPB,Hepatitis B,19850
+Countries,CHN,China,2024,TUBERCULOSIS,Tuberculosis,40683
+Countries,CHN,China,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,68468
+Countries,CHN,China,2024,INFLUENZA,Seasonal Influenza,74042
+Countries,KEN,Kenya,2010,MEASLES,Measles,6266
+Countries,KEN,Kenya,2010,PERTUSSIS,Pertussis (Whooping Cough),5190
+Countries,KEN,Kenya,2010,DIPHTHERIA,Diphtheria,11
+Countries,KEN,Kenya,2010,TETANUS,Neonatal Tetanus,225
+Countries,KEN,Kenya,2010,POLIO,Poliomyelitis,511
+Countries,KEN,Kenya,2010,HEPB,Hepatitis B,4977
+Countries,KEN,Kenya,2010,TUBERCULOSIS,Tuberculosis,11369
+Countries,KEN,Kenya,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,23437
+Countries,KEN,Kenya,2010,INFLUENZA,Seasonal Influenza,31931
+Countries,KEN,Kenya,2011,MEASLES,Measles,5159
+Countries,KEN,Kenya,2011,PERTUSSIS,Pertussis (Whooping Cough),5372
+Countries,KEN,Kenya,2011,DIPHTHERIA,Diphtheria,338
+Countries,KEN,Kenya,2011,TETANUS,Neonatal Tetanus,310
+Countries,KEN,Kenya,2011,POLIO,Poliomyelitis,1100
+Countries,KEN,Kenya,2011,HEPB,Hepatitis B,4771
+Countries,KEN,Kenya,2011,TUBERCULOSIS,Tuberculosis,10401
+Countries,KEN,Kenya,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,19229
+Countries,KEN,Kenya,2011,INFLUENZA,Seasonal Influenza,31979
+Countries,KEN,Kenya,2012,MEASLES,Measles,8304
+Countries,KEN,Kenya,2012,PERTUSSIS,Pertussis (Whooping Cough),5298
+Countries,KEN,Kenya,2012,DIPHTHERIA,Diphtheria,1379
+Countries,KEN,Kenya,2012,TETANUS,Neonatal Tetanus,10
+Countries,KEN,Kenya,2012,POLIO,Poliomyelitis,1715
+Countries,KEN,Kenya,2012,HEPB,Hepatitis B,4282
+Countries,KEN,Kenya,2012,TUBERCULOSIS,Tuberculosis,7536
+Countries,KEN,Kenya,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,23313
+Countries,KEN,Kenya,2012,INFLUENZA,Seasonal Influenza,18846
+Countries,KEN,Kenya,2013,MEASLES,Measles,7627
+Countries,KEN,Kenya,2013,PERTUSSIS,Pertussis (Whooping Cough),5050
+Countries,KEN,Kenya,2013,DIPHTHERIA,Diphtheria,311
+Countries,KEN,Kenya,2013,TETANUS,Neonatal Tetanus,1583
+Countries,KEN,Kenya,2013,POLIO,Poliomyelitis,430
+Countries,KEN,Kenya,2013,HEPB,Hepatitis B,3652
+Countries,KEN,Kenya,2013,TUBERCULOSIS,Tuberculosis,10946
+Countries,KEN,Kenya,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,21463
+Countries,KEN,Kenya,2013,INFLUENZA,Seasonal Influenza,19061
+Countries,KEN,Kenya,2014,MEASLES,Measles,4919
+Countries,KEN,Kenya,2014,PERTUSSIS,Pertussis (Whooping Cough),4080
+Countries,KEN,Kenya,2014,DIPHTHERIA,Diphtheria,318
+Countries,KEN,Kenya,2014,TETANUS,Neonatal Tetanus,60
+Countries,KEN,Kenya,2014,POLIO,Poliomyelitis,420
+Countries,KEN,Kenya,2014,HEPB,Hepatitis B,4334
+Countries,KEN,Kenya,2014,TUBERCULOSIS,Tuberculosis,13138
+Countries,KEN,Kenya,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,18162
+Countries,KEN,Kenya,2014,INFLUENZA,Seasonal Influenza,20582
+Countries,KEN,Kenya,2015,MEASLES,Measles,4365
+Countries,KEN,Kenya,2015,PERTUSSIS,Pertussis (Whooping Cough),3956
+Countries,KEN,Kenya,2015,DIPHTHERIA,Diphtheria,8
+Countries,KEN,Kenya,2015,TETANUS,Neonatal Tetanus,597
+Countries,KEN,Kenya,2015,POLIO,Poliomyelitis,1353
+Countries,KEN,Kenya,2015,HEPB,Hepatitis B,3989
+Countries,KEN,Kenya,2015,TUBERCULOSIS,Tuberculosis,9623
+Countries,KEN,Kenya,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,19656
+Countries,KEN,Kenya,2015,INFLUENZA,Seasonal Influenza,22696
+Countries,KEN,Kenya,2016,MEASLES,Measles,6162
+Countries,KEN,Kenya,2016,PERTUSSIS,Pertussis (Whooping Cough),5132
+Countries,KEN,Kenya,2016,DIPHTHERIA,Diphtheria,1658
+Countries,KEN,Kenya,2016,TETANUS,Neonatal Tetanus,683
+Countries,KEN,Kenya,2016,POLIO,Poliomyelitis,759
+Countries,KEN,Kenya,2016,HEPB,Hepatitis B,6472
+Countries,KEN,Kenya,2016,TUBERCULOSIS,Tuberculosis,13586
+Countries,KEN,Kenya,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,14317
+Countries,KEN,Kenya,2016,INFLUENZA,Seasonal Influenza,30102
+Countries,KEN,Kenya,2017,MEASLES,Measles,6125
+Countries,KEN,Kenya,2017,PERTUSSIS,Pertussis (Whooping Cough),3411
+Countries,KEN,Kenya,2017,DIPHTHERIA,Diphtheria,531
+Countries,KEN,Kenya,2017,TETANUS,Neonatal Tetanus,23
+Countries,KEN,Kenya,2017,POLIO,Poliomyelitis,1953
+Countries,KEN,Kenya,2017,HEPB,Hepatitis B,4793
+Countries,KEN,Kenya,2017,TUBERCULOSIS,Tuberculosis,6600
+Countries,KEN,Kenya,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,14126
+Countries,KEN,Kenya,2017,INFLUENZA,Seasonal Influenza,19769
+Countries,KEN,Kenya,2018,MEASLES,Measles,6829
+Countries,KEN,Kenya,2018,PERTUSSIS,Pertussis (Whooping Cough),3536
+Countries,KEN,Kenya,2018,DIPHTHERIA,Diphtheria,10
+Countries,KEN,Kenya,2018,TETANUS,Neonatal Tetanus,996
+Countries,KEN,Kenya,2018,POLIO,Poliomyelitis,2140
+Countries,KEN,Kenya,2018,HEPB,Hepatitis B,4541
+Countries,KEN,Kenya,2018,TUBERCULOSIS,Tuberculosis,9760
+Countries,KEN,Kenya,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,14194
+Countries,KEN,Kenya,2018,INFLUENZA,Seasonal Influenza,23886
+Countries,KEN,Kenya,2019,MEASLES,Measles,6970
+Countries,KEN,Kenya,2019,PERTUSSIS,Pertussis (Whooping Cough),3269
+Countries,KEN,Kenya,2019,DIPHTHERIA,Diphtheria,546
+Countries,KEN,Kenya,2019,TETANUS,Neonatal Tetanus,12
+Countries,KEN,Kenya,2019,POLIO,Poliomyelitis,8
+Countries,KEN,Kenya,2019,HEPB,Hepatitis B,5344
+Countries,KEN,Kenya,2019,TUBERCULOSIS,Tuberculosis,8329
+Countries,KEN,Kenya,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,13755
+Countries,KEN,Kenya,2019,INFLUENZA,Seasonal Influenza,17492
+Countries,KEN,Kenya,2020,MEASLES,Measles,5686
+Countries,KEN,Kenya,2020,PERTUSSIS,Pertussis (Whooping Cough),5416
+Countries,KEN,Kenya,2020,DIPHTHERIA,Diphtheria,77
+Countries,KEN,Kenya,2020,TETANUS,Neonatal Tetanus,805
+Countries,KEN,Kenya,2020,POLIO,Poliomyelitis,1659
+Countries,KEN,Kenya,2020,HEPB,Hepatitis B,4773
+Countries,KEN,Kenya,2020,TUBERCULOSIS,Tuberculosis,10001
+Countries,KEN,Kenya,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,28369
+Countries,KEN,Kenya,2020,INFLUENZA,Seasonal Influenza,37143
+Countries,KEN,Kenya,2021,MEASLES,Measles,7036
+Countries,KEN,Kenya,2021,PERTUSSIS,Pertussis (Whooping Cough),5074
+Countries,KEN,Kenya,2021,DIPHTHERIA,Diphtheria,879
+Countries,KEN,Kenya,2021,TETANUS,Neonatal Tetanus,8
+Countries,KEN,Kenya,2021,POLIO,Poliomyelitis,1943
+Countries,KEN,Kenya,2021,HEPB,Hepatitis B,4564
+Countries,KEN,Kenya,2021,TUBERCULOSIS,Tuberculosis,13337
+Countries,KEN,Kenya,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,12558
+Countries,KEN,Kenya,2021,INFLUENZA,Seasonal Influenza,32342
+Countries,KEN,Kenya,2022,MEASLES,Measles,5700
+Countries,KEN,Kenya,2022,PERTUSSIS,Pertussis (Whooping Cough),1976
+Countries,KEN,Kenya,2022,DIPHTHERIA,Diphtheria,195
+Countries,KEN,Kenya,2022,TETANUS,Neonatal Tetanus,8
+Countries,KEN,Kenya,2022,POLIO,Poliomyelitis,1424
+Countries,KEN,Kenya,2022,HEPB,Hepatitis B,3399
+Countries,KEN,Kenya,2022,TUBERCULOSIS,Tuberculosis,9664
+Countries,KEN,Kenya,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,19769
+Countries,KEN,Kenya,2022,INFLUENZA,Seasonal Influenza,103615
+Countries,KEN,Kenya,2023,MEASLES,Measles,5648
+Countries,KEN,Kenya,2023,PERTUSSIS,Pertussis (Whooping Cough),3914
+Countries,KEN,Kenya,2023,DIPHTHERIA,Diphtheria,262
+Countries,KEN,Kenya,2023,TETANUS,Neonatal Tetanus,8
+Countries,KEN,Kenya,2023,POLIO,Poliomyelitis,637
+Countries,KEN,Kenya,2023,HEPB,Hepatitis B,3559
+Countries,KEN,Kenya,2023,TUBERCULOSIS,Tuberculosis,8177
+Countries,KEN,Kenya,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,14805
+Countries,KEN,Kenya,2023,INFLUENZA,Seasonal Influenza,16961
+Countries,KEN,Kenya,2024,MEASLES,Measles,3832
+Countries,KEN,Kenya,2024,PERTUSSIS,Pertussis (Whooping Cough),3534
+Countries,KEN,Kenya,2024,DIPHTHERIA,Diphtheria,614
+Countries,KEN,Kenya,2024,TETANUS,Neonatal Tetanus,8
+Countries,KEN,Kenya,2024,POLIO,Poliomyelitis,799
+Countries,KEN,Kenya,2024,HEPB,Hepatitis B,3829
+Countries,KEN,Kenya,2024,TUBERCULOSIS,Tuberculosis,8252
+Countries,KEN,Kenya,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,12139
+Countries,KEN,Kenya,2024,INFLUENZA,Seasonal Influenza,20113
+Countries,IDN,Indonesia,2010,MEASLES,Measles,3861
+Countries,IDN,Indonesia,2010,PERTUSSIS,Pertussis (Whooping Cough),2723
+Countries,IDN,Indonesia,2010,DIPHTHERIA,Diphtheria,671
+Countries,IDN,Indonesia,2010,TETANUS,Neonatal Tetanus,652
+Countries,IDN,Indonesia,2010,POLIO,Poliomyelitis,414
+Countries,IDN,Indonesia,2010,HEPB,Hepatitis B,2351
+Countries,IDN,Indonesia,2010,TUBERCULOSIS,Tuberculosis,4513
+Countries,IDN,Indonesia,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,7201
+Countries,IDN,Indonesia,2010,INFLUENZA,Seasonal Influenza,9952
+Countries,IDN,Indonesia,2011,MEASLES,Measles,2376
+Countries,IDN,Indonesia,2011,PERTUSSIS,Pertussis (Whooping Cough),2571
+Countries,IDN,Indonesia,2011,DIPHTHERIA,Diphtheria,454
+Countries,IDN,Indonesia,2011,TETANUS,Neonatal Tetanus,114
+Countries,IDN,Indonesia,2011,POLIO,Poliomyelitis,537
+Countries,IDN,Indonesia,2011,HEPB,Hepatitis B,2573
+Countries,IDN,Indonesia,2011,TUBERCULOSIS,Tuberculosis,4428
+Countries,IDN,Indonesia,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,6747
+Countries,IDN,Indonesia,2011,INFLUENZA,Seasonal Influenza,12637
+Countries,IDN,Indonesia,2012,MEASLES,Measles,2481
+Countries,IDN,Indonesia,2012,PERTUSSIS,Pertussis (Whooping Cough),1865
+Countries,IDN,Indonesia,2012,DIPHTHERIA,Diphtheria,248
+Countries,IDN,Indonesia,2012,TETANUS,Neonatal Tetanus,516
+Countries,IDN,Indonesia,2012,POLIO,Poliomyelitis,1271
+Countries,IDN,Indonesia,2012,HEPB,Hepatitis B,1959
+Countries,IDN,Indonesia,2012,TUBERCULOSIS,Tuberculosis,4670
+Countries,IDN,Indonesia,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,5905
+Countries,IDN,Indonesia,2012,INFLUENZA,Seasonal Influenza,10384
+Countries,IDN,Indonesia,2013,MEASLES,Measles,2106
+Countries,IDN,Indonesia,2013,PERTUSSIS,Pertussis (Whooping Cough),1867
+Countries,IDN,Indonesia,2013,DIPHTHERIA,Diphtheria,70
+Countries,IDN,Indonesia,2013,TETANUS,Neonatal Tetanus,539
+Countries,IDN,Indonesia,2013,POLIO,Poliomyelitis,864
+Countries,IDN,Indonesia,2013,HEPB,Hepatitis B,2522
+Countries,IDN,Indonesia,2013,TUBERCULOSIS,Tuberculosis,5264
+Countries,IDN,Indonesia,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,5651
+Countries,IDN,Indonesia,2013,INFLUENZA,Seasonal Influenza,8669
+Countries,IDN,Indonesia,2014,MEASLES,Measles,2632
+Countries,IDN,Indonesia,2014,PERTUSSIS,Pertussis (Whooping Cough),2853
+Countries,IDN,Indonesia,2014,DIPHTHERIA,Diphtheria,562
+Countries,IDN,Indonesia,2014,TETANUS,Neonatal Tetanus,1107
+Countries,IDN,Indonesia,2014,POLIO,Poliomyelitis,584
+Countries,IDN,Indonesia,2014,HEPB,Hepatitis B,1974
+Countries,IDN,Indonesia,2014,TUBERCULOSIS,Tuberculosis,4228
+Countries,IDN,Indonesia,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,5745
+Countries,IDN,Indonesia,2014,INFLUENZA,Seasonal Influenza,5941
+Countries,IDN,Indonesia,2015,MEASLES,Measles,2314
+Countries,IDN,Indonesia,2015,PERTUSSIS,Pertussis (Whooping Cough),1640
+Countries,IDN,Indonesia,2015,DIPHTHERIA,Diphtheria,13
+Countries,IDN,Indonesia,2015,TETANUS,Neonatal Tetanus,478
+Countries,IDN,Indonesia,2015,POLIO,Poliomyelitis,324
+Countries,IDN,Indonesia,2015,HEPB,Hepatitis B,2124
+Countries,IDN,Indonesia,2015,TUBERCULOSIS,Tuberculosis,4525
+Countries,IDN,Indonesia,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,7066
+Countries,IDN,Indonesia,2015,INFLUENZA,Seasonal Influenza,6938
+Countries,IDN,Indonesia,2016,MEASLES,Measles,2126
+Countries,IDN,Indonesia,2016,PERTUSSIS,Pertussis (Whooping Cough),1830
+Countries,IDN,Indonesia,2016,DIPHTHERIA,Diphtheria,12
+Countries,IDN,Indonesia,2016,TETANUS,Neonatal Tetanus,7
+Countries,IDN,Indonesia,2016,POLIO,Poliomyelitis,222
+Countries,IDN,Indonesia,2016,HEPB,Hepatitis B,1544
+Countries,IDN,Indonesia,2016,TUBERCULOSIS,Tuberculosis,3788
+Countries,IDN,Indonesia,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,6507
+Countries,IDN,Indonesia,2016,INFLUENZA,Seasonal Influenza,8510
+Countries,IDN,Indonesia,2017,MEASLES,Measles,2247
+Countries,IDN,Indonesia,2017,PERTUSSIS,Pertussis (Whooping Cough),1375
+Countries,IDN,Indonesia,2017,DIPHTHERIA,Diphtheria,335
+Countries,IDN,Indonesia,2017,TETANUS,Neonatal Tetanus,69
+Countries,IDN,Indonesia,2017,POLIO,Poliomyelitis,844
+Countries,IDN,Indonesia,2017,HEPB,Hepatitis B,1741
+Countries,IDN,Indonesia,2017,TUBERCULOSIS,Tuberculosis,2855
+Countries,IDN,Indonesia,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,6047
+Countries,IDN,Indonesia,2017,INFLUENZA,Seasonal Influenza,7776
+Countries,IDN,Indonesia,2018,MEASLES,Measles,1978
+Countries,IDN,Indonesia,2018,PERTUSSIS,Pertussis (Whooping Cough),906
+Countries,IDN,Indonesia,2018,DIPHTHERIA,Diphtheria,807
+Countries,IDN,Indonesia,2018,TETANUS,Neonatal Tetanus,486
+Countries,IDN,Indonesia,2018,POLIO,Poliomyelitis,10
+Countries,IDN,Indonesia,2018,HEPB,Hepatitis B,1883
+Countries,IDN,Indonesia,2018,TUBERCULOSIS,Tuberculosis,3789
+Countries,IDN,Indonesia,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,4944
+Countries,IDN,Indonesia,2018,INFLUENZA,Seasonal Influenza,7520
+Countries,IDN,Indonesia,2019,MEASLES,Measles,3379
+Countries,IDN,Indonesia,2019,PERTUSSIS,Pertussis (Whooping Cough),1169
+Countries,IDN,Indonesia,2019,DIPHTHERIA,Diphtheria,518
+Countries,IDN,Indonesia,2019,TETANUS,Neonatal Tetanus,8
+Countries,IDN,Indonesia,2019,POLIO,Poliomyelitis,228
+Countries,IDN,Indonesia,2019,HEPB,Hepatitis B,880
+Countries,IDN,Indonesia,2019,TUBERCULOSIS,Tuberculosis,5277
+Countries,IDN,Indonesia,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,5783
+Countries,IDN,Indonesia,2019,INFLUENZA,Seasonal Influenza,8282
+Countries,IDN,Indonesia,2020,MEASLES,Measles,4451
+Countries,IDN,Indonesia,2020,PERTUSSIS,Pertussis (Whooping Cough),3181
+Countries,IDN,Indonesia,2020,DIPHTHERIA,Diphtheria,26
+Countries,IDN,Indonesia,2020,TETANUS,Neonatal Tetanus,8
+Countries,IDN,Indonesia,2020,POLIO,Poliomyelitis,676
+Countries,IDN,Indonesia,2020,HEPB,Hepatitis B,3738
+Countries,IDN,Indonesia,2020,TUBERCULOSIS,Tuberculosis,4795
+Countries,IDN,Indonesia,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,7645
+Countries,IDN,Indonesia,2020,INFLUENZA,Seasonal Influenza,15024
+Countries,IDN,Indonesia,2021,MEASLES,Measles,2558
+Countries,IDN,Indonesia,2021,PERTUSSIS,Pertussis (Whooping Cough),797
+Countries,IDN,Indonesia,2021,DIPHTHERIA,Diphtheria,79
+Countries,IDN,Indonesia,2021,TETANUS,Neonatal Tetanus,8
+Countries,IDN,Indonesia,2021,POLIO,Poliomyelitis,193
+Countries,IDN,Indonesia,2021,HEPB,Hepatitis B,2268
+Countries,IDN,Indonesia,2021,TUBERCULOSIS,Tuberculosis,5312
+Countries,IDN,Indonesia,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,5457
+Countries,IDN,Indonesia,2021,INFLUENZA,Seasonal Influenza,6634
+Countries,IDN,Indonesia,2022,MEASLES,Measles,2815
+Countries,IDN,Indonesia,2022,PERTUSSIS,Pertussis (Whooping Cough),195
+Countries,IDN,Indonesia,2022,DIPHTHERIA,Diphtheria,12
+Countries,IDN,Indonesia,2022,TETANUS,Neonatal Tetanus,11
+Countries,IDN,Indonesia,2022,POLIO,Poliomyelitis,388
+Countries,IDN,Indonesia,2022,HEPB,Hepatitis B,1457
+Countries,IDN,Indonesia,2022,TUBERCULOSIS,Tuberculosis,3319
+Countries,IDN,Indonesia,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,3321
+Countries,IDN,Indonesia,2022,INFLUENZA,Seasonal Influenza,5289
+Countries,IDN,Indonesia,2023,MEASLES,Measles,2452
+Countries,IDN,Indonesia,2023,PERTUSSIS,Pertussis (Whooping Cough),759
+Countries,IDN,Indonesia,2023,DIPHTHERIA,Diphtheria,639
+Countries,IDN,Indonesia,2023,TETANUS,Neonatal Tetanus,1098
+Countries,IDN,Indonesia,2023,POLIO,Poliomyelitis,10
+Countries,IDN,Indonesia,2023,HEPB,Hepatitis B,1889
+Countries,IDN,Indonesia,2023,TUBERCULOSIS,Tuberculosis,2570
+Countries,IDN,Indonesia,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,5628
+Countries,IDN,Indonesia,2023,INFLUENZA,Seasonal Influenza,5255
+Countries,IDN,Indonesia,2024,MEASLES,Measles,1591
+Countries,IDN,Indonesia,2024,PERTUSSIS,Pertussis (Whooping Cough),1027
+Countries,IDN,Indonesia,2024,DIPHTHERIA,Diphtheria,7
+Countries,IDN,Indonesia,2024,TETANUS,Neonatal Tetanus,1002
+Countries,IDN,Indonesia,2024,POLIO,Poliomyelitis,7
+Countries,IDN,Indonesia,2024,HEPB,Hepatitis B,474
+Countries,IDN,Indonesia,2024,TUBERCULOSIS,Tuberculosis,2331
+Countries,IDN,Indonesia,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,6350
+Countries,IDN,Indonesia,2024,INFLUENZA,Seasonal Influenza,3955
+Countries,EGY,Egypt,2010,MEASLES,Measles,6604
+Countries,EGY,Egypt,2010,PERTUSSIS,Pertussis (Whooping Cough),5874
+Countries,EGY,Egypt,2010,DIPHTHERIA,Diphtheria,251
+Countries,EGY,Egypt,2010,TETANUS,Neonatal Tetanus,13
+Countries,EGY,Egypt,2010,POLIO,Poliomyelitis,1600
+Countries,EGY,Egypt,2010,HEPB,Hepatitis B,4986
+Countries,EGY,Egypt,2010,TUBERCULOSIS,Tuberculosis,14600
+Countries,EGY,Egypt,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,25474
+Countries,EGY,Egypt,2010,INFLUENZA,Seasonal Influenza,37583
+Countries,EGY,Egypt,2011,MEASLES,Measles,5873
+Countries,EGY,Egypt,2011,PERTUSSIS,Pertussis (Whooping Cough),6940
+Countries,EGY,Egypt,2011,DIPHTHERIA,Diphtheria,739
+Countries,EGY,Egypt,2011,TETANUS,Neonatal Tetanus,631
+Countries,EGY,Egypt,2011,POLIO,Poliomyelitis,1804
+Countries,EGY,Egypt,2011,HEPB,Hepatitis B,5053
+Countries,EGY,Egypt,2011,TUBERCULOSIS,Tuberculosis,13872
+Countries,EGY,Egypt,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,24776
+Countries,EGY,Egypt,2011,INFLUENZA,Seasonal Influenza,21970
+Countries,EGY,Egypt,2012,MEASLES,Measles,6140
+Countries,EGY,Egypt,2012,PERTUSSIS,Pertussis (Whooping Cough),5847
+Countries,EGY,Egypt,2012,DIPHTHERIA,Diphtheria,805
+Countries,EGY,Egypt,2012,TETANUS,Neonatal Tetanus,11
+Countries,EGY,Egypt,2012,POLIO,Poliomyelitis,1167
+Countries,EGY,Egypt,2012,HEPB,Hepatitis B,4477
+Countries,EGY,Egypt,2012,TUBERCULOSIS,Tuberculosis,14464
+Countries,EGY,Egypt,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,20912
+Countries,EGY,Egypt,2012,INFLUENZA,Seasonal Influenza,18897
+Countries,EGY,Egypt,2013,MEASLES,Measles,6757
+Countries,EGY,Egypt,2013,PERTUSSIS,Pertussis (Whooping Cough),5450
+Countries,EGY,Egypt,2013,DIPHTHERIA,Diphtheria,961
+Countries,EGY,Egypt,2013,TETANUS,Neonatal Tetanus,1164
+Countries,EGY,Egypt,2013,POLIO,Poliomyelitis,1848
+Countries,EGY,Egypt,2013,HEPB,Hepatitis B,5088
+Countries,EGY,Egypt,2013,TUBERCULOSIS,Tuberculosis,13816
+Countries,EGY,Egypt,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,12020
+Countries,EGY,Egypt,2013,INFLUENZA,Seasonal Influenza,26478
+Countries,EGY,Egypt,2014,MEASLES,Measles,5119
+Countries,EGY,Egypt,2014,PERTUSSIS,Pertussis (Whooping Cough),4170
+Countries,EGY,Egypt,2014,DIPHTHERIA,Diphtheria,755
+Countries,EGY,Egypt,2014,TETANUS,Neonatal Tetanus,10
+Countries,EGY,Egypt,2014,POLIO,Poliomyelitis,1503
+Countries,EGY,Egypt,2014,HEPB,Hepatitis B,4918
+Countries,EGY,Egypt,2014,TUBERCULOSIS,Tuberculosis,11107
+Countries,EGY,Egypt,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,16242
+Countries,EGY,Egypt,2014,INFLUENZA,Seasonal Influenza,26944
+Countries,EGY,Egypt,2015,MEASLES,Measles,5603
+Countries,EGY,Egypt,2015,PERTUSSIS,Pertussis (Whooping Cough),3360
+Countries,EGY,Egypt,2015,DIPHTHERIA,Diphtheria,462
+Countries,EGY,Egypt,2015,TETANUS,Neonatal Tetanus,1169
+Countries,EGY,Egypt,2015,POLIO,Poliomyelitis,999
+Countries,EGY,Egypt,2015,HEPB,Hepatitis B,6241
+Countries,EGY,Egypt,2015,TUBERCULOSIS,Tuberculosis,8034
+Countries,EGY,Egypt,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,19987
+Countries,EGY,Egypt,2015,INFLUENZA,Seasonal Influenza,34223
+Countries,EGY,Egypt,2016,MEASLES,Measles,7152
+Countries,EGY,Egypt,2016,PERTUSSIS,Pertussis (Whooping Cough),5004
+Countries,EGY,Egypt,2016,DIPHTHERIA,Diphtheria,10
+Countries,EGY,Egypt,2016,TETANUS,Neonatal Tetanus,9
+Countries,EGY,Egypt,2016,POLIO,Poliomyelitis,1796
+Countries,EGY,Egypt,2016,HEPB,Hepatitis B,4564
+Countries,EGY,Egypt,2016,TUBERCULOSIS,Tuberculosis,10968
+Countries,EGY,Egypt,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,16447
+Countries,EGY,Egypt,2016,INFLUENZA,Seasonal Influenza,27062
+Countries,EGY,Egypt,2017,MEASLES,Measles,5366
+Countries,EGY,Egypt,2017,PERTUSSIS,Pertussis (Whooping Cough),5113
+Countries,EGY,Egypt,2017,DIPHTHERIA,Diphtheria,11
+Countries,EGY,Egypt,2017,TETANUS,Neonatal Tetanus,1804
+Countries,EGY,Egypt,2017,POLIO,Poliomyelitis,1600
+Countries,EGY,Egypt,2017,HEPB,Hepatitis B,4450
+Countries,EGY,Egypt,2017,TUBERCULOSIS,Tuberculosis,10333
+Countries,EGY,Egypt,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,12805
+Countries,EGY,Egypt,2017,INFLUENZA,Seasonal Influenza,19764
+Countries,EGY,Egypt,2018,MEASLES,Measles,5795
+Countries,EGY,Egypt,2018,PERTUSSIS,Pertussis (Whooping Cough),3493
+Countries,EGY,Egypt,2018,DIPHTHERIA,Diphtheria,1796
+Countries,EGY,Egypt,2018,TETANUS,Neonatal Tetanus,769
+Countries,EGY,Egypt,2018,POLIO,Poliomyelitis,1034
+Countries,EGY,Egypt,2018,HEPB,Hepatitis B,5080
+Countries,EGY,Egypt,2018,TUBERCULOSIS,Tuberculosis,8162
+Countries,EGY,Egypt,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,17272
+Countries,EGY,Egypt,2018,INFLUENZA,Seasonal Influenza,20833
+Countries,EGY,Egypt,2019,MEASLES,Measles,6161
+Countries,EGY,Egypt,2019,PERTUSSIS,Pertussis (Whooping Cough),2573
+Countries,EGY,Egypt,2019,DIPHTHERIA,Diphtheria,583
+Countries,EGY,Egypt,2019,TETANUS,Neonatal Tetanus,11
+Countries,EGY,Egypt,2019,POLIO,Poliomyelitis,170
+Countries,EGY,Egypt,2019,HEPB,Hepatitis B,4805
+Countries,EGY,Egypt,2019,TUBERCULOSIS,Tuberculosis,8195
+Countries,EGY,Egypt,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,17541
+Countries,EGY,Egypt,2019,INFLUENZA,Seasonal Influenza,25581
+Countries,EGY,Egypt,2020,MEASLES,Measles,9695
+Countries,EGY,Egypt,2020,PERTUSSIS,Pertussis (Whooping Cough),6734
+Countries,EGY,Egypt,2020,DIPHTHERIA,Diphtheria,304
+Countries,EGY,Egypt,2020,TETANUS,Neonatal Tetanus,1374
+Countries,EGY,Egypt,2020,POLIO,Poliomyelitis,369
+Countries,EGY,Egypt,2020,HEPB,Hepatitis B,6653
+Countries,EGY,Egypt,2020,TUBERCULOSIS,Tuberculosis,14807
+Countries,EGY,Egypt,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,17857
+Countries,EGY,Egypt,2020,INFLUENZA,Seasonal Influenza,23739
+Countries,EGY,Egypt,2021,MEASLES,Measles,6355
+Countries,EGY,Egypt,2021,PERTUSSIS,Pertussis (Whooping Cough),4567
+Countries,EGY,Egypt,2021,DIPHTHERIA,Diphtheria,2638
+Countries,EGY,Egypt,2021,TETANUS,Neonatal Tetanus,8
+Countries,EGY,Egypt,2021,POLIO,Poliomyelitis,716
+Countries,EGY,Egypt,2021,HEPB,Hepatitis B,6411
+Countries,EGY,Egypt,2021,TUBERCULOSIS,Tuberculosis,14120
+Countries,EGY,Egypt,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,18370
+Countries,EGY,Egypt,2021,INFLUENZA,Seasonal Influenza,31834
+Countries,EGY,Egypt,2022,MEASLES,Measles,4576
+Countries,EGY,Egypt,2022,PERTUSSIS,Pertussis (Whooping Cough),1201
+Countries,EGY,Egypt,2022,DIPHTHERIA,Diphtheria,1154
+Countries,EGY,Egypt,2022,TETANUS,Neonatal Tetanus,898
+Countries,EGY,Egypt,2022,POLIO,Poliomyelitis,477
+Countries,EGY,Egypt,2022,HEPB,Hepatitis B,3802
+Countries,EGY,Egypt,2022,TUBERCULOSIS,Tuberculosis,8064
+Countries,EGY,Egypt,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,16077
+Countries,EGY,Egypt,2022,INFLUENZA,Seasonal Influenza,19230
+Countries,EGY,Egypt,2023,MEASLES,Measles,4820
+Countries,EGY,Egypt,2023,PERTUSSIS,Pertussis (Whooping Cough),2619
+Countries,EGY,Egypt,2023,DIPHTHERIA,Diphtheria,586
+Countries,EGY,Egypt,2023,TETANUS,Neonatal Tetanus,778
+Countries,EGY,Egypt,2023,POLIO,Poliomyelitis,1239
+Countries,EGY,Egypt,2023,HEPB,Hepatitis B,3096
+Countries,EGY,Egypt,2023,TUBERCULOSIS,Tuberculosis,6571
+Countries,EGY,Egypt,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,13769
+Countries,EGY,Egypt,2023,INFLUENZA,Seasonal Influenza,13278
+Countries,EGY,Egypt,2024,MEASLES,Measles,3386
+Countries,EGY,Egypt,2024,PERTUSSIS,Pertussis (Whooping Cough),2509
+Countries,EGY,Egypt,2024,DIPHTHERIA,Diphtheria,385
+Countries,EGY,Egypt,2024,TETANUS,Neonatal Tetanus,776
+Countries,EGY,Egypt,2024,POLIO,Poliomyelitis,1828
+Countries,EGY,Egypt,2024,HEPB,Hepatitis B,2701
+Countries,EGY,Egypt,2024,TUBERCULOSIS,Tuberculosis,6582
+Countries,EGY,Egypt,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,13963
+Countries,EGY,Egypt,2024,INFLUENZA,Seasonal Influenza,16741
+Countries,ZAF,South Africa,2010,MEASLES,Measles,4424
+Countries,ZAF,South Africa,2010,PERTUSSIS,Pertussis (Whooping Cough),702
+Countries,ZAF,South Africa,2010,DIPHTHERIA,Diphtheria,185
+Countries,ZAF,South Africa,2010,TETANUS,Neonatal Tetanus,10
+Countries,ZAF,South Africa,2010,POLIO,Poliomyelitis,11
+Countries,ZAF,South Africa,2010,HEPB,Hepatitis B,1164
+Countries,ZAF,South Africa,2010,TUBERCULOSIS,Tuberculosis,5833
+Countries,ZAF,South Africa,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,7731
+Countries,ZAF,South Africa,2010,INFLUENZA,Seasonal Influenza,11067
+Countries,ZAF,South Africa,2011,MEASLES,Measles,3478
+Countries,ZAF,South Africa,2011,PERTUSSIS,Pertussis (Whooping Cough),1886
+Countries,ZAF,South Africa,2011,DIPHTHERIA,Diphtheria,444
+Countries,ZAF,South Africa,2011,TETANUS,Neonatal Tetanus,123
+Countries,ZAF,South Africa,2011,POLIO,Poliomyelitis,1028
+Countries,ZAF,South Africa,2011,HEPB,Hepatitis B,1862
+Countries,ZAF,South Africa,2011,TUBERCULOSIS,Tuberculosis,3477
+Countries,ZAF,South Africa,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,6778
+Countries,ZAF,South Africa,2011,INFLUENZA,Seasonal Influenza,9246
+Countries,ZAF,South Africa,2012,MEASLES,Measles,3586
+Countries,ZAF,South Africa,2012,PERTUSSIS,Pertussis (Whooping Cough),1769
+Countries,ZAF,South Africa,2012,DIPHTHERIA,Diphtheria,11
+Countries,ZAF,South Africa,2012,TETANUS,Neonatal Tetanus,590
+Countries,ZAF,South Africa,2012,POLIO,Poliomyelitis,854
+Countries,ZAF,South Africa,2012,HEPB,Hepatitis B,2029
+Countries,ZAF,South Africa,2012,TUBERCULOSIS,Tuberculosis,4898
+Countries,ZAF,South Africa,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,9874
+Countries,ZAF,South Africa,2012,INFLUENZA,Seasonal Influenza,12833
+Countries,ZAF,South Africa,2013,MEASLES,Measles,3439
+Countries,ZAF,South Africa,2013,PERTUSSIS,Pertussis (Whooping Cough),612
+Countries,ZAF,South Africa,2013,DIPHTHERIA,Diphtheria,978
+Countries,ZAF,South Africa,2013,TETANUS,Neonatal Tetanus,9
+Countries,ZAF,South Africa,2013,POLIO,Poliomyelitis,8
+Countries,ZAF,South Africa,2013,HEPB,Hepatitis B,1278
+Countries,ZAF,South Africa,2013,TUBERCULOSIS,Tuberculosis,3126
+Countries,ZAF,South Africa,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,10209
+Countries,ZAF,South Africa,2013,INFLUENZA,Seasonal Influenza,12207
+Countries,ZAF,South Africa,2014,MEASLES,Measles,2183
+Countries,ZAF,South Africa,2014,PERTUSSIS,Pertussis (Whooping Cough),2079
+Countries,ZAF,South Africa,2014,DIPHTHERIA,Diphtheria,26
+Countries,ZAF,South Africa,2014,TETANUS,Neonatal Tetanus,284
+Countries,ZAF,South Africa,2014,POLIO,Poliomyelitis,296
+Countries,ZAF,South Africa,2014,HEPB,Hepatitis B,1081
+Countries,ZAF,South Africa,2014,TUBERCULOSIS,Tuberculosis,4142
+Countries,ZAF,South Africa,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,7313
+Countries,ZAF,South Africa,2014,INFLUENZA,Seasonal Influenza,11273
+Countries,ZAF,South Africa,2015,MEASLES,Measles,2816
+Countries,ZAF,South Africa,2015,PERTUSSIS,Pertussis (Whooping Cough),1664
+Countries,ZAF,South Africa,2015,DIPHTHERIA,Diphtheria,10
+Countries,ZAF,South Africa,2015,TETANUS,Neonatal Tetanus,1608
+Countries,ZAF,South Africa,2015,POLIO,Poliomyelitis,704
+Countries,ZAF,South Africa,2015,HEPB,Hepatitis B,2033
+Countries,ZAF,South Africa,2015,TUBERCULOSIS,Tuberculosis,3564
+Countries,ZAF,South Africa,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,8764
+Countries,ZAF,South Africa,2015,INFLUENZA,Seasonal Influenza,8803
+Countries,ZAF,South Africa,2016,MEASLES,Measles,1350
+Countries,ZAF,South Africa,2016,PERTUSSIS,Pertussis (Whooping Cough),1623
+Countries,ZAF,South Africa,2016,DIPHTHERIA,Diphtheria,190
+Countries,ZAF,South Africa,2016,TETANUS,Neonatal Tetanus,1356
+Countries,ZAF,South Africa,2016,POLIO,Poliomyelitis,1346
+Countries,ZAF,South Africa,2016,HEPB,Hepatitis B,705
+Countries,ZAF,South Africa,2016,TUBERCULOSIS,Tuberculosis,4614
+Countries,ZAF,South Africa,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,6494
+Countries,ZAF,South Africa,2016,INFLUENZA,Seasonal Influenza,8030
+Countries,ZAF,South Africa,2017,MEASLES,Measles,3458
+Countries,ZAF,South Africa,2017,PERTUSSIS,Pertussis (Whooping Cough),1489
+Countries,ZAF,South Africa,2017,DIPHTHERIA,Diphtheria,509
+Countries,ZAF,South Africa,2017,TETANUS,Neonatal Tetanus,9
+Countries,ZAF,South Africa,2017,POLIO,Poliomyelitis,808
+Countries,ZAF,South Africa,2017,HEPB,Hepatitis B,1257
+Countries,ZAF,South Africa,2017,TUBERCULOSIS,Tuberculosis,2445
+Countries,ZAF,South Africa,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,6934
+Countries,ZAF,South Africa,2017,INFLUENZA,Seasonal Influenza,8797
+Countries,ZAF,South Africa,2018,MEASLES,Measles,1666
+Countries,ZAF,South Africa,2018,PERTUSSIS,Pertussis (Whooping Cough),2368
+Countries,ZAF,South Africa,2018,DIPHTHERIA,Diphtheria,11
+Countries,ZAF,South Africa,2018,TETANUS,Neonatal Tetanus,414
+Countries,ZAF,South Africa,2018,POLIO,Poliomyelitis,245
+Countries,ZAF,South Africa,2018,HEPB,Hepatitis B,2435
+Countries,ZAF,South Africa,2018,TUBERCULOSIS,Tuberculosis,3445
+Countries,ZAF,South Africa,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,3587
+Countries,ZAF,South Africa,2018,INFLUENZA,Seasonal Influenza,7063
+Countries,ZAF,South Africa,2019,MEASLES,Measles,2601
+Countries,ZAF,South Africa,2019,PERTUSSIS,Pertussis (Whooping Cough),1183
+Countries,ZAF,South Africa,2019,DIPHTHERIA,Diphtheria,776
+Countries,ZAF,South Africa,2019,TETANUS,Neonatal Tetanus,212
+Countries,ZAF,South Africa,2019,POLIO,Poliomyelitis,170
+Countries,ZAF,South Africa,2019,HEPB,Hepatitis B,1676
+Countries,ZAF,South Africa,2019,TUBERCULOSIS,Tuberculosis,3427
+Countries,ZAF,South Africa,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,4983
+Countries,ZAF,South Africa,2019,INFLUENZA,Seasonal Influenza,8141
+Countries,ZAF,South Africa,2020,MEASLES,Measles,2675
+Countries,ZAF,South Africa,2020,PERTUSSIS,Pertussis (Whooping Cough),1361
+Countries,ZAF,South Africa,2020,DIPHTHERIA,Diphtheria,1242
+Countries,ZAF,South Africa,2020,TETANUS,Neonatal Tetanus,433
+Countries,ZAF,South Africa,2020,POLIO,Poliomyelitis,1102
+Countries,ZAF,South Africa,2020,HEPB,Hepatitis B,2194
+Countries,ZAF,South Africa,2020,TUBERCULOSIS,Tuberculosis,3496
+Countries,ZAF,South Africa,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,7427
+Countries,ZAF,South Africa,2020,INFLUENZA,Seasonal Influenza,10275
+Countries,ZAF,South Africa,2021,MEASLES,Measles,1648
+Countries,ZAF,South Africa,2021,PERTUSSIS,Pertussis (Whooping Cough),1504
+Countries,ZAF,South Africa,2021,DIPHTHERIA,Diphtheria,48
+Countries,ZAF,South Africa,2021,TETANUS,Neonatal Tetanus,339
+Countries,ZAF,South Africa,2021,POLIO,Poliomyelitis,1077
+Countries,ZAF,South Africa,2021,HEPB,Hepatitis B,2291
+Countries,ZAF,South Africa,2021,TUBERCULOSIS,Tuberculosis,3916
+Countries,ZAF,South Africa,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,7354
+Countries,ZAF,South Africa,2021,INFLUENZA,Seasonal Influenza,10584
+Countries,ZAF,South Africa,2022,MEASLES,Measles,1759
+Countries,ZAF,South Africa,2022,PERTUSSIS,Pertussis (Whooping Cough),1628
+Countries,ZAF,South Africa,2022,DIPHTHERIA,Diphtheria,530
+Countries,ZAF,South Africa,2022,TETANUS,Neonatal Tetanus,11
+Countries,ZAF,South Africa,2022,POLIO,Poliomyelitis,1521
+Countries,ZAF,South Africa,2022,HEPB,Hepatitis B,1140
+Countries,ZAF,South Africa,2022,TUBERCULOSIS,Tuberculosis,3299
+Countries,ZAF,South Africa,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,5061
+Countries,ZAF,South Africa,2022,INFLUENZA,Seasonal Influenza,5277
+Countries,ZAF,South Africa,2023,MEASLES,Measles,1636
+Countries,ZAF,South Africa,2023,PERTUSSIS,Pertussis (Whooping Cough),1637
+Countries,ZAF,South Africa,2023,DIPHTHERIA,Diphtheria,9
+Countries,ZAF,South Africa,2023,TETANUS,Neonatal Tetanus,192
+Countries,ZAF,South Africa,2023,POLIO,Poliomyelitis,748
+Countries,ZAF,South Africa,2023,HEPB,Hepatitis B,1787
+Countries,ZAF,South Africa,2023,TUBERCULOSIS,Tuberculosis,2245
+Countries,ZAF,South Africa,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,4869
+Countries,ZAF,South Africa,2023,INFLUENZA,Seasonal Influenza,6537
+Countries,ZAF,South Africa,2024,MEASLES,Measles,1559
+Countries,ZAF,South Africa,2024,PERTUSSIS,Pertussis (Whooping Cough),858
+Countries,ZAF,South Africa,2024,DIPHTHERIA,Diphtheria,10
+Countries,ZAF,South Africa,2024,TETANUS,Neonatal Tetanus,349
+Countries,ZAF,South Africa,2024,POLIO,Poliomyelitis,903
+Countries,ZAF,South Africa,2024,HEPB,Hepatitis B,1201
+Countries,ZAF,South Africa,2024,TUBERCULOSIS,Tuberculosis,2453
+Countries,ZAF,South Africa,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,3799
+Countries,ZAF,South Africa,2024,INFLUENZA,Seasonal Influenza,5246
+Countries,GBR,United Kingdom,2010,MEASLES,Measles,406
+Countries,GBR,United Kingdom,2010,PERTUSSIS,Pertussis (Whooping Cough),142
+Countries,GBR,United Kingdom,2010,DIPHTHERIA,Diphtheria,9
+Countries,GBR,United Kingdom,2010,TETANUS,Neonatal Tetanus,6
+Countries,GBR,United Kingdom,2010,POLIO,Poliomyelitis,116
+Countries,GBR,United Kingdom,2010,HEPB,Hepatitis B,146
+Countries,GBR,United Kingdom,2010,TUBERCULOSIS,Tuberculosis,574
+Countries,GBR,United Kingdom,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,834
+Countries,GBR,United Kingdom,2010,INFLUENZA,Seasonal Influenza,1300
+Countries,GBR,United Kingdom,2011,MEASLES,Measles,377
+Countries,GBR,United Kingdom,2011,PERTUSSIS,Pertussis (Whooping Cough),212
+Countries,GBR,United Kingdom,2011,DIPHTHERIA,Diphtheria,107
+Countries,GBR,United Kingdom,2011,TETANUS,Neonatal Tetanus,7
+Countries,GBR,United Kingdom,2011,POLIO,Poliomyelitis,140
+Countries,GBR,United Kingdom,2011,HEPB,Hepatitis B,271
+Countries,GBR,United Kingdom,2011,TUBERCULOSIS,Tuberculosis,530
+Countries,GBR,United Kingdom,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,691
+Countries,GBR,United Kingdom,2011,INFLUENZA,Seasonal Influenza,767
+Countries,GBR,United Kingdom,2012,MEASLES,Measles,84
+Countries,GBR,United Kingdom,2012,PERTUSSIS,Pertussis (Whooping Cough),262
+Countries,GBR,United Kingdom,2012,DIPHTHERIA,Diphtheria,8
+Countries,GBR,United Kingdom,2012,TETANUS,Neonatal Tetanus,24
+Countries,GBR,United Kingdom,2012,POLIO,Poliomyelitis,50
+Countries,GBR,United Kingdom,2012,HEPB,Hepatitis B,295
+Countries,GBR,United Kingdom,2012,TUBERCULOSIS,Tuberculosis,705
+Countries,GBR,United Kingdom,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,1142
+Countries,GBR,United Kingdom,2012,INFLUENZA,Seasonal Influenza,907
+Countries,GBR,United Kingdom,2013,MEASLES,Measles,317
+Countries,GBR,United Kingdom,2013,PERTUSSIS,Pertussis (Whooping Cough),375
+Countries,GBR,United Kingdom,2013,DIPHTHERIA,Diphtheria,10
+Countries,GBR,United Kingdom,2013,TETANUS,Neonatal Tetanus,11
+Countries,GBR,United Kingdom,2013,POLIO,Poliomyelitis,170
+Countries,GBR,United Kingdom,2013,HEPB,Hepatitis B,414
+Countries,GBR,United Kingdom,2013,TUBERCULOSIS,Tuberculosis,616
+Countries,GBR,United Kingdom,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,841
+Countries,GBR,United Kingdom,2013,INFLUENZA,Seasonal Influenza,1814
+Countries,GBR,United Kingdom,2014,MEASLES,Measles,321
+Countries,GBR,United Kingdom,2014,PERTUSSIS,Pertussis (Whooping Cough),205
+Countries,GBR,United Kingdom,2014,DIPHTHERIA,Diphtheria,142
+Countries,GBR,United Kingdom,2014,TETANUS,Neonatal Tetanus,68
+Countries,GBR,United Kingdom,2014,POLIO,Poliomyelitis,179
+Countries,GBR,United Kingdom,2014,HEPB,Hepatitis B,303
+Countries,GBR,United Kingdom,2014,TUBERCULOSIS,Tuberculosis,472
+Countries,GBR,United Kingdom,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,1080
+Countries,GBR,United Kingdom,2014,INFLUENZA,Seasonal Influenza,927
+Countries,GBR,United Kingdom,2015,MEASLES,Measles,75
+Countries,GBR,United Kingdom,2015,PERTUSSIS,Pertussis (Whooping Cough),120
+Countries,GBR,United Kingdom,2015,DIPHTHERIA,Diphtheria,9
+Countries,GBR,United Kingdom,2015,TETANUS,Neonatal Tetanus,45
+Countries,GBR,United Kingdom,2015,POLIO,Poliomyelitis,8
+Countries,GBR,United Kingdom,2015,HEPB,Hepatitis B,181
+Countries,GBR,United Kingdom,2015,TUBERCULOSIS,Tuberculosis,355
+Countries,GBR,United Kingdom,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,1156
+Countries,GBR,United Kingdom,2015,INFLUENZA,Seasonal Influenza,1007
+Countries,GBR,United Kingdom,2016,MEASLES,Measles,90
+Countries,GBR,United Kingdom,2016,PERTUSSIS,Pertussis (Whooping Cough),351
+Countries,GBR,United Kingdom,2016,DIPHTHERIA,Diphtheria,11
+Countries,GBR,United Kingdom,2016,TETANUS,Neonatal Tetanus,8
+Countries,GBR,United Kingdom,2016,POLIO,Poliomyelitis,11
+Countries,GBR,United Kingdom,2016,HEPB,Hepatitis B,305
+Countries,GBR,United Kingdom,2016,TUBERCULOSIS,Tuberculosis,260
+Countries,GBR,United Kingdom,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,534
+Countries,GBR,United Kingdom,2016,INFLUENZA,Seasonal Influenza,1018
+Countries,GBR,United Kingdom,2017,MEASLES,Measles,332
+Countries,GBR,United Kingdom,2017,PERTUSSIS,Pertussis (Whooping Cough),280
+Countries,GBR,United Kingdom,2017,DIPHTHERIA,Diphtheria,146
+Countries,GBR,United Kingdom,2017,TETANUS,Neonatal Tetanus,9
+Countries,GBR,United Kingdom,2017,POLIO,Poliomyelitis,52
+Countries,GBR,United Kingdom,2017,HEPB,Hepatitis B,193
+Countries,GBR,United Kingdom,2017,TUBERCULOSIS,Tuberculosis,282
+Countries,GBR,United Kingdom,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,622
+Countries,GBR,United Kingdom,2017,INFLUENZA,Seasonal Influenza,1352
+Countries,GBR,United Kingdom,2018,MEASLES,Measles,386
+Countries,GBR,United Kingdom,2018,PERTUSSIS,Pertussis (Whooping Cough),195
+Countries,GBR,United Kingdom,2018,DIPHTHERIA,Diphtheria,87
+Countries,GBR,United Kingdom,2018,TETANUS,Neonatal Tetanus,48
+Countries,GBR,United Kingdom,2018,POLIO,Poliomyelitis,12
+Countries,GBR,United Kingdom,2018,HEPB,Hepatitis B,232
+Countries,GBR,United Kingdom,2018,TUBERCULOSIS,Tuberculosis,247
+Countries,GBR,United Kingdom,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,851
+Countries,GBR,United Kingdom,2018,INFLUENZA,Seasonal Influenza,1232
+Countries,GBR,United Kingdom,2019,MEASLES,Measles,285
+Countries,GBR,United Kingdom,2019,PERTUSSIS,Pertussis (Whooping Cough),87
+Countries,GBR,United Kingdom,2019,DIPHTHERIA,Diphtheria,7
+Countries,GBR,United Kingdom,2019,TETANUS,Neonatal Tetanus,53
+Countries,GBR,United Kingdom,2019,POLIO,Poliomyelitis,10
+Countries,GBR,United Kingdom,2019,HEPB,Hepatitis B,10
+Countries,GBR,United Kingdom,2019,TUBERCULOSIS,Tuberculosis,372
+Countries,GBR,United Kingdom,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,556
+Countries,GBR,United Kingdom,2019,INFLUENZA,Seasonal Influenza,977
+Countries,GBR,United Kingdom,2020,MEASLES,Measles,556
+Countries,GBR,United Kingdom,2020,PERTUSSIS,Pertussis (Whooping Cough),309
+Countries,GBR,United Kingdom,2020,DIPHTHERIA,Diphtheria,101
+Countries,GBR,United Kingdom,2020,TETANUS,Neonatal Tetanus,104
+Countries,GBR,United Kingdom,2020,POLIO,Poliomyelitis,10
+Countries,GBR,United Kingdom,2020,HEPB,Hepatitis B,154
+Countries,GBR,United Kingdom,2020,TUBERCULOSIS,Tuberculosis,580
+Countries,GBR,United Kingdom,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,1097
+Countries,GBR,United Kingdom,2020,INFLUENZA,Seasonal Influenza,1299
+Countries,GBR,United Kingdom,2021,MEASLES,Measles,342
+Countries,GBR,United Kingdom,2021,PERTUSSIS,Pertussis (Whooping Cough),203
+Countries,GBR,United Kingdom,2021,DIPHTHERIA,Diphtheria,103
+Countries,GBR,United Kingdom,2021,TETANUS,Neonatal Tetanus,6
+Countries,GBR,United Kingdom,2021,POLIO,Poliomyelitis,9
+Countries,GBR,United Kingdom,2021,HEPB,Hepatitis B,138
+Countries,GBR,United Kingdom,2021,TUBERCULOSIS,Tuberculosis,789
+Countries,GBR,United Kingdom,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,793
+Countries,GBR,United Kingdom,2021,INFLUENZA,Seasonal Influenza,1204
+Countries,GBR,United Kingdom,2022,MEASLES,Measles,321
+Countries,GBR,United Kingdom,2022,PERTUSSIS,Pertussis (Whooping Cough),55
+Countries,GBR,United Kingdom,2022,DIPHTHERIA,Diphtheria,46
+Countries,GBR,United Kingdom,2022,TETANUS,Neonatal Tetanus,44
+Countries,GBR,United Kingdom,2022,POLIO,Poliomyelitis,8
+Countries,GBR,United Kingdom,2022,HEPB,Hepatitis B,127
+Countries,GBR,United Kingdom,2022,TUBERCULOSIS,Tuberculosis,218
+Countries,GBR,United Kingdom,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,932
+Countries,GBR,United Kingdom,2022,INFLUENZA,Seasonal Influenza,769
+Countries,GBR,United Kingdom,2023,MEASLES,Measles,124
+Countries,GBR,United Kingdom,2023,PERTUSSIS,Pertussis (Whooping Cough),187
+Countries,GBR,United Kingdom,2023,DIPHTHERIA,Diphtheria,39
+Countries,GBR,United Kingdom,2023,TETANUS,Neonatal Tetanus,7
+Countries,GBR,United Kingdom,2023,POLIO,Poliomyelitis,174
+Countries,GBR,United Kingdom,2023,HEPB,Hepatitis B,65
+Countries,GBR,United Kingdom,2023,TUBERCULOSIS,Tuberculosis,592
+Countries,GBR,United Kingdom,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,721
+Countries,GBR,United Kingdom,2023,INFLUENZA,Seasonal Influenza,667
+Countries,GBR,United Kingdom,2024,MEASLES,Measles,168
+Countries,GBR,United Kingdom,2024,PERTUSSIS,Pertussis (Whooping Cough),254
+Countries,GBR,United Kingdom,2024,DIPHTHERIA,Diphtheria,8
+Countries,GBR,United Kingdom,2024,TETANUS,Neonatal Tetanus,130
+Countries,GBR,United Kingdom,2024,POLIO,Poliomyelitis,9
+Countries,GBR,United Kingdom,2024,HEPB,Hepatitis B,159
+Countries,GBR,United Kingdom,2024,TUBERCULOSIS,Tuberculosis,548
+Countries,GBR,United Kingdom,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,803
+Countries,GBR,United Kingdom,2024,INFLUENZA,Seasonal Influenza,847
+Countries,JPN,Japan,2010,MEASLES,Measles,388
+Countries,JPN,Japan,2010,PERTUSSIS,Pertussis (Whooping Cough),265
+Countries,JPN,Japan,2010,DIPHTHERIA,Diphtheria,8
+Countries,JPN,Japan,2010,TETANUS,Neonatal Tetanus,9
+Countries,JPN,Japan,2010,POLIO,Poliomyelitis,9
+Countries,JPN,Japan,2010,HEPB,Hepatitis B,222
+Countries,JPN,Japan,2010,TUBERCULOSIS,Tuberculosis,575
+Countries,JPN,Japan,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,832
+Countries,JPN,Japan,2010,INFLUENZA,Seasonal Influenza,1160
+Countries,JPN,Japan,2011,MEASLES,Measles,324
+Countries,JPN,Japan,2011,PERTUSSIS,Pertussis (Whooping Cough),252
+Countries,JPN,Japan,2011,DIPHTHERIA,Diphtheria,10
+Countries,JPN,Japan,2011,TETANUS,Neonatal Tetanus,31
+Countries,JPN,Japan,2011,POLIO,Poliomyelitis,172
+Countries,JPN,Japan,2011,HEPB,Hepatitis B,334
+Countries,JPN,Japan,2011,TUBERCULOSIS,Tuberculosis,746
+Countries,JPN,Japan,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,1044
+Countries,JPN,Japan,2011,INFLUENZA,Seasonal Influenza,1237
+Countries,JPN,Japan,2012,MEASLES,Measles,341
+Countries,JPN,Japan,2012,PERTUSSIS,Pertussis (Whooping Cough),114
+Countries,JPN,Japan,2012,DIPHTHERIA,Diphtheria,86
+Countries,JPN,Japan,2012,TETANUS,Neonatal Tetanus,10
+Countries,JPN,Japan,2012,POLIO,Poliomyelitis,85
+Countries,JPN,Japan,2012,HEPB,Hepatitis B,138
+Countries,JPN,Japan,2012,TUBERCULOSIS,Tuberculosis,436
+Countries,JPN,Japan,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,917
+Countries,JPN,Japan,2012,INFLUENZA,Seasonal Influenza,846
+Countries,JPN,Japan,2013,MEASLES,Measles,354
+Countries,JPN,Japan,2013,PERTUSSIS,Pertussis (Whooping Cough),294
+Countries,JPN,Japan,2013,DIPHTHERIA,Diphtheria,57
+Countries,JPN,Japan,2013,TETANUS,Neonatal Tetanus,10
+Countries,JPN,Japan,2013,POLIO,Poliomyelitis,145
+Countries,JPN,Japan,2013,HEPB,Hepatitis B,132
+Countries,JPN,Japan,2013,TUBERCULOSIS,Tuberculosis,561
+Countries,JPN,Japan,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,640
+Countries,JPN,Japan,2013,INFLUENZA,Seasonal Influenza,878
+Countries,JPN,Japan,2014,MEASLES,Measles,307
+Countries,JPN,Japan,2014,PERTUSSIS,Pertussis (Whooping Cough),198
+Countries,JPN,Japan,2014,DIPHTHERIA,Diphtheria,9
+Countries,JPN,Japan,2014,TETANUS,Neonatal Tetanus,206
+Countries,JPN,Japan,2014,POLIO,Poliomyelitis,31
+Countries,JPN,Japan,2014,HEPB,Hepatitis B,275
+Countries,JPN,Japan,2014,TUBERCULOSIS,Tuberculosis,475
+Countries,JPN,Japan,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,697
+Countries,JPN,Japan,2014,INFLUENZA,Seasonal Influenza,1069
+Countries,JPN,Japan,2015,MEASLES,Measles,250
+Countries,JPN,Japan,2015,PERTUSSIS,Pertussis (Whooping Cough),105
+Countries,JPN,Japan,2015,DIPHTHERIA,Diphtheria,135
+Countries,JPN,Japan,2015,TETANUS,Neonatal Tetanus,14
+Countries,JPN,Japan,2015,POLIO,Poliomyelitis,84
+Countries,JPN,Japan,2015,HEPB,Hepatitis B,268
+Countries,JPN,Japan,2015,TUBERCULOSIS,Tuberculosis,264
+Countries,JPN,Japan,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,359
+Countries,JPN,Japan,2015,INFLUENZA,Seasonal Influenza,786
+Countries,JPN,Japan,2016,MEASLES,Measles,255
+Countries,JPN,Japan,2016,PERTUSSIS,Pertussis (Whooping Cough),121
+Countries,JPN,Japan,2016,DIPHTHERIA,Diphtheria,10
+Countries,JPN,Japan,2016,TETANUS,Neonatal Tetanus,9
+Countries,JPN,Japan,2016,POLIO,Poliomyelitis,233
+Countries,JPN,Japan,2016,HEPB,Hepatitis B,307
+Countries,JPN,Japan,2016,TUBERCULOSIS,Tuberculosis,510
+Countries,JPN,Japan,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,489
+Countries,JPN,Japan,2016,INFLUENZA,Seasonal Influenza,794
+Countries,JPN,Japan,2017,MEASLES,Measles,352
+Countries,JPN,Japan,2017,PERTUSSIS,Pertussis (Whooping Cough),163
+Countries,JPN,Japan,2017,DIPHTHERIA,Diphtheria,120
+Countries,JPN,Japan,2017,TETANUS,Neonatal Tetanus,117
+Countries,JPN,Japan,2017,POLIO,Poliomyelitis,284
+Countries,JPN,Japan,2017,HEPB,Hepatitis B,139
+Countries,JPN,Japan,2017,TUBERCULOSIS,Tuberculosis,462
+Countries,JPN,Japan,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,676
+Countries,JPN,Japan,2017,INFLUENZA,Seasonal Influenza,747
+Countries,JPN,Japan,2018,MEASLES,Measles,359
+Countries,JPN,Japan,2018,PERTUSSIS,Pertussis (Whooping Cough),248
+Countries,JPN,Japan,2018,DIPHTHERIA,Diphtheria,11
+Countries,JPN,Japan,2018,TETANUS,Neonatal Tetanus,9
+Countries,JPN,Japan,2018,POLIO,Poliomyelitis,11
+Countries,JPN,Japan,2018,HEPB,Hepatitis B,298
+Countries,JPN,Japan,2018,TUBERCULOSIS,Tuberculosis,476
+Countries,JPN,Japan,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,533
+Countries,JPN,Japan,2018,INFLUENZA,Seasonal Influenza,1050
+Countries,JPN,Japan,2019,MEASLES,Measles,239
+Countries,JPN,Japan,2019,PERTUSSIS,Pertussis (Whooping Cough),149
+Countries,JPN,Japan,2019,DIPHTHERIA,Diphtheria,11
+Countries,JPN,Japan,2019,TETANUS,Neonatal Tetanus,12
+Countries,JPN,Japan,2019,POLIO,Poliomyelitis,8
+Countries,JPN,Japan,2019,HEPB,Hepatitis B,110
+Countries,JPN,Japan,2019,TUBERCULOSIS,Tuberculosis,527
+Countries,JPN,Japan,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,723
+Countries,JPN,Japan,2019,INFLUENZA,Seasonal Influenza,886
+Countries,JPN,Japan,2020,MEASLES,Measles,265
+Countries,JPN,Japan,2020,PERTUSSIS,Pertussis (Whooping Cough),278
+Countries,JPN,Japan,2020,DIPHTHERIA,Diphtheria,32
+Countries,JPN,Japan,2020,TETANUS,Neonatal Tetanus,46
+Countries,JPN,Japan,2020,POLIO,Poliomyelitis,90
+Countries,JPN,Japan,2020,HEPB,Hepatitis B,202
+Countries,JPN,Japan,2020,TUBERCULOSIS,Tuberculosis,597
+Countries,JPN,Japan,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,1014
+Countries,JPN,Japan,2020,INFLUENZA,Seasonal Influenza,883
+Countries,JPN,Japan,2021,MEASLES,Measles,319
+Countries,JPN,Japan,2021,PERTUSSIS,Pertussis (Whooping Cough),139
+Countries,JPN,Japan,2021,DIPHTHERIA,Diphtheria,11
+Countries,JPN,Japan,2021,TETANUS,Neonatal Tetanus,78
+Countries,JPN,Japan,2021,POLIO,Poliomyelitis,27
+Countries,JPN,Japan,2021,HEPB,Hepatitis B,253
+Countries,JPN,Japan,2021,TUBERCULOSIS,Tuberculosis,454
+Countries,JPN,Japan,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,548
+Countries,JPN,Japan,2021,INFLUENZA,Seasonal Influenza,1155
+Countries,JPN,Japan,2022,MEASLES,Measles,87
+Countries,JPN,Japan,2022,PERTUSSIS,Pertussis (Whooping Cough),27
+Countries,JPN,Japan,2022,DIPHTHERIA,Diphtheria,60
+Countries,JPN,Japan,2022,TETANUS,Neonatal Tetanus,60
+Countries,JPN,Japan,2022,POLIO,Poliomyelitis,170
+Countries,JPN,Japan,2022,HEPB,Hepatitis B,76
+Countries,JPN,Japan,2022,TUBERCULOSIS,Tuberculosis,235
+Countries,JPN,Japan,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,631
+Countries,JPN,Japan,2022,INFLUENZA,Seasonal Influenza,1071
+Countries,JPN,Japan,2023,MEASLES,Measles,248
+Countries,JPN,Japan,2023,PERTUSSIS,Pertussis (Whooping Cough),75
+Countries,JPN,Japan,2023,DIPHTHERIA,Diphtheria,166
+Countries,JPN,Japan,2023,TETANUS,Neonatal Tetanus,7
+Countries,JPN,Japan,2023,POLIO,Poliomyelitis,28
+Countries,JPN,Japan,2023,HEPB,Hepatitis B,26
+Countries,JPN,Japan,2023,TUBERCULOSIS,Tuberculosis,458
+Countries,JPN,Japan,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,639
+Countries,JPN,Japan,2023,INFLUENZA,Seasonal Influenza,705
+Countries,JPN,Japan,2024,MEASLES,Measles,412
+Countries,JPN,Japan,2024,PERTUSSIS,Pertussis (Whooping Cough),96
+Countries,JPN,Japan,2024,DIPHTHERIA,Diphtheria,89
+Countries,JPN,Japan,2024,TETANUS,Neonatal Tetanus,45
+Countries,JPN,Japan,2024,POLIO,Poliomyelitis,11
+Countries,JPN,Japan,2024,HEPB,Hepatitis B,183
+Countries,JPN,Japan,2024,TUBERCULOSIS,Tuberculosis,441
+Countries,JPN,Japan,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,437
+Countries,JPN,Japan,2024,INFLUENZA,Seasonal Influenza,1035
+Countries,MEX,Mexico,2010,MEASLES,Measles,2919
+Countries,MEX,Mexico,2010,PERTUSSIS,Pertussis (Whooping Cough),3677
+Countries,MEX,Mexico,2010,DIPHTHERIA,Diphtheria,10
+Countries,MEX,Mexico,2010,TETANUS,Neonatal Tetanus,9
+Countries,MEX,Mexico,2010,POLIO,Poliomyelitis,1476
+Countries,MEX,Mexico,2010,HEPB,Hepatitis B,1292
+Countries,MEX,Mexico,2010,TUBERCULOSIS,Tuberculosis,3525
+Countries,MEX,Mexico,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,7979
+Countries,MEX,Mexico,2010,INFLUENZA,Seasonal Influenza,10097
+Countries,MEX,Mexico,2011,MEASLES,Measles,2246
+Countries,MEX,Mexico,2011,PERTUSSIS,Pertussis (Whooping Cough),3040
+Countries,MEX,Mexico,2011,DIPHTHERIA,Diphtheria,382
+Countries,MEX,Mexico,2011,TETANUS,Neonatal Tetanus,781
+Countries,MEX,Mexico,2011,POLIO,Poliomyelitis,525
+Countries,MEX,Mexico,2011,HEPB,Hepatitis B,4049
+Countries,MEX,Mexico,2011,TUBERCULOSIS,Tuberculosis,4808
+Countries,MEX,Mexico,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,7395
+Countries,MEX,Mexico,2011,INFLUENZA,Seasonal Influenza,14229
+Countries,MEX,Mexico,2012,MEASLES,Measles,3390
+Countries,MEX,Mexico,2012,PERTUSSIS,Pertussis (Whooping Cough),2018
+Countries,MEX,Mexico,2012,DIPHTHERIA,Diphtheria,523
+Countries,MEX,Mexico,2012,TETANUS,Neonatal Tetanus,137
+Countries,MEX,Mexico,2012,POLIO,Poliomyelitis,672
+Countries,MEX,Mexico,2012,HEPB,Hepatitis B,2261
+Countries,MEX,Mexico,2012,TUBERCULOSIS,Tuberculosis,3832
+Countries,MEX,Mexico,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,7910
+Countries,MEX,Mexico,2012,INFLUENZA,Seasonal Influenza,9561
+Countries,MEX,Mexico,2013,MEASLES,Measles,2451
+Countries,MEX,Mexico,2013,PERTUSSIS,Pertussis (Whooping Cough),1208
+Countries,MEX,Mexico,2013,DIPHTHERIA,Diphtheria,923
+Countries,MEX,Mexico,2013,TETANUS,Neonatal Tetanus,407
+Countries,MEX,Mexico,2013,POLIO,Poliomyelitis,1319
+Countries,MEX,Mexico,2013,HEPB,Hepatitis B,2008
+Countries,MEX,Mexico,2013,TUBERCULOSIS,Tuberculosis,5122
+Countries,MEX,Mexico,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,7236
+Countries,MEX,Mexico,2013,INFLUENZA,Seasonal Influenza,9963
+Countries,MEX,Mexico,2014,MEASLES,Measles,1671
+Countries,MEX,Mexico,2014,PERTUSSIS,Pertussis (Whooping Cough),1311
+Countries,MEX,Mexico,2014,DIPHTHERIA,Diphtheria,10
+Countries,MEX,Mexico,2014,TETANUS,Neonatal Tetanus,115
+Countries,MEX,Mexico,2014,POLIO,Poliomyelitis,10
+Countries,MEX,Mexico,2014,HEPB,Hepatitis B,918
+Countries,MEX,Mexico,2014,TUBERCULOSIS,Tuberculosis,3476
+Countries,MEX,Mexico,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,7084
+Countries,MEX,Mexico,2014,INFLUENZA,Seasonal Influenza,9339
+Countries,MEX,Mexico,2015,MEASLES,Measles,2083
+Countries,MEX,Mexico,2015,PERTUSSIS,Pertussis (Whooping Cough),990
+Countries,MEX,Mexico,2015,DIPHTHERIA,Diphtheria,9
+Countries,MEX,Mexico,2015,TETANUS,Neonatal Tetanus,10
+Countries,MEX,Mexico,2015,POLIO,Poliomyelitis,6
+Countries,MEX,Mexico,2015,HEPB,Hepatitis B,1453
+Countries,MEX,Mexico,2015,TUBERCULOSIS,Tuberculosis,4268
+Countries,MEX,Mexico,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,7771
+Countries,MEX,Mexico,2015,INFLUENZA,Seasonal Influenza,8088
+Countries,MEX,Mexico,2016,MEASLES,Measles,2475
+Countries,MEX,Mexico,2016,PERTUSSIS,Pertussis (Whooping Cough),943
+Countries,MEX,Mexico,2016,DIPHTHERIA,Diphtheria,11
+Countries,MEX,Mexico,2016,TETANUS,Neonatal Tetanus,186
+Countries,MEX,Mexico,2016,POLIO,Poliomyelitis,681
+Countries,MEX,Mexico,2016,HEPB,Hepatitis B,2413
+Countries,MEX,Mexico,2016,TUBERCULOSIS,Tuberculosis,3389
+Countries,MEX,Mexico,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,5819
+Countries,MEX,Mexico,2016,INFLUENZA,Seasonal Influenza,10188
+Countries,MEX,Mexico,2017,MEASLES,Measles,1179
+Countries,MEX,Mexico,2017,PERTUSSIS,Pertussis (Whooping Cough),1582
+Countries,MEX,Mexico,2017,DIPHTHERIA,Diphtheria,242
+Countries,MEX,Mexico,2017,TETANUS,Neonatal Tetanus,11
+Countries,MEX,Mexico,2017,POLIO,Poliomyelitis,12
+Countries,MEX,Mexico,2017,HEPB,Hepatitis B,1156
+Countries,MEX,Mexico,2017,TUBERCULOSIS,Tuberculosis,4166
+Countries,MEX,Mexico,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,6865
+Countries,MEX,Mexico,2017,INFLUENZA,Seasonal Influenza,8756
+Countries,MEX,Mexico,2018,MEASLES,Measles,1156
+Countries,MEX,Mexico,2018,PERTUSSIS,Pertussis (Whooping Cough),1627
+Countries,MEX,Mexico,2018,DIPHTHERIA,Diphtheria,286
+Countries,MEX,Mexico,2018,TETANUS,Neonatal Tetanus,163
+Countries,MEX,Mexico,2018,POLIO,Poliomyelitis,852
+Countries,MEX,Mexico,2018,HEPB,Hepatitis B,1621
+Countries,MEX,Mexico,2018,TUBERCULOSIS,Tuberculosis,3458
+Countries,MEX,Mexico,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,5208
+Countries,MEX,Mexico,2018,INFLUENZA,Seasonal Influenza,8873
+Countries,MEX,Mexico,2019,MEASLES,Measles,3150
+Countries,MEX,Mexico,2019,PERTUSSIS,Pertussis (Whooping Cough),2061
+Countries,MEX,Mexico,2019,DIPHTHERIA,Diphtheria,458
+Countries,MEX,Mexico,2019,TETANUS,Neonatal Tetanus,8
+Countries,MEX,Mexico,2019,POLIO,Poliomyelitis,8
+Countries,MEX,Mexico,2019,HEPB,Hepatitis B,1332
+Countries,MEX,Mexico,2019,TUBERCULOSIS,Tuberculosis,3466
+Countries,MEX,Mexico,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,5688
+Countries,MEX,Mexico,2019,INFLUENZA,Seasonal Influenza,8040
+Countries,MEX,Mexico,2020,MEASLES,Measles,2660
+Countries,MEX,Mexico,2020,PERTUSSIS,Pertussis (Whooping Cough),3227
+Countries,MEX,Mexico,2020,DIPHTHERIA,Diphtheria,539
+Countries,MEX,Mexico,2020,TETANUS,Neonatal Tetanus,128
+Countries,MEX,Mexico,2020,POLIO,Poliomyelitis,199
+Countries,MEX,Mexico,2020,HEPB,Hepatitis B,1320
+Countries,MEX,Mexico,2020,TUBERCULOSIS,Tuberculosis,3761
+Countries,MEX,Mexico,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,6793
+Countries,MEX,Mexico,2020,INFLUENZA,Seasonal Influenza,10155
+Countries,MEX,Mexico,2021,MEASLES,Measles,2251
+Countries,MEX,Mexico,2021,PERTUSSIS,Pertussis (Whooping Cough),1802
+Countries,MEX,Mexico,2021,DIPHTHERIA,Diphtheria,494
+Countries,MEX,Mexico,2021,TETANUS,Neonatal Tetanus,1231
+Countries,MEX,Mexico,2021,POLIO,Poliomyelitis,79
+Countries,MEX,Mexico,2021,HEPB,Hepatitis B,1405
+Countries,MEX,Mexico,2021,TUBERCULOSIS,Tuberculosis,3048
+Countries,MEX,Mexico,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,7655
+Countries,MEX,Mexico,2021,INFLUENZA,Seasonal Influenza,7684
+Countries,MEX,Mexico,2022,MEASLES,Measles,2032
+Countries,MEX,Mexico,2022,PERTUSSIS,Pertussis (Whooping Cough),1330
+Countries,MEX,Mexico,2022,DIPHTHERIA,Diphtheria,7
+Countries,MEX,Mexico,2022,TETANUS,Neonatal Tetanus,215
+Countries,MEX,Mexico,2022,POLIO,Poliomyelitis,576
+Countries,MEX,Mexico,2022,HEPB,Hepatitis B,465
+Countries,MEX,Mexico,2022,TUBERCULOSIS,Tuberculosis,2767
+Countries,MEX,Mexico,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,6616
+Countries,MEX,Mexico,2022,INFLUENZA,Seasonal Influenza,7226
+Countries,MEX,Mexico,2023,MEASLES,Measles,1023
+Countries,MEX,Mexico,2023,PERTUSSIS,Pertussis (Whooping Cough),949
+Countries,MEX,Mexico,2023,DIPHTHERIA,Diphtheria,662
+Countries,MEX,Mexico,2023,TETANUS,Neonatal Tetanus,9
+Countries,MEX,Mexico,2023,POLIO,Poliomyelitis,629
+Countries,MEX,Mexico,2023,HEPB,Hepatitis B,1189
+Countries,MEX,Mexico,2023,TUBERCULOSIS,Tuberculosis,3058
+Countries,MEX,Mexico,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,3108
+Countries,MEX,Mexico,2023,INFLUENZA,Seasonal Influenza,6550
+Countries,MEX,Mexico,2024,MEASLES,Measles,1230
+Countries,MEX,Mexico,2024,PERTUSSIS,Pertussis (Whooping Cough),351
+Countries,MEX,Mexico,2024,DIPHTHERIA,Diphtheria,182
+Countries,MEX,Mexico,2024,TETANUS,Neonatal Tetanus,475
+Countries,MEX,Mexico,2024,POLIO,Poliomyelitis,113
+Countries,MEX,Mexico,2024,HEPB,Hepatitis B,11
+Countries,MEX,Mexico,2024,TUBERCULOSIS,Tuberculosis,2162
+Countries,MEX,Mexico,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,5280
+Countries,MEX,Mexico,2024,INFLUENZA,Seasonal Influenza,3865
+Countries,PAK,Pakistan,2010,MEASLES,Measles,10090
+Countries,PAK,Pakistan,2010,PERTUSSIS,Pertussis (Whooping Cough),6337
+Countries,PAK,Pakistan,2010,DIPHTHERIA,Diphtheria,157
+Countries,PAK,Pakistan,2010,TETANUS,Neonatal Tetanus,533
+Countries,PAK,Pakistan,2010,POLIO,Poliomyelitis,1143
+Countries,PAK,Pakistan,2010,HEPB,Hepatitis B,4729
+Countries,PAK,Pakistan,2010,TUBERCULOSIS,Tuberculosis,12055
+Countries,PAK,Pakistan,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,21170
+Countries,PAK,Pakistan,2010,INFLUENZA,Seasonal Influenza,39951
+Countries,PAK,Pakistan,2011,MEASLES,Measles,8379
+Countries,PAK,Pakistan,2011,PERTUSSIS,Pertussis (Whooping Cough),5323
+Countries,PAK,Pakistan,2011,DIPHTHERIA,Diphtheria,1750
+Countries,PAK,Pakistan,2011,TETANUS,Neonatal Tetanus,1561
+Countries,PAK,Pakistan,2011,POLIO,Poliomyelitis,1449
+Countries,PAK,Pakistan,2011,HEPB,Hepatitis B,4299
+Countries,PAK,Pakistan,2011,TUBERCULOSIS,Tuberculosis,13538
+Countries,PAK,Pakistan,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,19795
+Countries,PAK,Pakistan,2011,INFLUENZA,Seasonal Influenza,24260
+Countries,PAK,Pakistan,2012,MEASLES,Measles,8657
+Countries,PAK,Pakistan,2012,PERTUSSIS,Pertussis (Whooping Cough),5943
+Countries,PAK,Pakistan,2012,DIPHTHERIA,Diphtheria,966
+Countries,PAK,Pakistan,2012,TETANUS,Neonatal Tetanus,833
+Countries,PAK,Pakistan,2012,POLIO,Poliomyelitis,954
+Countries,PAK,Pakistan,2012,HEPB,Hepatitis B,6841
+Countries,PAK,Pakistan,2012,TUBERCULOSIS,Tuberculosis,11405
+Countries,PAK,Pakistan,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,22451
+Countries,PAK,Pakistan,2012,INFLUENZA,Seasonal Influenza,36124
+Countries,PAK,Pakistan,2013,MEASLES,Measles,6927
+Countries,PAK,Pakistan,2013,PERTUSSIS,Pertussis (Whooping Cough),7057
+Countries,PAK,Pakistan,2013,DIPHTHERIA,Diphtheria,9
+Countries,PAK,Pakistan,2013,TETANUS,Neonatal Tetanus,973
+Countries,PAK,Pakistan,2013,POLIO,Poliomyelitis,354
+Countries,PAK,Pakistan,2013,HEPB,Hepatitis B,5317
+Countries,PAK,Pakistan,2013,TUBERCULOSIS,Tuberculosis,13096
+Countries,PAK,Pakistan,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,18275
+Countries,PAK,Pakistan,2013,INFLUENZA,Seasonal Influenza,17768
+Countries,PAK,Pakistan,2014,MEASLES,Measles,8641
+Countries,PAK,Pakistan,2014,PERTUSSIS,Pertussis (Whooping Cough),5414
+Countries,PAK,Pakistan,2014,DIPHTHERIA,Diphtheria,201
+Countries,PAK,Pakistan,2014,TETANUS,Neonatal Tetanus,21
+Countries,PAK,Pakistan,2014,POLIO,Poliomyelitis,640
+Countries,PAK,Pakistan,2014,HEPB,Hepatitis B,4889
+Countries,PAK,Pakistan,2014,TUBERCULOSIS,Tuberculosis,14917
+Countries,PAK,Pakistan,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,24556
+Countries,PAK,Pakistan,2014,INFLUENZA,Seasonal Influenza,31513
+Countries,PAK,Pakistan,2015,MEASLES,Measles,8112
+Countries,PAK,Pakistan,2015,PERTUSSIS,Pertussis (Whooping Cough),6074
+Countries,PAK,Pakistan,2015,DIPHTHERIA,Diphtheria,1175
+Countries,PAK,Pakistan,2015,TETANUS,Neonatal Tetanus,926
+Countries,PAK,Pakistan,2015,POLIO,Poliomyelitis,1757
+Countries,PAK,Pakistan,2015,HEPB,Hepatitis B,4915
+Countries,PAK,Pakistan,2015,TUBERCULOSIS,Tuberculosis,14763
+Countries,PAK,Pakistan,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,16829
+Countries,PAK,Pakistan,2015,INFLUENZA,Seasonal Influenza,26279
+Countries,PAK,Pakistan,2016,MEASLES,Measles,5844
+Countries,PAK,Pakistan,2016,PERTUSSIS,Pertussis (Whooping Cough),2601
+Countries,PAK,Pakistan,2016,DIPHTHERIA,Diphtheria,1335
+Countries,PAK,Pakistan,2016,TETANUS,Neonatal Tetanus,495
+Countries,PAK,Pakistan,2016,POLIO,Poliomyelitis,988
+Countries,PAK,Pakistan,2016,HEPB,Hepatitis B,3857
+Countries,PAK,Pakistan,2016,TUBERCULOSIS,Tuberculosis,9241
+Countries,PAK,Pakistan,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,15483
+Countries,PAK,Pakistan,2016,INFLUENZA,Seasonal Influenza,23921
+Countries,PAK,Pakistan,2017,MEASLES,Measles,5230
+Countries,PAK,Pakistan,2017,PERTUSSIS,Pertussis (Whooping Cough),3471
+Countries,PAK,Pakistan,2017,DIPHTHERIA,Diphtheria,13
+Countries,PAK,Pakistan,2017,TETANUS,Neonatal Tetanus,485
+Countries,PAK,Pakistan,2017,POLIO,Poliomyelitis,2057
+Countries,PAK,Pakistan,2017,HEPB,Hepatitis B,4307
+Countries,PAK,Pakistan,2017,TUBERCULOSIS,Tuberculosis,9418
+Countries,PAK,Pakistan,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,14100
+Countries,PAK,Pakistan,2017,INFLUENZA,Seasonal Influenza,21578
+Countries,PAK,Pakistan,2018,MEASLES,Measles,4861
+Countries,PAK,Pakistan,2018,PERTUSSIS,Pertussis (Whooping Cough),6600
+Countries,PAK,Pakistan,2018,DIPHTHERIA,Diphtheria,12
+Countries,PAK,Pakistan,2018,TETANUS,Neonatal Tetanus,526
+Countries,PAK,Pakistan,2018,POLIO,Poliomyelitis,1584
+Countries,PAK,Pakistan,2018,HEPB,Hepatitis B,3696
+Countries,PAK,Pakistan,2018,TUBERCULOSIS,Tuberculosis,9583
+Countries,PAK,Pakistan,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,16291
+Countries,PAK,Pakistan,2018,INFLUENZA,Seasonal Influenza,21953
+Countries,PAK,Pakistan,2019,MEASLES,Measles,6695
+Countries,PAK,Pakistan,2019,PERTUSSIS,Pertussis (Whooping Cough),5020
+Countries,PAK,Pakistan,2019,DIPHTHERIA,Diphtheria,434
+Countries,PAK,Pakistan,2019,TETANUS,Neonatal Tetanus,1502
+Countries,PAK,Pakistan,2019,POLIO,Poliomyelitis,10
+Countries,PAK,Pakistan,2019,HEPB,Hepatitis B,3964
+Countries,PAK,Pakistan,2019,TUBERCULOSIS,Tuberculosis,11960
+Countries,PAK,Pakistan,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,14713
+Countries,PAK,Pakistan,2019,INFLUENZA,Seasonal Influenza,15714
+Countries,PAK,Pakistan,2020,MEASLES,Measles,5511
+Countries,PAK,Pakistan,2020,PERTUSSIS,Pertussis (Whooping Cough),4395
+Countries,PAK,Pakistan,2020,DIPHTHERIA,Diphtheria,501
+Countries,PAK,Pakistan,2020,TETANUS,Neonatal Tetanus,884
+Countries,PAK,Pakistan,2020,POLIO,Poliomyelitis,2699
+Countries,PAK,Pakistan,2020,HEPB,Hepatitis B,4624
+Countries,PAK,Pakistan,2020,TUBERCULOSIS,Tuberculosis,12372
+Countries,PAK,Pakistan,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,22476
+Countries,PAK,Pakistan,2020,INFLUENZA,Seasonal Influenza,27389
+Countries,PAK,Pakistan,2021,MEASLES,Measles,6432
+Countries,PAK,Pakistan,2021,PERTUSSIS,Pertussis (Whooping Cough),5336
+Countries,PAK,Pakistan,2021,DIPHTHERIA,Diphtheria,715
+Countries,PAK,Pakistan,2021,TETANUS,Neonatal Tetanus,449
+Countries,PAK,Pakistan,2021,POLIO,Poliomyelitis,897
+Countries,PAK,Pakistan,2021,HEPB,Hepatitis B,4810
+Countries,PAK,Pakistan,2021,TUBERCULOSIS,Tuberculosis,10279
+Countries,PAK,Pakistan,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,24598
+Countries,PAK,Pakistan,2021,INFLUENZA,Seasonal Influenza,27228
+Countries,PAK,Pakistan,2022,MEASLES,Measles,6785
+Countries,PAK,Pakistan,2022,PERTUSSIS,Pertussis (Whooping Cough),2830
+Countries,PAK,Pakistan,2022,DIPHTHERIA,Diphtheria,9
+Countries,PAK,Pakistan,2022,TETANUS,Neonatal Tetanus,10
+Countries,PAK,Pakistan,2022,POLIO,Poliomyelitis,976
+Countries,PAK,Pakistan,2022,HEPB,Hepatitis B,4052
+Countries,PAK,Pakistan,2022,TUBERCULOSIS,Tuberculosis,7655
+Countries,PAK,Pakistan,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,12284
+Countries,PAK,Pakistan,2022,INFLUENZA,Seasonal Influenza,17672
+Countries,PAK,Pakistan,2023,MEASLES,Measles,3187
+Countries,PAK,Pakistan,2023,PERTUSSIS,Pertussis (Whooping Cough),4357
+Countries,PAK,Pakistan,2023,DIPHTHERIA,Diphtheria,9
+Countries,PAK,Pakistan,2023,TETANUS,Neonatal Tetanus,1207
+Countries,PAK,Pakistan,2023,POLIO,Poliomyelitis,1923
+Countries,PAK,Pakistan,2023,HEPB,Hepatitis B,1591
+Countries,PAK,Pakistan,2023,TUBERCULOSIS,Tuberculosis,7646
+Countries,PAK,Pakistan,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,12990
+Countries,PAK,Pakistan,2023,INFLUENZA,Seasonal Influenza,10529
+Countries,PAK,Pakistan,2024,MEASLES,Measles,3600
+Countries,PAK,Pakistan,2024,PERTUSSIS,Pertussis (Whooping Cough),2798
+Countries,PAK,Pakistan,2024,DIPHTHERIA,Diphtheria,375
+Countries,PAK,Pakistan,2024,TETANUS,Neonatal Tetanus,9
+Countries,PAK,Pakistan,2024,POLIO,Poliomyelitis,29
+Countries,PAK,Pakistan,2024,HEPB,Hepatitis B,2527
+Countries,PAK,Pakistan,2024,TUBERCULOSIS,Tuberculosis,7430
+Countries,PAK,Pakistan,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,15488
+Countries,PAK,Pakistan,2024,INFLUENZA,Seasonal Influenza,17496
+Countries,BGD,Bangladesh,2010,MEASLES,Measles,8885
+Countries,BGD,Bangladesh,2010,PERTUSSIS,Pertussis (Whooping Cough),5135
+Countries,BGD,Bangladesh,2010,DIPHTHERIA,Diphtheria,1684
+Countries,BGD,Bangladesh,2010,TETANUS,Neonatal Tetanus,609
+Countries,BGD,Bangladesh,2010,POLIO,Poliomyelitis,1461
+Countries,BGD,Bangladesh,2010,HEPB,Hepatitis B,4326
+Countries,BGD,Bangladesh,2010,TUBERCULOSIS,Tuberculosis,15419
+Countries,BGD,Bangladesh,2010,ROTA_DIARRHEA,Rotavirus Diarrhea,23087
+Countries,BGD,Bangladesh,2010,INFLUENZA,Seasonal Influenza,26960
+Countries,BGD,Bangladesh,2011,MEASLES,Measles,6489
+Countries,BGD,Bangladesh,2011,PERTUSSIS,Pertussis (Whooping Cough),6078
+Countries,BGD,Bangladesh,2011,DIPHTHERIA,Diphtheria,10
+Countries,BGD,Bangladesh,2011,TETANUS,Neonatal Tetanus,10
+Countries,BGD,Bangladesh,2011,POLIO,Poliomyelitis,477
+Countries,BGD,Bangladesh,2011,HEPB,Hepatitis B,5735
+Countries,BGD,Bangladesh,2011,TUBERCULOSIS,Tuberculosis,11763
+Countries,BGD,Bangladesh,2011,ROTA_DIARRHEA,Rotavirus Diarrhea,25519
+Countries,BGD,Bangladesh,2011,INFLUENZA,Seasonal Influenza,25262
+Countries,BGD,Bangladesh,2012,MEASLES,Measles,8857
+Countries,BGD,Bangladesh,2012,PERTUSSIS,Pertussis (Whooping Cough),8979
+Countries,BGD,Bangladesh,2012,DIPHTHERIA,Diphtheria,393
+Countries,BGD,Bangladesh,2012,TETANUS,Neonatal Tetanus,8
+Countries,BGD,Bangladesh,2012,POLIO,Poliomyelitis,1144
+Countries,BGD,Bangladesh,2012,HEPB,Hepatitis B,3606
+Countries,BGD,Bangladesh,2012,TUBERCULOSIS,Tuberculosis,10371
+Countries,BGD,Bangladesh,2012,ROTA_DIARRHEA,Rotavirus Diarrhea,23475
+Countries,BGD,Bangladesh,2012,INFLUENZA,Seasonal Influenza,27720
+Countries,BGD,Bangladesh,2013,MEASLES,Measles,9779
+Countries,BGD,Bangladesh,2013,PERTUSSIS,Pertussis (Whooping Cough),4326
+Countries,BGD,Bangladesh,2013,DIPHTHERIA,Diphtheria,916
+Countries,BGD,Bangladesh,2013,TETANUS,Neonatal Tetanus,1131
+Countries,BGD,Bangladesh,2013,POLIO,Poliomyelitis,2673
+Countries,BGD,Bangladesh,2013,HEPB,Hepatitis B,4105
+Countries,BGD,Bangladesh,2013,TUBERCULOSIS,Tuberculosis,13214
+Countries,BGD,Bangladesh,2013,ROTA_DIARRHEA,Rotavirus Diarrhea,17904
+Countries,BGD,Bangladesh,2013,INFLUENZA,Seasonal Influenza,23306
+Countries,BGD,Bangladesh,2014,MEASLES,Measles,7122
+Countries,BGD,Bangladesh,2014,PERTUSSIS,Pertussis (Whooping Cough),4377
+Countries,BGD,Bangladesh,2014,DIPHTHERIA,Diphtheria,1318
+Countries,BGD,Bangladesh,2014,TETANUS,Neonatal Tetanus,1346
+Countries,BGD,Bangladesh,2014,POLIO,Poliomyelitis,1019
+Countries,BGD,Bangladesh,2014,HEPB,Hepatitis B,5373
+Countries,BGD,Bangladesh,2014,TUBERCULOSIS,Tuberculosis,15172
+Countries,BGD,Bangladesh,2014,ROTA_DIARRHEA,Rotavirus Diarrhea,25223
+Countries,BGD,Bangladesh,2014,INFLUENZA,Seasonal Influenza,19104
+Countries,BGD,Bangladesh,2015,MEASLES,Measles,5627
+Countries,BGD,Bangladesh,2015,PERTUSSIS,Pertussis (Whooping Cough),4829
+Countries,BGD,Bangladesh,2015,DIPHTHERIA,Diphtheria,900
+Countries,BGD,Bangladesh,2015,TETANUS,Neonatal Tetanus,9
+Countries,BGD,Bangladesh,2015,POLIO,Poliomyelitis,1156
+Countries,BGD,Bangladesh,2015,HEPB,Hepatitis B,4539
+Countries,BGD,Bangladesh,2015,TUBERCULOSIS,Tuberculosis,12205
+Countries,BGD,Bangladesh,2015,ROTA_DIARRHEA,Rotavirus Diarrhea,18589
+Countries,BGD,Bangladesh,2015,INFLUENZA,Seasonal Influenza,24145
+Countries,BGD,Bangladesh,2016,MEASLES,Measles,6468
+Countries,BGD,Bangladesh,2016,PERTUSSIS,Pertussis (Whooping Cough),5157
+Countries,BGD,Bangladesh,2016,DIPHTHERIA,Diphtheria,1940
+Countries,BGD,Bangladesh,2016,TETANUS,Neonatal Tetanus,561
+Countries,BGD,Bangladesh,2016,POLIO,Poliomyelitis,1491
+Countries,BGD,Bangladesh,2016,HEPB,Hepatitis B,3406
+Countries,BGD,Bangladesh,2016,TUBERCULOSIS,Tuberculosis,12638
+Countries,BGD,Bangladesh,2016,ROTA_DIARRHEA,Rotavirus Diarrhea,12467
+Countries,BGD,Bangladesh,2016,INFLUENZA,Seasonal Influenza,17761
+Countries,BGD,Bangladesh,2017,MEASLES,Measles,8082
+Countries,BGD,Bangladesh,2017,PERTUSSIS,Pertussis (Whooping Cough),3999
+Countries,BGD,Bangladesh,2017,DIPHTHERIA,Diphtheria,8
+Countries,BGD,Bangladesh,2017,TETANUS,Neonatal Tetanus,1005
+Countries,BGD,Bangladesh,2017,POLIO,Poliomyelitis,1439
+Countries,BGD,Bangladesh,2017,HEPB,Hepatitis B,4850
+Countries,BGD,Bangladesh,2017,TUBERCULOSIS,Tuberculosis,11706
+Countries,BGD,Bangladesh,2017,ROTA_DIARRHEA,Rotavirus Diarrhea,13355
+Countries,BGD,Bangladesh,2017,INFLUENZA,Seasonal Influenza,20725
+Countries,BGD,Bangladesh,2018,MEASLES,Measles,6494
+Countries,BGD,Bangladesh,2018,PERTUSSIS,Pertussis (Whooping Cough),3146
+Countries,BGD,Bangladesh,2018,DIPHTHERIA,Diphtheria,2725
+Countries,BGD,Bangladesh,2018,TETANUS,Neonatal Tetanus,1074
+Countries,BGD,Bangladesh,2018,POLIO,Poliomyelitis,944
+Countries,BGD,Bangladesh,2018,HEPB,Hepatitis B,3836
+Countries,BGD,Bangladesh,2018,TUBERCULOSIS,Tuberculosis,9370
+Countries,BGD,Bangladesh,2018,ROTA_DIARRHEA,Rotavirus Diarrhea,16825
+Countries,BGD,Bangladesh,2018,INFLUENZA,Seasonal Influenza,26813
+Countries,BGD,Bangladesh,2019,MEASLES,Measles,4442
+Countries,BGD,Bangladesh,2019,PERTUSSIS,Pertussis (Whooping Cough),4673
+Countries,BGD,Bangladesh,2019,DIPHTHERIA,Diphtheria,839
+Countries,BGD,Bangladesh,2019,TETANUS,Neonatal Tetanus,706
+Countries,BGD,Bangladesh,2019,POLIO,Poliomyelitis,1788
+Countries,BGD,Bangladesh,2019,HEPB,Hepatitis B,4680
+Countries,BGD,Bangladesh,2019,TUBERCULOSIS,Tuberculosis,10882
+Countries,BGD,Bangladesh,2019,ROTA_DIARRHEA,Rotavirus Diarrhea,17218
+Countries,BGD,Bangladesh,2019,INFLUENZA,Seasonal Influenza,14420
+Countries,BGD,Bangladesh,2020,MEASLES,Measles,7849
+Countries,BGD,Bangladesh,2020,PERTUSSIS,Pertussis (Whooping Cough),5044
+Countries,BGD,Bangladesh,2020,DIPHTHERIA,Diphtheria,412
+Countries,BGD,Bangladesh,2020,TETANUS,Neonatal Tetanus,614
+Countries,BGD,Bangladesh,2020,POLIO,Poliomyelitis,923
+Countries,BGD,Bangladesh,2020,HEPB,Hepatitis B,5363
+Countries,BGD,Bangladesh,2020,TUBERCULOSIS,Tuberculosis,8592
+Countries,BGD,Bangladesh,2020,ROTA_DIARRHEA,Rotavirus Diarrhea,21127
+Countries,BGD,Bangladesh,2020,INFLUENZA,Seasonal Influenza,26133
+Countries,BGD,Bangladesh,2021,MEASLES,Measles,6017
+Countries,BGD,Bangladesh,2021,PERTUSSIS,Pertussis (Whooping Cough),5143
+Countries,BGD,Bangladesh,2021,DIPHTHERIA,Diphtheria,156
+Countries,BGD,Bangladesh,2021,TETANUS,Neonatal Tetanus,580
+Countries,BGD,Bangladesh,2021,POLIO,Poliomyelitis,1603
+Countries,BGD,Bangladesh,2021,HEPB,Hepatitis B,4334
+Countries,BGD,Bangladesh,2021,TUBERCULOSIS,Tuberculosis,13091
+Countries,BGD,Bangladesh,2021,ROTA_DIARRHEA,Rotavirus Diarrhea,17654
+Countries,BGD,Bangladesh,2021,INFLUENZA,Seasonal Influenza,23113
+Countries,BGD,Bangladesh,2022,MEASLES,Measles,4128
+Countries,BGD,Bangladesh,2022,PERTUSSIS,Pertussis (Whooping Cough),2555
+Countries,BGD,Bangladesh,2022,DIPHTHERIA,Diphtheria,44
+Countries,BGD,Bangladesh,2022,TETANUS,Neonatal Tetanus,414
+Countries,BGD,Bangladesh,2022,POLIO,Poliomyelitis,11
+Countries,BGD,Bangladesh,2022,HEPB,Hepatitis B,3513
+Countries,BGD,Bangladesh,2022,TUBERCULOSIS,Tuberculosis,8682
+Countries,BGD,Bangladesh,2022,ROTA_DIARRHEA,Rotavirus Diarrhea,13226
+Countries,BGD,Bangladesh,2022,INFLUENZA,Seasonal Influenza,16268
+Countries,BGD,Bangladesh,2023,MEASLES,Measles,5545
+Countries,BGD,Bangladesh,2023,PERTUSSIS,Pertussis (Whooping Cough),3751
+Countries,BGD,Bangladesh,2023,DIPHTHERIA,Diphtheria,724
+Countries,BGD,Bangladesh,2023,TETANUS,Neonatal Tetanus,171
+Countries,BGD,Bangladesh,2023,POLIO,Poliomyelitis,92
+Countries,BGD,Bangladesh,2023,HEPB,Hepatitis B,4555
+Countries,BGD,Bangladesh,2023,TUBERCULOSIS,Tuberculosis,7247
+Countries,BGD,Bangladesh,2023,ROTA_DIARRHEA,Rotavirus Diarrhea,14297
+Countries,BGD,Bangladesh,2023,INFLUENZA,Seasonal Influenza,17015
+Countries,BGD,Bangladesh,2024,MEASLES,Measles,5810
+Countries,BGD,Bangladesh,2024,PERTUSSIS,Pertussis (Whooping Cough),3636
+Countries,BGD,Bangladesh,2024,DIPHTHERIA,Diphtheria,33
+Countries,BGD,Bangladesh,2024,TETANUS,Neonatal Tetanus,576
+Countries,BGD,Bangladesh,2024,POLIO,Poliomyelitis,522
+Countries,BGD,Bangladesh,2024,HEPB,Hepatitis B,2254
+Countries,BGD,Bangladesh,2024,TUBERCULOSIS,Tuberculosis,9316
+Countries,BGD,Bangladesh,2024,ROTA_DIARRHEA,Rotavirus Diarrhea,13400
+Countries,BGD,Bangladesh,2024,INFLUENZA,Seasonal Influenza,16134

@@ -1,0 +1,146 @@
+// ============================================================================
+// DAX Measure Library: Vaccination Data Analysis & Visualization
+// Platform: Microsoft Power BI Desktop / Power BI Service
+// Model: Star Schema (_Measures Table)
+// ============================================================================
+
+// ----------------------------------------------------------------------------
+// 1. CORE COVERAGE & LOGISTICAL MEASURES
+// ----------------------------------------------------------------------------
+
+// Mean Coverage Percentage across current context filter
+Average Coverage % = 
+AVERAGE(fact_coverage[coverage_pct])
+
+// Total Doses Administered
+Total Doses Administered = 
+SUM(fact_coverage[doses_administered])
+
+// Total Target Population across current filter
+Total Target Population = 
+SUM(fact_coverage[target_number])
+
+// Global Target Coverage % (Ratio of total doses to total eligible targets)
+Global Target Coverage % = 
+DIVIDE([Total Doses Administered], [Total Target Population], 0) * 100
+
+// WHO IA2030 Target Constant (95%)
+WHO 2030 Coverage Target % = 
+95.0
+
+// Coverage Gap to WHO 2030 Target
+Coverage Gap to Target % = 
+[WHO 2030 Coverage Target %] - [Average Coverage %]
+
+// ----------------------------------------------------------------------------
+// 2. ATTRITION & BOOSTER DROPOUT MEASURES
+// ----------------------------------------------------------------------------
+
+// Dose 1 Coverage (MCV1 / DTP1)
+MCV1 Coverage % = 
+CALCULATE([Average Coverage %], fact_coverage[antigen_code] = "MCV1")
+
+// Dose 2 Coverage (MCV2 Booster)
+MCV2 Coverage % = 
+CALCULATE([Average Coverage %], fact_coverage[antigen_code] = "MCV2")
+
+// Absolute MCV Dropout Percentage Points
+MCV Dropout Gap % = 
+[MCV1 Coverage %] - [MCV2 Coverage %]
+
+// Relative MCV Dropout Rate %
+MCV Dropout Rate % = 
+DIVIDE([MCV Dropout Gap %], [MCV1 Coverage %], 0) * 100
+
+// ----------------------------------------------------------------------------
+// 3. EPIDEMIOLOGICAL & INCIDENCE MEASURES
+// ----------------------------------------------------------------------------
+
+// Average Disease Incidence Rate per 100,000 population
+Average Incidence Rate = 
+AVERAGE(fact_incidence[incidence_rate])
+
+// Total Confirmed Reported Clinical Cases
+Total Reported Cases = 
+SUM(fact_reported_cases[reported_cases])
+
+// Peak Historical Reported Cases across all visible years
+Peak Historical Cases = 
+MAXX(ALLSELECTED(fact_reported_cases[year]), [Total Reported Cases])
+
+// Historical Case Reduction Percentage from Peak
+Disease Case Reduction % = 
+VAR MaxCases = [Peak Historical Cases]
+VAR CurrentCases = [Total Reported Cases]
+RETURN
+DIVIDE(MaxCases - CurrentCases, MaxCases, 0) * 100
+
+// Year-over-Year Case Growth %
+YoY Case Growth % = 
+VAR PrevYearCases = CALCULATE([Total Reported Cases], SAMEPERIODLASTYEAR(dim_calendar[Date]))
+RETURN
+DIVIDE([Total Reported Cases] - PrevYearCases, PrevYearCases, 0) * 100
+
+// Dynamic Outbreak Risk Alert
+Outbreak Risk Alert = 
+IF([Total Reported Cases] > 1.5 * CALCULATE([Total Reported Cases], DATEADD(dim_countries[country_code], -1, YEAR)),
+   "HIGH OUTBREAK RISK (URGENT)",
+   "STABLE ENDEMIC"
+)
+
+// ----------------------------------------------------------------------------
+// 4. EQUITY & SOCIOECONOMIC DISPARITY MEASURES
+// ----------------------------------------------------------------------------
+
+// Urban Coverage %
+Urban Coverage % = 
+CALCULATE([Average Coverage %], fact_socioeconomic[subgroup] = "Urban")
+
+// Rural Coverage %
+Rural Coverage % = 
+CALCULATE([Average Coverage %], fact_socioeconomic[subgroup] = "Rural")
+
+// Urban-Rural Disparity Gap (Percentage Points)
+Urban-Rural Coverage Gap % = 
+[Urban Coverage %] - [Rural Coverage %]
+
+// Female Coverage %
+Female Coverage % = 
+CALCULATE([Average Coverage %], fact_socioeconomic[subgroup] = "Female")
+
+// Male Coverage %
+Male Coverage % = 
+CALCULATE([Average Coverage %], fact_socioeconomic[subgroup] = "Male")
+
+// Gender Parity Ratio (Female / Male)
+Gender Parity Index = 
+DIVIDE([Female Coverage %], [Male Coverage %], 1.0)
+
+// Tertiary Caregiver Education Coverage %
+Tertiary Caregiver Coverage % = 
+CALCULATE([Average Coverage %], fact_socioeconomic[subgroup] = "Tertiary")
+
+// Primary Caregiver Education Coverage %
+Primary Caregiver Coverage % = 
+CALCULATE([Average Coverage %], fact_socioeconomic[subgroup] = "Primary or Less")
+
+// Education Equity Gap
+Education Equity Gap % = 
+[Tertiary Caregiver Coverage %] - [Primary Caregiver Coverage %]
+
+// ----------------------------------------------------------------------------
+// 5. RESOURCE ALLOCATION & FORECASTING MEASURES
+// ----------------------------------------------------------------------------
+
+// Operational Intervention Priority Classification
+Resource Allocation Priority = 
+SWITCH(
+    TRUE(),
+    [Average Coverage %] < 68.0, "Tier 1: Emergency Resource Intervention",
+    [Average Coverage %] < 80.0, "Tier 2: Targeted Outreach Expansion",
+    "Tier 3: Sustained Maintenance"
+)
+
+// Upcoming Year Projected Dose Demand (+2.5% birth rate + 10% wastage buffer)
+Projected Next Year Dose Demand = 
+[Total Target Population] * 1.025 * 1.10
