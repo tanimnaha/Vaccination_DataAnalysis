@@ -45,6 +45,7 @@
             flex-direction: column;
             gap: 20px;
             box-shadow: 2px 0 8px rgba(0,0,0,0.05);
+            flex-shrink: 0;
         }
 
         .brand {
@@ -107,9 +108,11 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 24px;
+            margin-bottom: 16px;
             padding-bottom: 16px;
             border-bottom: 1px solid var(--border);
+            flex-wrap: wrap;
+            gap: 16px;
         }
 
         .page-title h1 {
@@ -126,20 +129,74 @@
 
         .filter-group {
             display: flex;
-            gap: 12px;
+            gap: 10px;
             align-items: center;
+            flex-wrap: wrap;
         }
 
         .filter-select {
-            padding: 8px 14px;
+            padding: 8px 12px;
             border-radius: 6px;
             border: 1px solid var(--border);
             background: white;
             font-size: 13px;
-            font-weight: 500;
+            font-weight: 600;
             color: var(--text-main);
             outline: none;
             cursor: pointer;
+            transition: border-color 0.2s;
+        }
+        .filter-select:hover, .filter-select:focus {
+            border-color: var(--primary-light);
+        }
+
+        .filter-btn {
+            padding: 8px 14px;
+            border-radius: 6px;
+            border: 1px solid var(--border);
+            background: #ffffff;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--primary);
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+        }
+        .filter-btn:hover {
+            background: #f1f5f9;
+            border-color: #cbd5e1;
+        }
+
+        /* Active Filter Indicator Badge */
+        .active-filter-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            border-radius: 8px;
+            padding: 10px 16px;
+            margin-bottom: 20px;
+            font-size: 13px;
+            color: #166534;
+        }
+        .active-filter-bar strong {
+            color: #14532d;
+        }
+        .active-filter-chips {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+        .chip {
+            background: #ffffff;
+            border: 1px solid #86efac;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 12px;
         }
 
         /* KPI Cards Grid */
@@ -152,46 +209,38 @@
 
         .kpi-card {
             background: var(--card-bg);
-            padding: 20px;
-            border-radius: 12px;
             border: 1px solid var(--border);
-            box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+            border-radius: 12px;
+            padding: 20px;
             position: relative;
-            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+            transition: transform 0.2s, box-shadow 0.2s;
         }
 
-        .kpi-card::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 4px;
-            height: 100%;
-            background: var(--primary-light);
+        .kpi-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.06);
         }
-
-        .kpi-card.kpi-success::after { background: var(--success); }
-        .kpi-card.kpi-warning::after { background: var(--warning); }
-        .kpi-card.kpi-danger::after { background: var(--danger); }
 
         .kpi-title {
-            font-size: 12px;
+            font-size: 13px;
             font-weight: 600;
+            color: var(--text-muted);
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            color: var(--text-muted);
-            margin-bottom: 8px;
         }
 
         .kpi-value {
-            font-size: 26px;
-            font-weight: 700;
+            font-size: 28px;
+            font-weight: 800;
             color: var(--text-main);
+            margin: 8px 0;
+            transition: color 0.3s;
         }
 
         .kpi-sub {
             font-size: 12px;
-            margin-top: 6px;
+            font-weight: 500;
             display: flex;
             align-items: center;
             gap: 4px;
@@ -204,21 +253,21 @@
         .charts-row {
             display: grid;
             grid-template-columns: 2fr 1fr;
-            gap: 20px;
+            gap: 16px;
             margin-bottom: 24px;
         }
 
         .charts-row-equal {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 20px;
+            gap: 16px;
             margin-bottom: 24px;
         }
 
         .chart-card {
             background: var(--card-bg);
-            border-radius: 12px;
             border: 1px solid var(--border);
+            border-radius: 12px;
             padding: 20px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.02);
         }
@@ -232,25 +281,17 @@
 
         .chart-header h3 {
             font-size: 15px;
-            font-weight: 600;
+            font-weight: 700;
+            color: var(--text-main);
         }
 
         .chart-badge {
+            font-size: 11px;
             background: #eff6ff;
             color: var(--primary-light);
             padding: 4px 8px;
             border-radius: 4px;
-            font-size: 11px;
             font-weight: 600;
-        }
-
-        /* Tab Content Control */
-        .tab-panel {
-            display: none;
-        }
-
-        .tab-panel.active {
-            display: block;
         }
 
         /* Table Styling */
@@ -258,38 +299,60 @@
             width: 100%;
             border-collapse: collapse;
             font-size: 13px;
+            text-align: left;
+        }
+
+        th, td {
+            padding: 12px 14px;
+            border-bottom: 1px solid var(--border);
         }
 
         th {
-            text-align: left;
-            padding: 12px 14px;
-            background: #f1f5f9;
+            background-color: #f8fafc;
             color: var(--text-muted);
             font-weight: 600;
-            border-bottom: 1px solid var(--border);
+            text-transform: uppercase;
+            font-size: 11px;
+            letter-spacing: 0.5px;
         }
 
-        td {
-            padding: 12px 14px;
-            border-bottom: 1px solid var(--border);
-            color: var(--text-main);
-        }
-
-        tr:hover {
-            background: #f8fafc;
+        tr:hover td {
+            background-color: #f8fafc;
         }
 
         .status-pill {
-            display: inline-block;
-            padding: 4px 10px;
-            border-radius: 999px;
+            padding: 4px 8px;
+            border-radius: 12px;
             font-size: 11px;
             font-weight: 600;
+            display: inline-block;
         }
 
-        .status-high { background: #fee2e2; color: #b91c1c; }
-        .status-mod { background: #fef3c7; color: #b45309; }
-        .status-opt { background: #dcfce7; color: #15803d; }
+        .status-high { background-color: #fee2e2; color: #b91c1c; }
+        .status-mod { background-color: #fef3c7; color: #b45309; }
+        .status-opt { background-color: #dcfce7; color: #15803d; }
+
+        /* Tabs Content Display */
+        .tab-panel {
+            display: none;
+        }
+
+        .tab-panel.active {
+            display: block;
+            animation: fadeIn 0.2s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(4px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 1024px) {
+            .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+            .charts-row, .charts-row-equal { grid-template-columns: 1fr; }
+            body { flex-direction: column; }
+            .sidebar { width: 100%; }
+        }
     </style>
 </head>
 <body>
@@ -297,36 +360,34 @@
     <!-- Sidebar Navigation -->
     <div class="sidebar">
         <div class="brand">
-            <i class="fa-solid fa-syringe"></i>
+            <i class="fa-solid fa-chart-pie"></i>
             <div>
-                <h2>VaccineIntel</h2>
-                <span style="font-size: 11px; color: #94a3b8;">Power BI Report Suite</span>
+                <h2>VaccineIntel BI</h2>
+                <span style="font-size: 11px; color: #93c5fd;">Executive Power BI Prototype</span>
             </div>
         </div>
-
         <ul class="nav-menu">
             <li class="nav-item active" onclick="switchTab('page1')">
-                <i class="fa-solid fa-earth-americas"></i>
-                <span>1. Global Overview</span>
+                <i class="fa-solid fa-globe"></i>
+                <span>Executive Overview</span>
             </li>
             <li class="nav-item" onclick="switchTab('page2')">
-                <i class="fa-solid fa-virus-covid"></i>
-                <span>2. Disease & Outbreaks</span>
+                <i class="fa-solid fa-virus-slash"></i>
+                <span>Disease Control & Outbreaks</span>
             </li>
             <li class="nav-item" onclick="switchTab('page3')">
-                <i class="fa-solid fa-users-viewfinder"></i>
-                <span>3. Equity & Socioeconomic</span>
+                <i class="fa-solid fa-users"></i>
+                <span>Demographics & Equity</span>
             </li>
             <li class="nav-item" onclick="switchTab('page4')">
-                <i class="fa-solid fa-boxes-packing"></i>
-                <span>4. Supply & Demand</span>
+                <i class="fa-solid fa-boxes-stacked"></i>
+                <span>Supply & Demand Forecast</span>
             </li>
         </ul>
-
-        <div style="margin-top: auto; padding-top: 16px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 11px; color: #94a3b8;">
-            <p><strong>Database:</strong> SQLite 3NF</p>
-            <p><strong>Data Grain:</strong> Country-Year</p>
-            <p><strong>Target:</strong> WHO IA2030 (95%)</p>
+        <div style="margin-top: auto; padding: 12px; background: rgba(0,0,0,0.15); border-radius: 8px; font-size: 11px; color: #94a3b8;">
+            <p><strong>Database:</strong> SQLite 3NF Normalized</p>
+            <p style="margin-top: 4px;"><strong>DAX Library:</strong> 20+ Production Measures</p>
+            <p style="margin-top: 4px;"><strong>Scope:</strong> 15 Nations | 2010–2024</p>
         </div>
     </div>
 
@@ -340,8 +401,9 @@
                 <p id="tabDesc">Longitudinal analysis of vaccination coverage, incidence rates, and program reach (2010–2024)</p>
             </div>
             <div class="filter-group">
+                <label style="font-size: 12px; font-weight: 700; color: var(--text-muted);"><i class="fa-solid fa-earth-americas"></i> WHO Region:</label>
                 <select class="filter-select" id="regionFilter" onchange="updateDashboardData()">
-                    <option value="ALL">All WHO Regions</option>
+                    <option value="ALL">All WHO Regions (Global)</option>
                     <option value="AFRO">AFRO (Africa)</option>
                     <option value="AMRO">AMRO (Americas)</option>
                     <option value="EURO">EURO (Europe)</option>
@@ -349,12 +411,27 @@
                     <option value="EMRO">EMRO (Eastern Mediterranean)</option>
                     <option value="WPRO">WPRO (Western Pacific)</option>
                 </select>
+                <label style="font-size: 12px; font-weight: 700; color: var(--text-muted);"><i class="fa-regular fa-calendar"></i> Horizon:</label>
                 <select class="filter-select" id="yearFilter" onchange="updateDashboardData()">
                     <option value="ALL">2010 - 2024 (15 Yrs)</option>
                     <option value="RECENT">Recent 5 Yrs (2020-2024)</option>
                     <option value="PRE">Pre-Pandemic (2010-2019)</option>
                 </select>
+                <button class="filter-btn" onclick="resetFilters()">
+                    <i class="fa-solid fa-arrow-rotate-left"></i> Reset
+                </button>
             </div>
+        </div>
+
+        <!-- Active Filter Indicator Banner -->
+        <div class="active-filter-bar">
+            <div class="active-filter-chips">
+                <i class="fa-solid fa-circle-check"></i>
+                <span>Active Slicers:</span>
+                <span class="chip" id="chipRegion"><i class="fa-solid fa-earth-americas"></i> Global (All Regions)</span>
+                <span class="chip" id="chipYear"><i class="fa-regular fa-calendar"></i> 2010 - 2024</span>
+            </div>
+            <span style="font-size: 12px; font-weight: 500; color: #166534;" id="slicerStatusText">Displaying multi-year epidemiological aggregates across all monitored countries</span>
         </div>
 
         <!-- ========================================================= -->
@@ -364,24 +441,24 @@
             <!-- KPI Cards -->
             <div class="kpi-grid">
                 <div class="kpi-card">
-                    <div class="kpi-title">Global Mean Coverage</div>
+                    <div class="kpi-title">Mean Coverage Index</div>
                     <div class="kpi-value" id="kpiCoverage">76.8%</div>
-                    <div class="kpi-sub down"><i class="fa-solid fa-arrow-down"></i> 18.2% Gap to WHO 95% Target</div>
+                    <div class="kpi-sub down" id="kpiCoverageSub"><i class="fa-solid fa-arrow-down"></i> 18.2% Gap to WHO 95% Target</div>
                 </div>
-                <div class="kpi-card kpi-success">
+                <div class="kpi-card">
                     <div class="kpi-title">Total Doses Administered</div>
-                    <div class="kpi-value">1.48 B</div>
-                    <div class="kpi-sub up"><i class="fa-solid fa-arrow-up"></i> +1.1% Annual Cohort Growth</div>
+                    <div class="kpi-value" id="kpiDoses">1.48 B</div>
+                    <div class="kpi-sub up" id="kpiDosesSub"><i class="fa-solid fa-arrow-up"></i> +1.1% Annual Cohort Growth</div>
                 </div>
-                <div class="kpi-card kpi-warning">
+                <div class="kpi-card">
                     <div class="kpi-title">MCV1 to MCV2 Dropout</div>
-                    <div class="kpi-value">14.2%</div>
-                    <div class="kpi-sub down"><i class="fa-solid fa-triangle-exclamation"></i> Second-Year Retention Loss</div>
+                    <div class="kpi-value" id="kpiDropout">13.1%</div>
+                    <div class="kpi-sub down" id="kpiDropoutSub"><i class="fa-solid fa-triangle-exclamation"></i> Second-Year Retention Loss</div>
                 </div>
-                <div class="kpi-card kpi-danger">
+                <div class="kpi-card">
                     <div class="kpi-title">Mean Disease Incidence</div>
-                    <div class="kpi-value">74.2 / 100k</div>
-                    <div class="kpi-sub up"><i class="fa-solid fa-arrow-down"></i> -62.4% Suppression from 2010</div>
+                    <div class="kpi-value" id="kpiIncidence">74.2 / 100k</div>
+                    <div class="kpi-sub up" id="kpiIncidenceSub"><i class="fa-solid fa-arrow-down"></i> -62.4% Suppression from 2010</div>
                 </div>
             </div>
 
@@ -389,7 +466,7 @@
             <div class="charts-row">
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Longitudinal Trends: Coverage vs. Disease Incidence (2010–2024)</h3>
+                        <h3 id="trendChartTitle">Longitudinal Trends: Coverage vs. Disease Incidence (2010–2024)</h3>
                         <span class="chart-badge">Dual-Axis Trend</span>
                     </div>
                     <canvas id="trendChart" height="120"></canvas>
@@ -407,14 +484,14 @@
             <div class="charts-row-equal">
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Antigen Performance vs. WHO 90% Benchmark</h3>
+                        <h3 id="antigenChartTitle">Antigen Performance vs. WHO 90% Benchmark</h3>
                         <span class="chart-badge">Antigen Analysis</span>
                     </div>
                     <canvas id="antigenChart" height="130"></canvas>
                 </div>
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>WHO Coverage Performance Tier Stratification</h3>
+                        <h3 id="tierChartTitle">Coverage Performance Tier Stratification</h3>
                         <span class="chart-badge">Tier Breakdown</span>
                     </div>
                     <canvas id="tierDonutChart" height="130"></canvas>
@@ -427,39 +504,39 @@
         <!-- ========================================================= -->
         <div id="page2" class="tab-panel">
             <div class="kpi-grid">
-                <div class="kpi-card kpi-success">
+                <div class="kpi-card">
                     <div class="kpi-title">Max Case Reduction</div>
-                    <div class="kpi-value">88.4%</div>
-                    <div class="kpi-sub up">Achieved by Poliomyelitis (POL3)</div>
+                    <div class="kpi-value" id="kpiMaxReduction">88.4%</div>
+                    <div class="kpi-sub up" id="kpiMaxReductionSub">Achieved by Poliomyelitis (POL3)</div>
                 </div>
                 <div class="kpi-card">
                     <div class="kpi-title">Measles Suppression</div>
-                    <div class="kpi-value">82.1%</div>
-                    <div class="kpi-sub up">Post-2019 National Campaigns</div>
+                    <div class="kpi-value" id="kpiMeaslesSupp">82.1%</div>
+                    <div class="kpi-sub up" id="kpiMeaslesSuppSub">Post-2019 National Campaigns</div>
                 </div>
-                <div class="kpi-card kpi-danger">
-                    <div class="kpi-title">High-Risk Active Outbreaks</div>
-                    <div class="kpi-value">4 Hubs</div>
-                    <div class="kpi-sub down">SEARO / AMRO Urban Centers</div>
+                <div class="kpi-card">
+                    <div class="kpi-title">Active Outbreak Hubs</div>
+                    <div class="kpi-value" id="kpiOutbreakHubs">4 Hubs</div>
+                    <div class="kpi-sub down" id="kpiOutbreakHubsSub">SEARO / AMRO Urban Centers</div>
                 </div>
-                <div class="kpi-card kpi-warning">
+                <div class="kpi-card">
                     <div class="kpi-title">Rotavirus Impact</div>
-                    <div class="kpi-value">-68.4%</div>
-                    <div class="kpi-sub up">Reduction Post Full Rollout</div>
+                    <div class="kpi-value" id="kpiRotaImpact">-68.4%</div>
+                    <div class="kpi-sub up" id="kpiRotaImpactSub">Reduction Post Full Rollout</div>
                 </div>
             </div>
 
             <div class="charts-row-equal">
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Historical Disease Reduction (%) from Peak Burden</h3>
+                        <h3 id="reductionChartTitle">Historical Disease Reduction (%) from Peak Burden</h3>
                         <span class="chart-badge">Efficacy Benchmark</span>
                     </div>
                     <canvas id="reductionBarChart" height="140"></canvas>
                 </div>
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Mean Reported Cases: Pre vs. Post Vaccine Introduction</h3>
+                        <h3 id="introChartTitle">Mean Annual Cases: Pre vs. Post Vaccine Introduction</h3>
                         <span class="chart-badge">Policy Impact</span>
                     </div>
                     <canvas id="introCompareChart" height="140"></canvas>
@@ -469,7 +546,7 @@
             <!-- Outbreak Risk Table -->
             <div class="chart-card">
                 <div class="chart-header">
-                    <h3>High-Risk Outbreak Surveillance & Priority Response Matrix</h3>
+                    <h3 id="outbreakTableTitle">High-Risk Outbreak Surveillance & Priority Response Matrix</h3>
                     <span class="chart-badge">Surveillance Monitor</span>
                 </div>
                 <table>
@@ -484,43 +561,7 @@
                             <th>Recommended Action</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>AFRO</strong></td>
-                            <td>Nigeria (NGA)</td>
-                            <td>Measles (MCV)</td>
-                            <td>124.6</td>
-                            <td>65.8%</td>
-                            <td><span class="status-pill status-high">HIGH RISK</span></td>
-                            <td>Emergency Mobile Ring Vaccination</td>
-                        </tr>
-                        <tr>
-                            <td><strong>SEARO</strong></td>
-                            <td>India (IND)</td>
-                            <td>Seasonal Influenza</td>
-                            <td>215.2</td>
-                            <td>72.4%</td>
-                            <td><span class="status-pill status-high">OUTBREAK CLUSTER</span></td>
-                            <td>Release Strategic Antiviral Stockpile</td>
-                        </tr>
-                        <tr>
-                            <td><strong>EMRO</strong></td>
-                            <td>Egypt (EGY)</td>
-                            <td>Rotavirus Diarrhea</td>
-                            <td>94.8</td>
-                            <td>68.9%</td>
-                            <td><span class="status-pill status-mod">MODERATE RISK</span></td>
-                            <td>Expand Oral Rotavirus Cold-Chain</td>
-                        </tr>
-                        <tr>
-                            <td><strong>AMRO</strong></td>
-                            <td>Brazil (BRA)</td>
-                            <td>Pertussis (DTP)</td>
-                            <td>24.2</td>
-                            <td>84.6%</td>
-                            <td><span class="status-pill status-opt">STABLE</span></td>
-                            <td>Sustain Routine Clinic Registry</td>
-                        </tr>
+                    <tbody id="outbreakTableBody">
                     </tbody>
                 </table>
             </div>
@@ -531,39 +572,39 @@
         <!-- ========================================================= -->
         <div id="page3" class="tab-panel">
             <div class="kpi-grid">
-                <div class="kpi-card kpi-warning">
+                <div class="kpi-card">
                     <div class="kpi-title">Urban-Rural Disparity</div>
-                    <div class="kpi-value">14.2%</div>
-                    <div class="kpi-sub down">Urban (83.4%) vs Rural (69.2%)</div>
+                    <div class="kpi-value" id="kpiUrbanRural">14.2%</div>
+                    <div class="kpi-sub down" id="kpiUrbanRuralSub">Urban (83.4%) vs Rural (69.2%)</div>
                 </div>
-                <div class="kpi-card kpi-danger">
+                <div class="kpi-card">
                     <div class="kpi-title">Caregiver Literacy Gap</div>
-                    <div class="kpi-value">21.1%</div>
-                    <div class="kpi-sub down">Tertiary (86.5%) vs Primary (65.4%)</div>
+                    <div class="kpi-value" id="kpiLiteracyGap">21.1%</div>
+                    <div class="kpi-sub down" id="kpiLiteracyGapSub">Tertiary (86.5%) vs Primary (65.4%)</div>
                 </div>
-                <div class="kpi-card kpi-success">
+                <div class="kpi-card">
                     <div class="kpi-title">Gender Parity Index</div>
-                    <div class="kpi-value">1.02</div>
-                    <div class="kpi-sub up">Equitable (Female 77.4% / Male 75.8%)</div>
+                    <div class="kpi-value" id="kpiGenderParity">1.02</div>
+                    <div class="kpi-sub up" id="kpiGenderParitySub">Equitable (Female 77.4% / Male 75.8%)</div>
                 </div>
-                <div class="kpi-card kpi-success">
+                <div class="kpi-card">
                     <div class="kpi-title">Optimal Delivery Model</div>
-                    <div class="kpi-value">Door-to-Door</div>
-                    <div class="kpi-sub up">79.6% Coverage | 8.4% Dropout</div>
+                    <div class="kpi-value" id="kpiDeliveryModel">Door-to-Door</div>
+                    <div class="kpi-sub up" id="kpiDeliveryModelSub">79.6% Coverage | 8.4% Dropout</div>
                 </div>
             </div>
 
             <div class="charts-row-equal">
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Geographic Equity: Urban vs. Rural by Income Group</h3>
+                        <h3 id="urbanRuralChartTitle">Geographic Equity: Urban vs. Rural by Socioeconomic Zone</h3>
                         <span class="chart-badge">Spatial Equity</span>
                     </div>
                     <canvas id="urbanRuralChart" height="140"></canvas>
                 </div>
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Caregiver Education Level Impact on Child Coverage</h3>
+                        <h3 id="educationChartTitle">Caregiver Education Level Impact on Child Coverage</h3>
                         <span class="chart-badge">Literacy Gradient</span>
                     </div>
                     <canvas id="educationChart" height="140"></canvas>
@@ -573,14 +614,14 @@
             <div class="charts-row-equal">
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Delivery Modality Performance: Coverage vs. Dropout Rate</h3>
+                        <h3 id="strategyChartTitle">Delivery Modality Performance: Coverage vs. Dropout Rate</h3>
                         <span class="chart-badge">Operational Model</span>
                     </div>
                     <canvas id="strategyChart" height="140"></canvas>
                 </div>
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Seasonal Uptake Peak by WHO Region</h3>
+                        <h3 id="seasonChartTitle">Seasonal Uptake Distribution by Quarter</h3>
                         <span class="chart-badge">Seasonality</span>
                     </div>
                     <canvas id="seasonChart" height="140"></canvas>
@@ -593,31 +634,31 @@
         <!-- ========================================================= -->
         <div id="page4" class="tab-panel">
             <div class="kpi-grid">
-                <div class="kpi-card kpi-success">
+                <div class="kpi-card">
                     <div class="kpi-title">Next Year Forecast Doses</div>
-                    <div class="kpi-value">1.67 B</div>
-                    <div class="kpi-sub up">+2.5% Birth Rate + 10% Buffer</div>
+                    <div class="kpi-value" id="kpiForecastDoses">1.67 B</div>
+                    <div class="kpi-sub up" id="kpiForecastDosesSub">+2.5% Birth Rate + 10% Buffer</div>
                 </div>
-                <div class="kpi-card kpi-danger">
+                <div class="kpi-card">
                     <div class="kpi-title">Emergency Priority Nations</div>
-                    <div class="kpi-value">3 Countries</div>
-                    <div class="kpi-sub down">NGA, KEN, EGY (<68% Coverage)</div>
+                    <div class="kpi-value" id="kpiEmergencyNations">3 Nations</div>
+                    <div class="kpi-sub down" id="kpiEmergencyNationsSub">NGA, KEN, BGD (<70% Coverage)</div>
                 </div>
-                <div class="kpi-card kpi-warning">
+                <div class="kpi-card">
                     <div class="kpi-title">Booster Attrition Volume</div>
-                    <div class="kpi-value">48.2 M</div>
-                    <div class="kpi-sub down">Estimated Uncompleted Boosters</div>
+                    <div class="kpi-value" id="kpiAttritionVolume">48.2 M</div>
+                    <div class="kpi-sub down" id="kpiAttritionVolumeSub">Estimated Uncompleted Boosters</div>
                 </div>
                 <div class="kpi-card">
                     <div class="kpi-title">Buffer Safety Margin</div>
-                    <div class="kpi-value">10.0%</div>
-                    <div class="kpi-sub up">Guards Against Wastage & Cold Loss</div>
+                    <div class="kpi-value" id="kpiBufferMargin">10.0%</div>
+                    <div class="kpi-sub up" id="kpiBufferMarginSub">Guards Against Wastage & Cold Loss</div>
                 </div>
             </div>
 
             <div class="chart-card" style="margin-bottom: 24px;">
                 <div class="chart-header">
-                    <h3>2025 Upcoming Annual Vaccine Dose Demand Projections (Top Nations)</h3>
+                    <h3 id="forecastTableTitle">2025 Upcoming Annual Vaccine Dose Demand Projections</h3>
                     <span class="chart-badge">Forecasting Model</span>
                 </div>
                 <table>
@@ -627,51 +668,11 @@
                             <th>Priority Antigen</th>
                             <th>Current Target Population</th>
                             <th>Projected Target (+2.5%)</th>
-                            <th>Procurement Demand (with 10% Buffer)</th>
+                            <th>Procurement Demand (with Buffer)</th>
                             <th>Logistical Priority Tier</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>India (IND)</strong></td>
-                            <td>MCV1 (Measles 1st Dose)</td>
-                            <td>23,800,000</td>
-                            <td>24,395,000</td>
-                            <td><strong>26,834,500</strong></td>
-                            <td><span class="status-pill status-opt">High Volume Hub</span></td>
-                        </tr>
-                        <tr>
-                            <td><strong>China (CHN)</strong></td>
-                            <td>DTP3 (Pentavalent Booster)</td>
-                            <td>18,400,000</td>
-                            <td>18,860,000</td>
-                            <td><strong>20,746,000</strong></td>
-                            <td><span class="status-pill status-opt">High Volume Hub</span></td>
-                        </tr>
-                        <tr>
-                            <td><strong>Nigeria (NGA)</strong></td>
-                            <td>POL3 (Polio 3rd Dose)</td>
-                            <td>6,600,000</td>
-                            <td>6,765,000</td>
-                            <td><strong>7,441,500</strong></td>
-                            <td><span class="status-pill status-high">Tier 1 Emergency</span></td>
-                        </tr>
-                        <tr>
-                            <td><strong>Indonesia (IDN)</strong></td>
-                            <td>ROTA (Rotavirus Vaccine)</td>
-                            <td>4,700,000</td>
-                            <td>4,817,500</td>
-                            <td><strong>5,299,250</strong></td>
-                            <td><span class="status-pill status-mod">Tier 2 Outreach</span></td>
-                        </tr>
-                        <tr>
-                            <td><strong>Kenya (KEN)</strong></td>
-                            <td>PCV3 (Pneumococcal)</td>
-                            <td>1,650,000</td>
-                            <td>1,691,250</td>
-                            <td><strong>1,860,375</strong></td>
-                            <td><span class="status-pill status-high">Tier 1 Emergency</span></td>
-                        </tr>
+                    <tbody id="forecastTableBody">
                     </tbody>
                 </table>
             </div>
@@ -679,14 +680,14 @@
             <div class="charts-row-equal">
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Dose Attrition Waterfall: Step-Down Losses Across Schedule Rounds</h3>
+                        <h3 id="waterfallChartTitle">Dose Attrition Waterfall: Step-Down Retention Across Rounds</h3>
                         <span class="chart-badge">Retention Funnel</span>
                     </div>
                     <canvas id="waterfallChart" height="140"></canvas>
                 </div>
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Resource Allocation Priority Breakdown</h3>
+                        <h3 id="priorityChartTitle">Resource Allocation Priority Breakdown</h3>
                         <span class="chart-badge">Action Matrix</span>
                     </div>
                     <canvas id="priorityDonutChart" height="140"></canvas>
@@ -716,210 +717,260 @@
 
             document.getElementById('tabTitle').innerText = tabTitles[tabId].title;
             document.getElementById('tabDesc').innerText = tabTitles[tabId].desc;
+
+            // Trigger chart redraw to handle canvas resize
+            Object.values(window.dashboardCharts || {}).forEach(c => {
+                if (c && typeof c.resize === 'function') c.resize();
+            });
         }
+
+        // Master Data Repository
+        const DATA = {"ALL": {"name": "Global (All WHO Regions)", "kpis": {"cov": "76.8%", "covSub": "18.2% Gap to WHO 95% Target", "covClass": "down", "doses": "1.48 B", "dosesSub": "+1.1% Annual Cohort Growth", "dosesClass": "up", "dropout": "13.1%", "dropoutSub": "Second-Year Retention Loss", "dropoutClass": "down", "inc": "74.2 / 100k", "incSub": "-62.4% Suppression from 2010", "incClass": "up", "p2_red": "88.4%", "p2_redSub": "Achieved by Poliomyelitis (POL3)", "p2_redClass": "up", "p2_measles": "82.1%", "p2_measlesSub": "Post-2019 National Campaigns", "p2_measlesClass": "up", "p2_hubs": "4 Hubs", "p2_hubsSub": "SEARO / AMRO Urban Centers", "p2_hubsClass": "down", "p2_rota": "-68.4%", "p2_rotaSub": "Reduction Post Full Rollout", "p2_rotaClass": "up", "p3_ur": "14.2%", "p3_urSub": "Urban (83.4%) vs Rural (69.2%)", "p3_urClass": "down", "p3_lit": "21.1%", "p3_litSub": "Tertiary (86.5%) vs Primary (65.4%)", "p3_litClass": "down", "p3_gp": "1.02", "p3_gpSub": "Equitable (Female 77.4% / Male 75.8%)", "p3_gpClass": "up", "p3_model": "Door-to-Door", "p3_modelSub": "79.6% Coverage | 8.4% Dropout", "p3_modelClass": "up", "p4_fc": "1.67 B", "p4_fcSub": "+2.5% Birth Rate + 10% Buffer", "p4_fcClass": "up", "p4_em": "3 Nations", "p4_emSub": "NGA, KEN, BGD (<70% Coverage)", "p4_emClass": "down", "p4_att": "48.2 M", "p4_attSub": "Estimated Uncompleted Boosters", "p4_attClass": "down", "p4_buf": "10.0%", "p4_bufSub": "Guards Against Wastage & Cold Loss", "p4_bufClass": "up"}, "trend": {"years": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"], "cov": [75.0, 75.6, 76.7, 76.8, 77.8, 79.2, 79.8, 80.6, 81.1, 82.0, 76.6, 77.4, 84.4, 84.9, 85.2], "inc": [51.3, 50.8, 48.3, 47.1, 45.2, 43.0, 40.7, 38.4, 38.3, 35.5, 47.9, 46.2, 31.3, 30.9, 29.6]}, "antigens": {"labels": ["BCG", "DTP1", "MCV1", "IPV1", "ROTA", "HEPB3", "POL3", "HPV"], "data": [85.8, 85.6, 85.5, 80.6, 80.4, 80.3, 79.9, 72.5]}, "tier": [34.2, 37.4, 28.4], "reduction": {"labels": ["POLIO", "DIPHTHERIA", "MEASLES", "ROTA_DIARRHEA", "HEPB", "INFLUENZA"], "data": [88.4, 85.2, 82.1, 68.4, 62.8, 48.6]}, "intro": [121500, 82400, 38400], "urbanRural": {"labels": ["High Income", "Upper-Middle", "Lower-Middle", "Low Income"], "urban": [89.4, 85.2, 81.1, 74.5], "rural": [84.1, 76.8, 68.2, 58.4]}, "education": [86.5, 77.8, 65.4], "strategy": {"labels": ["Door-to-Door Outreach", "Mobile Outreach Unit", "Centralized Health Clinic"], "cov": [79.6, 77.8, 68.2], "dropout": [8.4, 9.8, 14.1]}, "season": [74.5, 72.8, 76.4, 83.2], "waterfall": [85.8, 80.6, 74.2, 68.1], "priority": [20.0, 46.7, 33.3], "outbreakTable": [{"region": "AFRO", "country": "Nigeria (NGA)", "pathogen": "Measles (MCV)", "inc": "124.6", "cov": "65.8%", "status": "HIGH RISK", "statusClass": "status-high", "action": "Emergency Mobile Ring Vaccination"}, {"region": "SEARO", "country": "India (IND)", "pathogen": "Seasonal Influenza", "inc": "215.2", "cov": "72.4%", "status": "OUTBREAK CLUSTER", "statusClass": "status-high", "action": "Release Strategic Antiviral Stockpile"}, {"region": "EMRO", "country": "Egypt (EGY)", "pathogen": "Rotavirus Diarrhea", "inc": "94.8", "cov": "68.9%", "status": "MODERATE RISK", "statusClass": "status-mod", "action": "Expand Oral Rotavirus Cold-Chain"}, {"region": "AMRO", "country": "Brazil (BRA)", "pathogen": "Pertussis (DTP)", "inc": "24.2", "cov": "84.6%", "status": "STABLE", "statusClass": "status-opt", "action": "Sustain Routine Clinic Registry"}, {"region": "EURO", "country": "United Kingdom (GBR)", "pathogen": "Seasonal Influenza", "inc": "18.5", "cov": "91.3%", "status": "CONTROLLED", "statusClass": "status-opt", "action": "Annual Seasonal Booster Campaign"}], "forecastTable": [{"country": "India (IND)", "antigen": "MCV1 (Measles 1st Dose)", "target": "23,800,000", "proj": "24,395,000", "demand": "26,834,500", "tier": "High Volume Hub", "tierClass": "status-opt"}, {"country": "China (CHN)", "antigen": "DTP3 (Pentavalent Booster)", "target": "18,400,000", "proj": "18,860,000", "demand": "20,746,000", "tier": "High Volume Hub", "tierClass": "status-opt"}, {"country": "Nigeria (NGA)", "antigen": "POL3 (Polio 3rd Dose)", "target": "6,600,000", "proj": "6,765,000", "demand": "7,441,500", "tier": "Tier 1 Emergency", "tierClass": "status-high"}, {"country": "Indonesia (IDN)", "antigen": "ROTA (Rotavirus Vaccine)", "target": "4,700,000", "proj": "4,817,500", "demand": "5,299,250", "tier": "Tier 2 Outreach", "tierClass": "status-mod"}, {"country": "Kenya (KEN)", "antigen": "PCV3 (Pneumococcal)", "target": "1,650,000", "proj": "1,691,250", "demand": "1,860,375", "tier": "Tier 1 Emergency", "tierClass": "status-high"}]}, "AFRO": {"name": "AFRO (African Region)", "kpis": {"cov": "73.6%", "covSub": "21.4% Gap to WHO 95% Target", "covClass": "down", "doses": "311.9 M", "dosesSub": "+2.4% High Demographic Growth", "dosesClass": "up", "dropout": "14.6%", "dropoutSub": "Severe Remote Booster Loss", "dropoutClass": "down", "inc": "60.7 / 100k", "incSub": "-41.4% Since Vaccine Introduction", "incClass": "up", "p2_red": "81.2%", "p2_redSub": "Poliomyelitis Suppression", "p2_redClass": "up", "p2_measles": "74.2%", "p2_measlesSub": "Measles Burden Drop", "p2_measlesClass": "up", "p2_hubs": "2 Hubs", "p2_hubsSub": "Northern Nigeria & Kenya Slums", "p2_hubsClass": "down", "p2_rota": "-58.6%", "p2_rotaSub": "Rotavirus Diarrhea Reduction", "p2_rotaClass": "up", "p3_ur": "18.6%", "p3_urSub": "Urban (78.4%) vs Rural (59.8%)", "p3_urClass": "down", "p3_lit": "24.4%", "p3_litSub": "Tertiary (81.2%) vs Primary (56.8%)", "p3_litClass": "down", "p3_gp": "1.03", "p3_gpSub": "Parity Maintained (F 74.2% / M 72.1%)", "p3_gpClass": "up", "p3_model": "Mobile Unit", "p3_modelSub": "77.8% Coverage in Nomadic Belts", "p3_modelClass": "up", "p4_fc": "343.1 M", "p4_fcSub": "+2.8% Birth Growth + 12% Buffer", "p4_fcClass": "up", "p4_em": "2 Nations", "p4_emSub": "Nigeria & Kenya (Priority Tier 1)", "p4_emClass": "down", "p4_att": "16.2 M", "p4_attSub": "Rural MCV2 Booster Dropout", "p4_attClass": "down", "p4_buf": "12.0%", "p4_bufSub": "Elevated Cold-Chain Buffer", "p4_bufClass": "up"}, "trend": {"years": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"], "cov": [69.4, 70.1, 70.6, 71.2, 71.5, 73.4, 72.9, 74.7, 74.9, 77.3, 70.8, 71.3, 77.4, 79.5, 79.3], "inc": [74.2, 71.6, 68.7, 65.3, 65.2, 61.5, 63.8, 56.0, 57.2, 49.9, 70.4, 67.5, 50.3, 45.5, 43.5]}, "antigens": {"labels": ["BCG", "DTP1", "MCV1", "IPV1", "ROTA", "HEPB3", "POL3", "DTP3"], "data": [80.6, 80.4, 80.2, 74.9, 74.5, 74.2, 74.2, 66.5]}, "tier": [18.5, 42.1, 39.4], "reduction": {"labels": ["POLIO", "DIPHTHERIA", "MEASLES", "ROTA_DIARRHEA", "HEPB", "INFLUENZA"], "data": [81.2, 78.5, 74.2, 58.6, 51.2, 38.4]}, "intro": [185000, 128000, 62500], "urbanRural": {"labels": ["Urban Centers", "Peri-Urban", "Rural Agrarian", "Remote Pastoral"], "urban": [81.2, 76.5, 68.4, 59.8], "rural": [72.4, 66.1, 56.2, 44.5]}, "education": [81.2, 71.4, 56.8], "strategy": {"labels": ["Mobile Outreach Unit", "Door-to-Door Outreach", "Centralized Health Clinic"], "cov": [78.4, 75.1, 62.8], "dropout": [9.1, 10.4, 17.5]}, "season": [82.1, 85.4, 68.2, 71.5], "waterfall": [80.6, 74.9, 68.5, 61.2], "priority": [50.0, 35.0, 15.0], "outbreakTable": [{"region": "AFRO", "country": "Nigeria (NGA)", "pathogen": "Measles (MCV)", "inc": "124.6", "cov": "65.8%", "status": "HIGH RISK", "statusClass": "status-high", "action": "Emergency Mobile Ring Vaccination"}, {"region": "AFRO", "country": "Kenya (KEN)", "pathogen": "Pneumococcal (PCV)", "inc": "88.2", "cov": "69.4%", "status": "MODERATE RISK", "statusClass": "status-mod", "action": "Expand Last-Mile Solar Refrigeration"}, {"region": "AFRO", "country": "South Africa (ZAF)", "pathogen": "Seasonal Influenza", "inc": "32.1", "cov": "82.0%", "status": "STABLE", "statusClass": "status-opt", "action": "Maintain Urban Winter Booster Drive"}], "forecastTable": [{"country": "Nigeria (NGA)", "antigen": "POL3 (Polio 3rd Dose)", "target": "6,600,000", "proj": "6,765,000", "demand": "7,441,500", "tier": "Tier 1 Emergency", "tierClass": "status-high"}, {"country": "Kenya (KEN)", "antigen": "PCV3 (Pneumococcal)", "target": "1,650,000", "proj": "1,691,250", "demand": "1,860,375", "tier": "Tier 1 Emergency", "tierClass": "status-high"}, {"country": "South Africa (ZAF)", "antigen": "MCV2 (Measles Booster)", "target": "2,200,000", "proj": "2,255,000", "demand": "2,480,500", "tier": "Tier 2 Outreach", "tierClass": "status-mod"}]}, "AMRO": {"name": "AMRO (Region of the Americas)", "kpis": {"cov": "85.4%", "covSub": "9.6% Gap to WHO 95% Target", "covClass": "down", "doses": "390.1 M", "dosesSub": "+0.8% Established Registry", "dosesClass": "up", "dropout": "11.8%", "dropoutSub": "Controlled Urban Attrition", "dropoutClass": "up", "inc": "20.1 / 100k", "incSub": "-71.2% Reduction Since 2010", "incClass": "up", "p2_red": "92.4%", "p2_redSub": "Polio Eradication Sustained", "p2_redClass": "up", "p2_measles": "88.6%", "p2_measlesSub": "PAHO Measles Verification", "p2_measlesClass": "up", "p2_hubs": "1 Hub", "p2_hubsSub": "Localized Amazonian Disparity", "p2_hubsClass": "down", "p2_rota": "-76.5%", "p2_rotaSub": "Universal Oral Rollout", "p2_rotaClass": "up", "p3_ur": "9.8%", "p3_urSub": "Urban (89.2%) vs Rural (79.4%)", "p3_urClass": "up", "p3_lit": "16.9%", "p3_litSub": "Tertiary (91.4%) vs Primary (74.5%)", "p3_litClass": "down", "p3_gp": "1.01", "p3_gpSub": "High Parity (F 85.8% / M 85.0%)", "p3_gpClass": "up", "p3_model": "Central Clinic", "p3_modelSub": "Integrated Digital Scheduling", "p3_modelClass": "up", "p4_fc": "429.1 M", "p4_fcSub": "+1.2% Growth + 8% Buffer", "p4_fcClass": "up", "p4_em": "0 Nations", "p4_emSub": "No Tier 1 Emergency Alerts", "p4_emClass": "up", "p4_att": "8.4 M", "p4_attSub": "Adolescent HPV Disparity", "p4_attClass": "down", "p4_buf": "8.0%", "p4_bufSub": "Optimized Cold-Chain Supply", "p4_bufClass": "up"}, "trend": {"years": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"], "cov": [80.5, 81.3, 83.2, 82.2, 84.6, 85.7, 85.6, 87.0, 86.1, 86.7, 82.4, 84.1, 90.3, 90.6, 91.1], "inc": [25.0, 26.3, 23.1, 25.3, 19.5, 19.0, 19.8, 18.5, 19.4, 18.7, 22.3, 20.2, 16.4, 14.6, 14.0]}, "antigens": {"labels": ["BCG", "DTP1", "MCV1", "IPV1", "ROTA", "POL3", "HEPB3", "HPV"], "data": [91.7, 91.3, 90.6, 86.4, 86.4, 86.0, 85.9, 79.0]}, "tier": [58.4, 32.2, 9.4], "reduction": {"labels": ["POLIO", "DIPHTHERIA", "MEASLES", "ROTA_DIARRHEA", "HEPB", "INFLUENZA"], "data": [92.4, 89.1, 88.6, 76.5, 78.4, 58.1]}, "intro": [68000, 41000, 14200], "urbanRural": {"labels": ["Metro Hubs", "Suburban Zones", "Rural Agricultural", "Remote Tribal"], "urban": [91.5, 88.4, 84.2, 79.4], "rural": [86.2, 82.1, 76.8, 71.2]}, "education": [91.4, 84.2, 74.5], "strategy": {"labels": ["Centralized Health Clinic", "Door-to-Door Outreach", "Mobile Outreach Unit"], "cov": [86.4, 82.5, 79.1], "dropout": [7.8, 8.9, 11.2]}, "season": [75.1, 71.8, 78.2, 89.4], "waterfall": [91.7, 86.4, 82.1, 78.4], "priority": [0.0, 25.0, 75.0], "outbreakTable": [{"region": "AMRO", "country": "Brazil (BRA)", "pathogen": "Pertussis (DTP)", "inc": "24.2", "cov": "84.6%", "status": "STABLE", "statusClass": "status-opt", "action": "Sustain Routine Clinic Registry"}, {"region": "AMRO", "country": "United States (USA)", "pathogen": "Measles (MCV)", "inc": "3.4", "cov": "91.9%", "status": "CONTROLLED", "statusClass": "status-opt", "action": "Target Hesitancy Pockets"}, {"region": "AMRO", "country": "Mexico (MEX)", "pathogen": "Rotavirus Diarrhea", "inc": "28.1", "cov": "82.4%", "status": "STABLE", "statusClass": "status-opt", "action": "Reinforce Infant Catch-up"}], "forecastTable": [{"country": "United States (USA)", "antigen": "MCV2 (Measles Booster)", "target": "3,800,000", "proj": "3,850,000", "demand": "4,158,000", "tier": "Tier 3 Maintenance", "tierClass": "status-opt"}, {"country": "Brazil (BRA)", "antigen": "DTP3 (Pentavalent Booster)", "target": "2,900,000", "proj": "2,940,000", "demand": "3,175,200", "tier": "Tier 3 Maintenance", "tierClass": "status-opt"}, {"country": "Mexico (MEX)", "antigen": "ROTA (Rotavirus Vaccine)", "target": "2,100,000", "proj": "2,140,000", "demand": "2,311,200", "tier": "Tier 2 Outreach", "tierClass": "status-mod"}]}, "EURO": {"name": "EURO (European Region)", "kpis": {"cov": "91.5%", "covSub": "+1.5% Exceeds WHO 90% Target", "covClass": "up", "doses": "129.1 M", "dosesSub": "+0.4% Stable Population", "dosesClass": "up", "dropout": "12.0%", "dropoutSub": "High Completion Rate", "dropoutClass": "up", "inc": "3.5 / 100k", "incSub": "-91.4% Near-Elimination Status", "incClass": "up", "p2_red": "96.2%", "p2_redSub": "Exceptional Polio Suppression", "p2_redClass": "up", "p2_measles": "94.1%", "p2_measlesSub": "Elimination Threshold Met", "p2_measlesClass": "up", "p2_hubs": "0 Hubs", "p2_hubsSub": "No Active Epidemic Clusters", "p2_hubsClass": "up", "p2_rota": "-84.1%", "p2_rotaSub": "Universal Oral Rollout", "p2_rotaClass": "up", "p3_ur": "6.4%", "p3_urSub": "Urban (94.6%) vs Rural (88.2%)", "p3_urClass": "up", "p3_lit": "12.7%", "p3_litSub": "Tertiary (96.8%) vs Primary (84.1%)", "p3_litClass": "up", "p3_gp": "1.01", "p3_gpSub": "High Parity (F 92.0% / M 91.0%)", "p3_gpClass": "up", "p3_model": "Central Clinic", "p3_modelSub": "Universal Digital Health Cards", "p3_modelClass": "up", "p4_fc": "142.0 M", "p4_fcSub": "+0.5% Growth + 5% Buffer", "p4_fcClass": "up", "p4_em": "0 Nations", "p4_emSub": "100% Sustained Maintenance", "p4_emClass": "up", "p4_att": "1.8 M", "p4_attSub": "Minimal Booster Drop-off", "p4_attClass": "up", "p4_buf": "5.0%", "p4_bufSub": "High-Efficiency Supply Line", "p4_bufClass": "up"}, "trend": {"years": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"], "cov": [88.0, 88.6, 88.8, 88.9, 90.1, 90.6, 91.7, 92.0, 93.6, 93.7, 90.1, 88.9, 96.6, 95.1, 96.1], "inc": [4.1, 3.8, 4.2, 4.2, 3.8, 3.6, 3.1, 3.6, 3.4, 2.9, 4.2, 3.8, 2.5, 2.8, 2.8]}, "antigens": {"labels": ["MCV1", "DTP1", "BCG", "HEPB3", "ROTA", "POL3", "IPV1", "MCV2"], "data": [97.5, 96.6, 95.9, 92.8, 92.8, 92.3, 92.2, 85.5]}, "tier": [85.2, 12.4, 2.4], "reduction": {"labels": ["POLIO", "MEASLES", "DIPHTHERIA", "HEPB", "ROTA_DIARRHEA", "INFLUENZA"], "data": [96.2, 94.1, 93.8, 89.2, 84.1, 68.2]}, "intro": [28000, 12500, 3100], "urbanRural": {"labels": ["Major Metros", "Urban Towns", "Suburban Districts", "Rural Villages"], "urban": [96.2, 94.8, 92.4, 88.2], "rural": [93.1, 90.4, 87.5, 84.0]}, "education": [96.8, 91.2, 84.1], "strategy": {"labels": ["Centralized Health Clinic", "School-Based Drive", "Mobile Outreach Unit"], "cov": [93.4, 91.2, 87.5], "dropout": [4.2, 5.1, 7.8]}, "season": [72.4, 68.1, 74.2, 92.5], "waterfall": [97.5, 92.8, 89.4, 85.5], "priority": [0.0, 15.0, 85.0], "outbreakTable": [{"region": "EURO", "country": "Germany (DEU)", "pathogen": "Measles (MCV)", "inc": "3.5", "cov": "91.7%", "status": "CONTROLLED", "statusClass": "status-opt", "action": "Maintain Digital Registries"}, {"region": "EURO", "country": "United Kingdom (GBR)", "pathogen": "Seasonal Influenza", "inc": "3.5", "cov": "91.3%", "status": "CONTROLLED", "statusClass": "status-opt", "action": "Winter Influenza Booster Push"}], "forecastTable": [{"country": "Germany (DEU)", "antigen": "MCV2 (Measles Booster)", "target": "780,000", "proj": "785,000", "demand": "824,250", "tier": "Tier 3 Maintenance", "tierClass": "status-opt"}, {"country": "United Kingdom (GBR)", "antigen": "DTP3 (Pentavalent Booster)", "target": "720,000", "proj": "725,000", "demand": "761,250", "tier": "Tier 3 Maintenance", "tierClass": "status-opt"}]}, "SEARO": {"name": "SEARO (South-East Asia Region)", "kpis": {"cov": "73.5%", "covSub": "21.5% Gap to WHO 95% Target", "covClass": "down", "doses": "366.6 M", "dosesSub": "+2.2% Mega-Population Drive", "dosesClass": "up", "dropout": "14.2%", "dropoutSub": "High Second-Dose Drop-off", "dropoutClass": "down", "inc": "62.2 / 100k", "incSub": "-43.5% Case Reduction", "incClass": "up", "p2_red": "85.1%", "p2_redSub": "Polio-Free Certification", "p2_redClass": "up", "p2_measles": "79.8%", "p2_measlesSub": "Measles Suppression", "p2_measlesClass": "up", "p2_hubs": "2 Hubs", "p2_hubsSub": "Indo-Gangetic Influenza & Dengue", "p2_hubsClass": "down", "p2_rota": "-62.1%", "p2_rotaSub": "Rotavirus Diarrhea Reduction", "p2_rotaClass": "up", "p3_ur": "16.7%", "p3_urSub": "Urban (79.1%) vs Rural (62.4%)", "p3_urClass": "down", "p3_lit": "23.8%", "p3_litSub": "Tertiary (82.4%) vs Primary (58.6%)", "p3_litClass": "down", "p3_gp": "1.02", "p3_gpSub": "Equitable Parity (F 74.0% / M 72.5%)", "p3_gpClass": "up", "p3_model": "Door-to-Door", "p3_modelSub": "Essential for Dense Slum Pockets", "p3_modelClass": "up", "p4_fc": "403.3 M", "p4_fcSub": "+2.5% Birth Rate + 10% Buffer", "p4_fcClass": "up", "p4_em": "1 Nation", "p4_emSub": "Bangladesh Rural Cold-Chain", "p4_emClass": "down", "p4_att": "18.5 M", "p4_attSub": "Sub-district Tracking Gaps", "p4_attClass": "down", "p4_buf": "10.0%", "p4_bufSub": "Buffer for Monsoon Wastage", "p4_bufClass": "up"}, "trend": {"years": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"], "cov": [68.6, 69.2, 70.0, 70.0, 71.7, 72.8, 74.4, 73.6, 75.5, 76.2, 69.9, 71.0, 79.3, 79.6, 80.2], "inc": [76.6, 76.7, 74.1, 71.2, 67.7, 64.7, 56.9, 60.0, 55.6, 54.4, 71.7, 70.3, 43.1, 46.7, 43.4]}, "antigens": {"labels": ["MCV1", "DTP1", "BCG", "HEPB3", "IPV1", "POL3", "ROTA", "HPV"], "data": [80.1, 80.0, 79.9, 74.7, 74.1, 73.6, 73.3, 66.8]}, "tier": [21.4, 48.2, 30.4], "reduction": {"labels": ["POLIO", "DIPHTHERIA", "MEASLES", "ROTA_DIARRHEA", "HEPB", "INFLUENZA"], "data": [85.1, 82.4, 79.8, 62.1, 55.4, 42.1]}, "intro": [245000, 168000, 78000], "urbanRural": {"labels": ["Urban Megacities", "Tier-2 Cities", "Rural Heartland", "Coastal / Flood Belts"], "urban": [84.5, 79.8, 71.2, 62.4], "rural": [76.1, 69.5, 59.4, 48.2]}, "education": [82.4, 72.1, 58.6], "strategy": {"labels": ["Door-to-Door Outreach", "Mobile Outreach Unit", "Centralized Health Clinic"], "cov": [80.5, 76.2, 64.1], "dropout": [7.9, 9.4, 15.8]}, "season": [84.2, 86.1, 65.4, 72.8], "waterfall": [80.1, 74.7, 68.2, 62.4], "priority": [25.0, 55.0, 20.0], "outbreakTable": [{"region": "SEARO", "country": "India (IND)", "pathogen": "Seasonal Influenza", "inc": "215.2", "cov": "69.1%", "status": "OUTBREAK CLUSTER", "statusClass": "status-high", "action": "Deploy Strategic Antiviral Stockpiles"}, {"region": "SEARO", "country": "Bangladesh (BGD)", "pathogen": "Measles (MCV)", "inc": "79.5", "cov": "69.0%", "status": "HIGH RISK", "statusClass": "status-high", "action": "Accelerate Digital Tracking Drives"}, {"region": "SEARO", "country": "Indonesia (IDN)", "pathogen": "Rotavirus Diarrhea", "inc": "28.7", "cov": "82.3%", "status": "MODERATE RISK", "statusClass": "status-mod", "action": "Expand Cold-Chain Capacity Across Islands"}], "forecastTable": [{"country": "India (IND)", "antigen": "MCV1 (Measles 1st Dose)", "target": "23,800,000", "proj": "24,395,000", "demand": "26,834,500", "tier": "High Volume Hub", "tierClass": "status-opt"}, {"country": "Indonesia (IDN)", "antigen": "ROTA (Rotavirus Vaccine)", "target": "4,700,000", "proj": "4,817,500", "demand": "5,299,250", "tier": "Tier 2 Outreach", "tierClass": "status-mod"}, {"country": "Bangladesh (BGD)", "antigen": "DTP3 (Pentavalent Booster)", "target": "3,100,000", "proj": "3,177,500", "demand": "3,495,250", "tier": "Tier 1 Emergency", "tierClass": "status-high"}]}, "EMRO": {"name": "EMRO (Eastern Mediterranean Region)", "kpis": {"cov": "69.2%", "covSub": "25.8% Gap to WHO 95% Target", "covClass": "down", "doses": "318.8 M", "dosesSub": "+2.6% High Birth Rate", "dosesClass": "up", "dropout": "13.0%", "dropoutSub": "Conflict & Access Bottlenecks", "dropoutClass": "down", "inc": "78.4 / 100k", "incSub": "-34.5% Targeted Suppression", "incClass": "up", "p2_red": "82.8%", "p2_redSub": "Polio Surveillance Priority", "p2_redClass": "up", "p2_measles": "75.4%", "p2_measlesSub": "Measles Outbreak Response", "p2_measlesClass": "up", "p2_hubs": "1 Hub", "p2_hubsSub": "Endemic Polio & Diarrhea Zones", "p2_hubsClass": "down", "p2_rota": "-59.8%", "p2_rotaSub": "Oral Rotavirus Progress", "p2_rotaClass": "up", "p3_ur": "17.1%", "p3_urSub": "Urban (75.2%) vs Rural (58.1%)", "p3_urClass": "down", "p3_lit": "24.7%", "p3_litSub": "Tertiary (78.9%) vs Primary (54.2%)", "p3_litClass": "down", "p3_gp": "1.03", "p3_gpSub": "Equitable Access (F 69.8% / M 68.6%)", "p3_gpClass": "up", "p3_model": "Mobile Unit", "p3_modelSub": "76.4% Coverage in Remote Districts", "p3_modelClass": "up", "p4_fc": "350.7 M", "p4_fcSub": "+2.7% Birth Growth + 12% Buffer", "p4_fcClass": "up", "p4_em": "1 Nation", "p4_emSub": "Pakistan Polio Reservoirs", "p4_emClass": "down", "p4_att": "9.1 M", "p4_attSub": "Displaced Population Attrition", "p4_attClass": "down", "p4_buf": "12.0%", "p4_bufSub": "Buffer for Transport Logistics", "p4_bufClass": "up"}, "trend": {"years": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"], "cov": [64.4, 65.3, 65.7, 67.2, 66.0, 67.5, 68.5, 71.3, 71.4, 71.4, 65.9, 66.9, 75.5, 75.5, 75.4], "inc": [97.9, 95.7, 93.2, 87.1, 88.6, 86.0, 77.0, 67.9, 71.2, 66.7, 90.1, 89.0, 54.6, 57.0, 54.3]}, "antigens": {"labels": ["BCG", "MCV1", "DTP1", "IPV1", "ROTA", "HEPB3", "POL3", "HPV"], "data": [76.9, 75.1, 74.7, 70.4, 70.0, 69.4, 69.2, 62.2]}, "tier": [14.2, 41.5, 44.3], "reduction": {"labels": ["POLIO", "DIPHTHERIA", "MEASLES", "ROTA_DIARRHEA", "HEPB", "INFLUENZA"], "data": [82.8, 79.1, 75.4, 59.8, 53.1, 40.2]}, "intro": [142000, 98000, 46000], "urbanRural": {"labels": ["Urban Centers", "Provincial Towns", "Rural Agrarian", "Border / Conflict Zones"], "urban": [78.2, 73.4, 65.1, 58.1], "rural": [69.4, 63.8, 54.2, 41.5]}, "education": [78.9, 68.4, 54.2], "strategy": {"labels": ["Mobile Outreach Unit", "Door-to-Door Outreach", "Centralized Health Clinic"], "cov": [76.4, 74.1, 61.2], "dropout": [9.8, 10.5, 18.2]}, "season": [78.4, 81.2, 66.5, 74.1], "waterfall": [76.9, 70.4, 64.5, 57.8], "priority": [45.0, 40.0, 15.0], "outbreakTable": [{"region": "EMRO", "country": "Egypt (EGY)", "pathogen": "Rotavirus Diarrhea", "inc": "79.2", "cov": "68.9%", "status": "MODERATE RISK", "statusClass": "status-mod", "action": "Expand Oral Rotavirus Cold-Chain"}, {"region": "EMRO", "country": "Pakistan (PAK)", "pathogen": "Poliomyelitis (POL3)", "inc": "77.6", "cov": "69.5%", "status": "HIGH RISK", "statusClass": "status-high", "action": "Targeted Community Outbreak Response"}], "forecastTable": [{"country": "Pakistan (PAK)", "antigen": "POL3 (Polio 3rd Dose)", "target": "6,100,000", "proj": "6,260,000", "demand": "7,011,200", "tier": "Tier 1 Emergency", "tierClass": "status-high"}, {"country": "Egypt (EGY)", "antigen": "ROTA (Rotavirus Vaccine)", "target": "2,400,000", "proj": "2,460,000", "demand": "2,755,200", "tier": "Tier 2 Outreach", "tierClass": "status-mod"}]}, "WPRO": {"name": "WPRO (Western Pacific Region)", "kpis": {"cov": "87.0%", "covSub": "8.0% Gap to WHO 95% Target", "covClass": "down", "doses": "204.0 M", "dosesSub": "+0.7% High Compliance", "dosesClass": "up", "dropout": "12.0%", "dropoutSub": "High Completion Continuity", "dropoutClass": "up", "inc": "15.8 / 100k", "incSub": "-78.5% Dramatic Suppression", "incClass": "up", "p2_red": "91.8%", "p2_redSub": "Polio-Free Maintained", "p2_redClass": "up", "p2_measles": "87.2%", "p2_measlesSub": "Measles Elimination Close", "p2_measlesClass": "up", "p2_hubs": "1 Hub", "p2_hubsSub": "Winter Influenza Surveillance", "p2_hubsClass": "down", "p2_rota": "-79.4%", "p2_rotaSub": "High Diarrheal Prevention", "p2_rotaClass": "up", "p3_ur": "9.6%", "p3_urSub": "Urban (90.8%) vs Rural (81.2%)", "p3_urClass": "up", "p3_lit": "15.3%", "p3_litSub": "Tertiary (92.1%) vs Primary (76.8%)", "p3_litClass": "down", "p3_gp": "1.02", "p3_gpSub": "High Parity (F 87.5% / M 86.5%)", "p3_gpClass": "up", "p3_model": "Central Clinic", "p3_modelSub": "Automated Clinic Scheduling", "p3_modelClass": "up", "p4_fc": "224.4 M", "p4_fcSub": "+1.1% Growth + 8% Buffer", "p4_fcClass": "up", "p4_em": "0 Nations", "p4_emSub": "No Emergency Tiers", "p4_emClass": "up", "p4_att": "6.2 M", "p4_attSub": "Adolescent Vaccine Attrition", "p4_attClass": "down", "p4_buf": "8.0%", "p4_bufSub": "Streamlined Cold-Chain Hub", "p4_bufClass": "up"}, "trend": {"years": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"], "cov": [82.2, 82.4, 85.1, 84.6, 85.8, 87.6, 88.8, 87.9, 88.7, 89.7, 83.8, 85.1, 90.8, 91.8, 91.2], "inc": [18.8, 19.4, 16.4, 19.1, 18.2, 14.9, 14.3, 14.4, 14.6, 12.3, 18.6, 17.0, 12.9, 11.5, 14.1]}, "antigens": {"labels": ["DTP1", "BCG", "MCV1", "ROTA", "IPV1", "HEPB3", "POL3", "MCV2"], "data": [92.8, 92.5, 92.5, 88.8, 88.6, 87.6, 87.3, 80.5]}, "tier": [64.2, 28.5, 7.3], "reduction": {"labels": ["POLIO", "DIPHTHERIA", "MEASLES", "HEPB", "ROTA_DIARRHEA", "INFLUENZA"], "data": [91.8, 88.4, 87.2, 82.1, 79.4, 54.3]}, "intro": [85000, 48000, 18500], "urbanRural": {"labels": ["Megacities", "Prefectural Capitals", "Rural Counties", "Remote Islands"], "urban": [92.4, 89.5, 85.2, 81.2], "rural": [88.1, 84.2, 79.5, 74.8]}, "education": [92.1, 86.5, 76.8], "strategy": {"labels": ["Centralized Health Clinic", "School Vaccination Center", "Mobile Outreach Unit"], "cov": [89.4, 87.1, 82.4], "dropout": [5.8, 6.9, 9.5]}, "season": [76.8, 74.2, 79.1, 88.6], "waterfall": [92.8, 88.8, 84.6, 80.5], "priority": [0.0, 20.0, 80.0], "outbreakTable": [{"region": "WPRO", "country": "China (CHN)", "pathogen": "Seasonal Influenza", "inc": "28.0", "cov": "82.4%", "status": "MODERATE RISK", "statusClass": "status-mod", "action": "Winter Surveillance & Stockpiling"}, {"region": "WPRO", "country": "Japan (JPN)", "pathogen": "Pertussis (DTP)", "inc": "3.5", "cov": "91.7%", "status": "CONTROLLED", "statusClass": "status-opt", "action": "Routine Electronic Registry Maintenance"}], "forecastTable": [{"country": "China (CHN)", "antigen": "DTP3 (Pentavalent Booster)", "target": "18,400,000", "proj": "18,860,000", "demand": "20,746,000", "tier": "High Volume Hub", "tierClass": "status-opt"}, {"country": "Japan (JPN)", "antigen": "MCV2 (Measles Booster)", "target": "850,000", "proj": "860,000", "demand": "928,800", "tier": "Tier 3 Maintenance", "tierClass": "status-opt"}]}};
+
+        window.dashboardCharts = {};
 
         // Render Charts on Load
         window.addEventListener('DOMContentLoaded', () => {
-            initPage1Charts();
-            initPage2Charts();
-            initPage3Charts();
-            initPage4Charts();
+            initAllCharts();
+            updateDashboardData();
         });
 
-        function initPage1Charts() {
-            // Trend Dual-Axis Chart
-            new Chart(document.getElementById('trendChart'), {
+        function resetFilters() {
+            document.getElementById('regionFilter').value = 'ALL';
+            document.getElementById('yearFilter').value = 'ALL';
+            updateDashboardData();
+        }
+
+        function initAllCharts() {
+            // 1. Trend Dual-Axis Chart
+            const ctxTrend = document.getElementById('trendChart').getContext('2d');
+            window.dashboardCharts.trend = new Chart(ctxTrend, {
                 type: 'line',
                 data: {
-                    labels: ['2010', '2012', '2014', '2016', '2018', '2020', '2022', '2024'],
+                    labels: DATA.ALL.trend.years,
                     datasets: [
                         {
                             label: 'Coverage % (Left Axis)',
-                            data: [74.2, 75.8, 77.1, 78.4, 79.2, 73.5, 77.8, 79.5],
+                            data: DATA.ALL.trend.cov,
                             borderColor: '#10b981',
                             backgroundColor: 'rgba(16, 185, 129, 0.1)',
                             fill: true,
+                            tension: 0.25,
                             yAxisID: 'y'
                         },
                         {
                             label: 'Incidence Rate / 100k (Right Axis)',
-                            data: [112.4, 98.2, 86.5, 78.1, 71.4, 82.3, 68.5, 62.4],
+                            data: DATA.ALL.trend.inc,
                             borderColor: '#ef4444',
                             backgroundColor: 'transparent',
                             borderDash: [5, 5],
+                            tension: 0.25,
                             yAxisID: 'y1'
                         }
                     ]
                 },
                 options: {
                     responsive: true,
+                    interaction: { mode: 'index', intersect: false },
                     scales: {
-                        y: { position: 'left', min: 60, max: 100, title: { display: true, text: 'Coverage %' } },
-                        y1: { position: 'right', min: 40, max: 130, title: { display: true, text: 'Incidence / 100k' }, grid: { drawOnChartArea: false } }
+                        y: { position: 'left', min: 40, max: 100, title: { display: true, text: 'Coverage %' } },
+                        y1: { position: 'right', min: 0, max: 120, title: { display: true, text: 'Incidence / 100k' }, grid: { drawOnChartArea: false } }
                     }
                 }
             });
 
-            // Region Bar Chart
-            new Chart(document.getElementById('regionBarChart'), {
+            // 2. Region Bar Chart
+            const ctxRegion = document.getElementById('regionBarChart').getContext('2d');
+            window.dashboardCharts.regionBar = new Chart(ctxRegion, {
                 type: 'bar',
                 data: {
                     labels: ['EURO', 'AMRO', 'WPRO', 'SEARO', 'EMRO', 'AFRO'],
                     datasets: [{
                         label: 'Mean Coverage %',
-                        data: [87.1, 85.4, 81.2, 74.8, 73.5, 67.8],
-                        backgroundColor: ['#1e3a8a', '#2563eb', '#3b82f6', '#f59e0b', '#f97316', '#ef4444']
+                        data: [91.5, 85.4, 87.0, 73.5, 69.2, 73.6],
+                        backgroundColor: ['#1e3a8a', '#2563eb', '#3b82f6', '#f59e0b', '#f97316', '#ef4444'],
+                        borderWidth: 1,
+                        borderColor: '#e2e8f0'
                     }]
                 },
                 options: {
                     responsive: true,
                     plugins: { legend: { display: false } },
-                    scales: { y: { min: 50, max: 100 } }
+                    scales: { y: { min: 50, max: 100, title: { display: true, text: 'Coverage %' } } }
                 }
             });
 
-            // Antigen Performance
-            new Chart(document.getElementById('antigenChart'), {
+            // 3. Antigen Performance
+            const ctxAntigen = document.getElementById('antigenChart').getContext('2d');
+            window.dashboardCharts.antigen = new Chart(ctxAntigen, {
                 type: 'bar',
                 data: {
-                    labels: ['BCG', 'DTP1', 'MCV1', 'POL3', 'HEPB3', 'MCV2', 'PCV3', 'ROTAC'],
+                    labels: DATA.ALL.antigens.labels,
                     datasets: [{
-                        label: 'Average Coverage %',
-                        data: [84.5, 82.8, 82.1, 79.9, 75.2, 68.2, 67.4, 66.1],
-                        backgroundColor: '#3b82f6'
+                        label: 'Coverage %',
+                        data: DATA.ALL.antigens.data,
+                        backgroundColor: '#3b82f6',
+                        borderRadius: 4
                     }]
                 },
                 options: {
                     responsive: true,
-                    scales: { y: { min: 50, max: 100 } }
+                    plugins: { legend: { display: false } },
+                    scales: { y: { min: 50, max: 100, title: { display: true, text: 'Coverage %' } } }
                 }
             });
 
-            // Tier Donut
-            new Chart(document.getElementById('tierDonutChart'), {
+            // 4. Tier Donut
+            const ctxTier = document.getElementById('tierDonutChart').getContext('2d');
+            window.dashboardCharts.tier = new Chart(ctxTier, {
                 type: 'doughnut',
                 data: {
                     labels: ['Optimal (>=90%)', 'Moderate (75-89%)', 'Sub-optimal (<75%)'],
                     datasets: [{
-                        data: [34.2, 37.4, 28.4],
+                        data: DATA.ALL.tier,
                         backgroundColor: ['#10b981', '#f59e0b', '#ef4444']
                     }]
                 },
                 options: { responsive: true }
             });
-        }
 
-        function initPage2Charts() {
-            // Reduction Bar
-            new Chart(document.getElementById('reductionBarChart'), {
+            // 5. Reduction Bar
+            const ctxRed = document.getElementById('reductionBarChart').getContext('2d');
+            window.dashboardCharts.reduction = new Chart(ctxRed, {
                 type: 'bar',
                 data: {
-                    labels: ['POLIO', 'DIPHTHERIA', 'MEASLES', 'ROTA_DIARRHEA', 'HEPB', 'INFLUENZA'],
+                    labels: DATA.ALL.reduction.labels,
                     datasets: [{
                         label: 'Case Reduction (%)',
-                        data: [88.4, 85.2, 82.1, 68.4, 62.8, 48.6],
-                        backgroundColor: '#10b981'
+                        data: DATA.ALL.reduction.data,
+                        backgroundColor: '#10b981',
+                        borderRadius: 4
                     }]
                 },
                 options: {
                     indexAxis: 'y',
                     responsive: true,
-                    scales: { x: { max: 100 } }
+                    plugins: { legend: { display: false } },
+                    scales: { x: { min: 0, max: 100, title: { display: true, text: '% Reduction from Peak' } } }
                 }
             });
 
-            // Pre vs Post Intro
-            new Chart(document.getElementById('introCompareChart'), {
+            // 6. Pre vs Post Intro
+            const ctxIntro = document.getElementById('introCompareChart').getContext('2d');
+            window.dashboardCharts.intro = new Chart(ctxIntro, {
                 type: 'bar',
                 data: {
                     labels: ['No (Pre-Intro)', 'Partial (Phased)', 'Yes (Full Rollout)'],
                     datasets: [{
                         label: 'Mean Annual Cases',
-                        data: [121500, 82400, 38400],
-                        backgroundColor: ['#ef4444', '#f59e0b', '#10b981']
+                        data: DATA.ALL.intro,
+                        backgroundColor: ['#ef4444', '#f59e0b', '#10b981'],
+                        borderRadius: 4
                     }]
                 },
-                options: { responsive: true }
+                options: {
+                    responsive: true,
+                    plugins: { legend: { display: false } },
+                    scales: { y: { title: { display: true, text: 'Annual Case Count' } } }
+                }
             });
-        }
 
-        function initPage3Charts() {
-            // Urban Rural
-            new Chart(document.getElementById('urbanRuralChart'), {
+            // 7. Urban vs Rural
+            const ctxUR = document.getElementById('urbanRuralChart').getContext('2d');
+            window.dashboardCharts.urbanRural = new Chart(ctxUR, {
                 type: 'bar',
                 data: {
-                    labels: ['High Income', 'Upper-Middle', 'Lower-Middle', 'Low Income'],
+                    labels: DATA.ALL.urbanRural.labels,
                     datasets: [
-                        { label: 'Urban Coverage %', data: [89.4, 85.2, 81.1, 74.5], backgroundColor: '#2563eb' },
-                        { label: 'Rural Coverage %', data: [84.1, 76.8, 68.2, 58.4], backgroundColor: '#f97316' }
+                        { label: 'Urban Coverage %', data: DATA.ALL.urbanRural.urban, backgroundColor: '#2563eb', borderRadius: 4 },
+                        { label: 'Rural Coverage %', data: DATA.ALL.urbanRural.rural, backgroundColor: '#f97316', borderRadius: 4 }
                     ]
                 },
-                options: { responsive: true }
+                options: {
+                    responsive: true,
+                    scales: { y: { min: 40, max: 100, title: { display: true, text: 'Coverage %' } } }
+                }
             });
 
-            // Education
-            new Chart(document.getElementById('educationChart'), {
+            // 8. Education
+            const ctxEdu = document.getElementById('educationChart').getContext('2d');
+            window.dashboardCharts.education = new Chart(ctxEdu, {
                 type: 'bar',
                 data: {
                     labels: ['Tertiary Education', 'Secondary Education', 'Primary or Less'],
                     datasets: [{
                         label: 'Child Coverage %',
-                        data: [86.5, 77.8, 65.4],
-                        backgroundColor: ['#10b981', '#3b82f6', '#ef4444']
+                        data: DATA.ALL.education,
+                        backgroundColor: ['#10b981', '#3b82f6', '#ef4444'],
+                        borderRadius: 4
                     }]
                 },
-                options: { responsive: true }
+                options: {
+                    responsive: true,
+                    plugins: { legend: { display: false } },
+                    scales: { y: { min: 40, max: 100, title: { display: true, text: 'Coverage %' } } }
+                }
             });
 
-            // Strategy
-            new Chart(document.getElementById('strategyChart'), {
+            // 9. Delivery Strategy
+            const ctxStrat = document.getElementById('strategyChart').getContext('2d');
+            window.dashboardCharts.strategy = new Chart(ctxStrat, {
                 type: 'bar',
                 data: {
-                    labels: ['Door-to-Door Outreach', 'Mobile Outreach Unit', 'Centralized Health Clinic'],
+                    labels: DATA.ALL.strategy.labels,
                     datasets: [
-                        { label: 'Coverage %', data: [79.6, 77.8, 68.2], backgroundColor: '#3b82f6' },
-                        { label: 'Dropout Rate %', data: [8.4, 9.8, 14.1], backgroundColor: '#ef4444' }
+                        { label: 'Coverage %', data: DATA.ALL.strategy.cov, backgroundColor: '#3b82f6', borderRadius: 4 },
+                        { label: 'Dropout Rate %', data: DATA.ALL.strategy.dropout, backgroundColor: '#ef4444', borderRadius: 4 }
                     ]
                 },
-                options: { responsive: true }
+                options: {
+                    responsive: true,
+                    scales: { y: { min: 0, max: 100 } }
+                }
             });
 
-            // Seasonality
-            new Chart(document.getElementById('seasonChart'), {
+            // 10. Seasonality
+            const ctxSeason = document.getElementById('seasonChart').getContext('2d');
+            window.dashboardCharts.season = new Chart(ctxSeason, {
                 type: 'polarArea',
                 data: {
                     labels: ['Q1 (Jan-Mar)', 'Q2 (Apr-Jun)', 'Q3 (Jul-Sep)', 'Q4 (Oct-Dec)'],
                     datasets: [{
-                        data: [74.5, 72.8, 76.4, 83.2],
+                        data: DATA.ALL.season,
                         backgroundColor: ['#38bdf8', '#818cf8', '#fb923c', '#4ade80']
                     }]
                 },
                 options: { responsive: true }
             });
-        }
 
-        function initPage4Charts() {
-            // Waterfall Chart Simulation
-            new Chart(document.getElementById('waterfallChart'), {
+            // 11. Waterfall Funnel
+            const ctxWater = document.getElementById('waterfallChart').getContext('2d');
+            window.dashboardCharts.waterfall = new Chart(ctxWater, {
                 type: 'bar',
                 data: {
                     labels: ['Dose 1 (Birth)', 'Dose 2 (6 Wks)', 'Dose 3 (14 Wks)', 'Booster (15 Mos)'],
                     datasets: [{
                         label: 'Cohort Retention %',
-                        data: [84.5, 78.4, 72.1, 68.1],
-                        backgroundColor: ['#10b981', '#3b82f6', '#f59e0b', '#ef4444']
+                        data: DATA.ALL.waterfall,
+                        backgroundColor: ['#10b981', '#3b82f6', '#f59e0b', '#ef4444'],
+                        borderRadius: 4
                     }]
                 },
-                options: { responsive: true }
+                options: {
+                    responsive: true,
+                    plugins: { legend: { display: false } },
+                    scales: { y: { min: 40, max: 100, title: { display: true, text: 'Retention %' } } }
+                }
             });
 
-            // Priority Donut
-            new Chart(document.getElementById('priorityDonutChart'), {
-                type: 'pie',
+            // 12. Priority Donut
+            const ctxPri = document.getElementById('priorityDonutChart').getContext('2d');
+            window.dashboardCharts.priority = new Chart(ctxPri, {
+                type: 'doughnut',
                 data: {
                     labels: ['Tier 1: Emergency Intervention', 'Tier 2: Outreach Expansion', 'Tier 3: Sustained Maintenance'],
                     datasets: [{
-                        data: [20.0, 46.7, 33.3],
+                        data: DATA.ALL.priority,
                         backgroundColor: ['#ef4444', '#f59e0b', '#10b981']
                     }]
                 },
@@ -928,14 +979,205 @@
         }
 
         function updateDashboardData() {
-            const reg = document.getElementById('regionFilter').value;
-            if (reg === 'AFRO') {
-                document.getElementById('kpiCoverage').innerText = '67.8%';
-            } else if (reg === 'EURO') {
-                document.getElementById('kpiCoverage').innerText = '87.1%';
-            } else {
-                document.getElementById('kpiCoverage').innerText = '76.8%';
+            const regKey = document.getElementById('regionFilter').value;
+            const yearKey = document.getElementById('yearFilter').value;
+            const regData = DATA[regKey] || DATA.ALL;
+
+            // 1. Update Active Filter Chips and Status Banner
+            const regName = regKey === 'ALL' ? 'Global (All Regions)' : regData.name;
+            const yrLabel = yearKey === 'ALL' ? '2010 - 2024' : (yearKey === 'RECENT' ? '2020 - 2024 (Recent 5 Yrs)' : '2010 - 2019 (Pre-Pandemic)');
+            
+            document.getElementById('chipRegion').innerHTML = `<i class="fa-solid fa-earth-americas"></i> ${regName}`;
+            document.getElementById('chipYear').innerHTML = `<i class="fa-regular fa-calendar"></i> ${yrLabel}`;
+            document.getElementById('slicerStatusText').innerText = `Active Filter: ${regName} | Time Horizon: ${yrLabel}`;
+
+            // 2. Update KPI Cards Across All Tabs
+            const k = regData.kpis;
+            // Tab 1 KPIs
+            document.getElementById('kpiCoverage').innerText = k.cov;
+            document.getElementById('kpiCoverageSub').innerHTML = `<i class="fa-solid ${k.covClass === 'up' ? 'fa-arrow-up' : 'fa-arrow-down'}"></i> ${k.covSub}`;
+            document.getElementById('kpiCoverageSub').className = `kpi-sub ${k.covClass}`;
+
+            document.getElementById('kpiDoses').innerText = k.doses;
+            document.getElementById('kpiDosesSub').innerHTML = `<i class="fa-solid fa-arrow-up"></i> ${k.dosesSub}`;
+            document.getElementById('kpiDosesSub').className = `kpi-sub ${k.dosesClass}`;
+
+            document.getElementById('kpiDropout').innerText = k.dropout;
+            document.getElementById('kpiDropoutSub').innerHTML = `<i class="fa-solid ${k.dropoutClass === 'up' ? 'fa-circle-check' : 'fa-triangle-exclamation'}"></i> ${k.dropoutSub}`;
+            document.getElementById('kpiDropoutSub').className = `kpi-sub ${k.dropoutClass}`;
+
+            document.getElementById('kpiIncidence').innerText = k.inc;
+            document.getElementById('kpiIncidenceSub').innerHTML = `<i class="fa-solid fa-arrow-down"></i> ${k.incSub}`;
+            document.getElementById('kpiIncidenceSub').className = `kpi-sub ${k.incClass}`;
+
+            // Tab 2 KPIs
+            document.getElementById('kpiMaxReduction').innerText = k.p2_red;
+            document.getElementById('kpiMaxReductionSub').innerText = k.p2_redSub;
+            document.getElementById('kpiMeaslesSupp').innerText = k.p2_measles;
+            document.getElementById('kpiMeaslesSuppSub').innerText = k.p2_measlesSub;
+            document.getElementById('kpiOutbreakHubs').innerText = k.p2_hubs;
+            document.getElementById('kpiOutbreakHubsSub').innerText = k.p2_hubsSub;
+            document.getElementById('kpiRotaImpact').innerText = k.p2_rota;
+            document.getElementById('kpiRotaImpactSub').innerText = k.p2_rotaSub;
+
+            // Tab 3 KPIs
+            document.getElementById('kpiUrbanRural').innerText = k.p3_ur;
+            document.getElementById('kpiUrbanRuralSub').innerText = k.p3_urSub;
+            document.getElementById('kpiLiteracyGap').innerText = k.p3_lit;
+            document.getElementById('kpiLiteracyGapSub').innerText = k.p3_litSub;
+            document.getElementById('kpiGenderParity').innerText = k.p3_gp;
+            document.getElementById('kpiGenderParitySub').innerText = k.p3_gpSub;
+            document.getElementById('kpiDeliveryModel').innerText = k.p3_model;
+            document.getElementById('kpiDeliveryModelSub').innerText = k.p3_modelSub;
+
+            // Tab 4 KPIs
+            document.getElementById('kpiForecastDoses').innerText = k.p4_fc;
+            document.getElementById('kpiForecastDosesSub').innerText = k.p4_fcSub;
+            document.getElementById('kpiEmergencyNations').innerText = k.p4_em;
+            document.getElementById('kpiEmergencyNationsSub').innerText = k.p4_emSub;
+            document.getElementById('kpiAttritionVolume').innerText = k.p4_att;
+            document.getElementById('kpiAttritionVolumeSub').innerText = k.p4_attSub;
+            document.getElementById('kpiBufferMargin').innerText = k.p4_buf;
+            document.getElementById('kpiBufferMarginSub').innerText = k.p4_bufSub;
+
+            // 3. Update Trend Chart with Sliced Years
+            if (window.dashboardCharts.trend) {
+                let years = [...regData.trend.years];
+                let cov = [...regData.trend.cov];
+                let inc = [...regData.trend.inc];
+
+                if (yearKey === 'RECENT') {
+                    years = years.slice(-5);
+                    cov = cov.slice(-5);
+                    inc = inc.slice(-5);
+                } else if (yearKey === 'PRE') {
+                    years = years.slice(0, 10);
+                    cov = cov.slice(0, 10);
+                    inc = inc.slice(0, 10);
+                }
+
+                window.dashboardCharts.trend.data.labels = years;
+                window.dashboardCharts.trend.data.datasets[0].data = cov;
+                window.dashboardCharts.trend.data.datasets[1].data = inc;
+                window.dashboardCharts.trend.update();
             }
+
+            // 4. Update Region Bar Chart (Highlight Active Region)
+            if (window.dashboardCharts.regionBar) {
+                const regions = ['EURO', 'AMRO', 'WPRO', 'SEARO', 'EMRO', 'AFRO'];
+                const bgColors = regions.map(r => {
+                    if (regKey === 'ALL') {
+                        const palette = { 'EURO':'#1e3a8a', 'AMRO':'#2563eb', 'WPRO':'#3b82f6', 'SEARO':'#f59e0b', 'EMRO':'#f97316', 'AFRO':'#ef4444' };
+                        return palette[r];
+                    }
+                    return r === regKey ? '#2563eb' : '#cbd5e1';
+                });
+                const borderColors = regions.map(r => r === regKey ? '#1e3a8a' : '#e2e8f0');
+                const borderWidths = regions.map(r => r === regKey ? 2 : 1);
+
+                window.dashboardCharts.regionBar.data.datasets[0].backgroundColor = bgColors;
+                window.dashboardCharts.regionBar.data.datasets[0].borderColor = borderColors;
+                window.dashboardCharts.regionBar.data.datasets[0].borderWidth = borderWidths;
+                window.dashboardCharts.regionBar.update();
+            }
+
+            // 5. Update Antigen Performance Chart
+            if (window.dashboardCharts.antigen) {
+                window.dashboardCharts.antigen.data.labels = regData.antigens.labels;
+                window.dashboardCharts.antigen.data.datasets[0].data = regData.antigens.data;
+                window.dashboardCharts.antigen.update();
+            }
+
+            // 6. Update Tier Donut Chart
+            if (window.dashboardCharts.tier) {
+                window.dashboardCharts.tier.data.datasets[0].data = regData.tier;
+                window.dashboardCharts.tier.update();
+            }
+
+            // 7. Update Reduction Bar Chart
+            if (window.dashboardCharts.reduction) {
+                window.dashboardCharts.reduction.data.labels = regData.reduction.labels;
+                window.dashboardCharts.reduction.data.datasets[0].data = regData.reduction.data;
+                window.dashboardCharts.reduction.update();
+            }
+
+            // 8. Update Intro Compare Chart
+            if (window.dashboardCharts.intro) {
+                window.dashboardCharts.intro.data.datasets[0].data = regData.intro;
+                window.dashboardCharts.intro.update();
+            }
+
+            // 9. Update Urban Rural Chart
+            if (window.dashboardCharts.urbanRural) {
+                window.dashboardCharts.urbanRural.data.labels = regData.urbanRural.labels;
+                window.dashboardCharts.urbanRural.data.datasets[0].data = regData.urbanRural.urban;
+                window.dashboardCharts.urbanRural.data.datasets[1].data = regData.urbanRural.rural;
+                window.dashboardCharts.urbanRural.update();
+            }
+
+            // 10. Update Education Chart
+            if (window.dashboardCharts.education) {
+                window.dashboardCharts.education.data.datasets[0].data = regData.education;
+                window.dashboardCharts.education.update();
+            }
+
+            // 11. Update Strategy Chart
+            if (window.dashboardCharts.strategy) {
+                window.dashboardCharts.strategy.data.labels = regData.strategy.labels;
+                window.dashboardCharts.strategy.data.datasets[0].data = regData.strategy.cov;
+                window.dashboardCharts.strategy.data.datasets[1].data = regData.strategy.dropout;
+                window.dashboardCharts.strategy.update();
+            }
+
+            // 12. Update Seasonality Chart
+            if (window.dashboardCharts.season) {
+                window.dashboardCharts.season.data.datasets[0].data = regData.season;
+                window.dashboardCharts.season.update();
+            }
+
+            // 13. Update Waterfall Funnel Chart
+            if (window.dashboardCharts.waterfall) {
+                window.dashboardCharts.waterfall.data.datasets[0].data = regData.waterfall;
+                window.dashboardCharts.waterfall.update();
+            }
+
+            // 14. Update Priority Donut Chart
+            if (window.dashboardCharts.priority) {
+                window.dashboardCharts.priority.data.datasets[0].data = regData.priority;
+                window.dashboardCharts.priority.update();
+            }
+
+            // 15. Update Tables
+            const outbreakTbody = document.getElementById('outbreakTableBody');
+            outbreakTbody.innerHTML = '';
+            regData.outbreakTable.forEach(row => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td><strong>${row.region}</strong></td>
+                    <td>${row.country}</td>
+                    <td>${row.pathogen}</td>
+                    <td>${row.inc}</td>
+                    <td><strong>${row.cov}</strong></td>
+                    <td><span class="status-pill ${row.statusClass}">${row.status}</span></td>
+                    <td>${row.action}</td>
+                `;
+                outbreakTbody.appendChild(tr);
+            });
+
+            const forecastTbody = document.getElementById('forecastTableBody');
+            forecastTbody.innerHTML = '';
+            regData.forecastTable.forEach(row => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td><strong>${row.country}</strong></td>
+                    <td>${row.antigen}</td>
+                    <td>${row.target}</td>
+                    <td>${row.proj}</td>
+                    <td><strong>${row.demand}</strong></td>
+                    <td><span class="status-pill ${row.tierClass}">${row.tier}</span></td>
+                `;
+                forecastTbody.appendChild(tr);
+            });
         }
     </script>
 </body>
