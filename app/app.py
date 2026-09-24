@@ -231,9 +231,20 @@ def apply_minimal_theme(fig, height=350, show_legend=True):
     fig.update_yaxes(showgrid=True, gridcolor="#f1f5f9", zeroline=False, linecolor="#e2e8f0")
     return fig
 
-DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "database", "vaccination_db.sqlite")
-if not os.path.exists(DB_PATH):
-    DB_PATH = "/Users/tanimnaha/Downloads/Vaccination_DataAnalysis/database/vaccination_db.sqlite"
+def get_project_file(rel_path):
+    possible_paths = [
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), rel_path),
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", rel_path),
+        os.path.join(os.getcwd(), rel_path),
+        os.path.join("/mount/src/vaccination_dataanalysis", rel_path),
+        os.path.join("/Users/tanimnaha/Downloads/Vaccination_DataAnalysis", rel_path),
+    ]
+    for p in possible_paths:
+        if os.path.exists(p):
+            return os.path.abspath(p)
+    return rel_path
+
+DB_PATH = get_project_file(os.path.join("database", "vaccination_db.sqlite"))
 
 @st.cache_data(ttl=3600)
 def load_all_data():
@@ -1099,15 +1110,14 @@ elif menu == "📊 6. Power BI Interactive Dashboard":
         """)
 
     # Embed HTML dashboard
-    pbi_html_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "power_bi", "interactive_dashboard.html")
-    if not os.path.exists(pbi_html_path):
-        pbi_html_path = "/Users/tanimnaha/Downloads/Vaccination_DataAnalysis/power_bi/interactive_dashboard.html"
-
-    with open(pbi_html_path, "r", encoding="utf-8") as f:
-        pbi_content = f.read()
-
-    import streamlit.components.v1 as components
-    components.html(pbi_content, height=880, scrolling=True)
+    pbi_html_path = get_project_file(os.path.join("power_bi", "interactive_dashboard.html"))
+    if os.path.exists(pbi_html_path):
+        with open(pbi_html_path, "r", encoding="utf-8") as f:
+            pbi_content = f.read()
+        import streamlit.components.v1 as components
+        components.html(pbi_content, height=880, scrolling=True)
+    else:
+        st.info("Power BI interactive prototype is available in `power_bi/interactive_dashboard.html`.")
 
 # ============================================================================
 # MODULE 7: DOCUMENTATION & METADATA
